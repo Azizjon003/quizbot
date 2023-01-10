@@ -4,6 +4,8 @@ const session = require("./core/session");
 const stage = require("./scenes/index");
 const botStart = require("./utils/startbot");
 
+require("./database");
+require("./redis/redis");
 bot.use(session);
 bot.use((ctx, next) => {
   ctx.session ?? (ctx.session = {});
