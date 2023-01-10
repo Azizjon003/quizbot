@@ -24,6 +24,7 @@ scene.hears(/^-?\d*\.?\d*$/, async (ctx) => {
       data[0].variant2,
       data[0].variant3,
     ];
+    const txt = `1/[${text}]` + savol;
     let randArr = shuffle(quizArr);
     let a;
     for (let i = 0; i < randArr.length; i++) {
@@ -32,14 +33,59 @@ scene.hears(/^-?\d*\.?\d*$/, async (ctx) => {
       }
     }
     if (savol && quizArr && a) {
-      // sleep(5000);
-      console.log("Test");
-      await ctx.telegram.sendPoll("-1001361256408", savol, quizArr, {
-        type: "quiz",
-        is_anonymous: false,
-        correct_option_id: a,
-        open_period: 30,
-      });
+      if (txt.length > 300) {
+        await ctx.telegram.sendMessage("-1001480317018", txt);
+        await ctx.telegram.sendPoll("-1001480317018", "savol", quizArr, {
+          type: "quiz",
+          is_anonymous: false,
+          correct_option_id: a,
+          open_period: 30,
+        });
+      }
+      if (
+        quizArr[0].length > 100 ||
+        quizArr.length[1] > 100 ||
+        quizArr.length[2] > 100 ||
+        quizArr.length[3] > 100
+      ) {
+        await ctx.telegram.sendMessage(
+          "-1001480317018",
+          txt +
+            "\n" +
+            quizArr[0] +
+            "\n" +
+            quizArr[1] +
+            "\n" +
+            quizArr[2] +
+            "\n" +
+            quizArr[3]
+        );
+        await ctx.telegram.sendPoll(
+          "-1001480317018",
+          "savol",
+          ["A", "B", "C", "D"],
+          {
+            type: "quiz",
+            is_anonymous: false,
+            correct_option_id: a,
+            open_period: 30,
+          }
+        );
+      }
+      if (
+        txt.length < 300 &&
+        (quizArr[0].length < 100 ||
+          quizArr[1].length < 100 ||
+          quizArr[2].length < 100 ||
+          quizArr[3].length < 100)
+      ) {
+        await ctx.telegram.sendPoll("-1001480317018", savol, quizArr, {
+          type: "quiz",
+          is_anonymous: false,
+          correct_option_id: a,
+          open_period: 30,
+        });
+      }
     }
     data.splice(data[0], 1);
     redis.set(`${id}`, JSON.stringify(data));
