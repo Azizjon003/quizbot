@@ -2,6 +2,7 @@ const { Scenes, Markup } = require("telegraf");
 const db = require("../database/index");
 const enabled = require("../utils/enanble");
 const user = db.user;
+const Group = db.testGroup;
 const scene = new Scenes.BaseScene("start");
 
 scene.enter(async (ctx) => {
@@ -26,10 +27,18 @@ scene.hears("Test Yuklash", (ctx) => {
   ctx.reply("Test yuklash uchun faylni yuboring");
   ctx.scene.enter("testUpload");
 });
-scene.hears("Testni boshlash", (ctx) => {
-  ctx.reply(
-    "Testni boshlash .Biroz vaqt olishi mumkin.Nechta test yubormoqchisiz.Test faqat TUIT HUB uchun"
-  );
+scene.hears("Testni boshlash", async (ctx) => {
+  const id = ctx.update.message.from.id;
+  const group = await Group.findAll({
+    attributes: ["name"],
+  });
+  let arr = [];
+  group.forEach((el) => {
+    arr.push(el.name);
+  });
+  const keyboard = Markup.keyboard(arr).resize().oneTime();
+  ctx.telegram.sendMessage(id, "Test Guruhlarini tanlang", keyboard);
+
   ctx.scene.enter("testStart");
 });
 module.exports = scene;

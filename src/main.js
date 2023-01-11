@@ -1,5 +1,5 @@
 require("dotenv").config();
-const bot = require("./core/bot");
+const { bot } = require("./core/bot");
 const session = require("./core/session");
 const stage = require("./scenes/index");
 const botStart = require("./utils/startbot");
