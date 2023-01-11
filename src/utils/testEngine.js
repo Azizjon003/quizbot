@@ -12,6 +12,7 @@ const testEnngine = async (id) => {
     const randNum = Math.floor(Math.random() * testLength);
     arr.push(test[randNum]);
   }
+  console.log("Uzunligi", arr.length);
   return arr;
 };
 module.exports = testEnngine;

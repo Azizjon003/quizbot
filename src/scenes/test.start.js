@@ -9,6 +9,7 @@ const fs = require("fs");
 const shuffle = require("../utils/shuffle");
 const createTestEngine = require("../utils/writeDatabase");
 const testEnngine = require("../utils/testEngine");
+const client = require("../redis/redis");
 
 scene.hears(/^-?\d*\.?\d*$/, async (ctx) => {
   const shart = await enabled(ctx, user);
@@ -32,6 +33,7 @@ scene.hears(/^-?\d*\.?\d*$/, async (ctx) => {
         a = i;
       }
     }
+
     if (savol && quizArr && a) {
       if (txt.length > 300) {
         await ctx.telegram.sendMessage("-1001480317018", txt);
@@ -44,9 +46,9 @@ scene.hears(/^-?\d*\.?\d*$/, async (ctx) => {
       }
       if (
         quizArr[0].length > 100 ||
-        quizArr.length[1] > 100 ||
-        quizArr.length[2] > 100 ||
-        quizArr.length[3] > 100
+        quizArr[1].length > 100 ||
+        quizArr[2].length > 100 ||
+        quizArr[3].length > 100
       ) {
         await ctx.telegram.sendMessage(
           "-1001480317018",
@@ -68,7 +70,7 @@ scene.hears(/^-?\d*\.?\d*$/, async (ctx) => {
             type: "quiz",
             is_anonymous: false,
             correct_option_id: a,
-            open_period: 30,
+            open_period: 10,
           }
         );
       }
@@ -79,16 +81,24 @@ scene.hears(/^-?\d*\.?\d*$/, async (ctx) => {
           quizArr[2].length < 100 ||
           quizArr[3].length < 100)
       ) {
-        await ctx.telegram.sendPoll("-1001480317018", savol, quizArr, {
+        await ctx.telegram.sendPoll("-1001480317018", txt, quizArr, {
           type: "quiz",
           is_anonymous: false,
           correct_option_id: a,
-          open_period: 30,
+          open_period: 10,
         });
       }
     }
     data.splice(data[0], 1);
-    redis.set(`${id}`, JSON.stringify(data));
+
+    await client.set(`${id}`, JSON.stringify(data));
+    await client.set(`${id}:true`, JSON.stringify(a));
+    await client.set(
+      `${id}:time`,
+      JSON.stringify(Math.floor(new Date().getTime() / 1000) + 10)
+    );
+    await client.set(`${id}:count`, String(1 + 1));
+    await client.set(`${id}:soni`, String(text));
   }
 });
 module.exports = scene;
