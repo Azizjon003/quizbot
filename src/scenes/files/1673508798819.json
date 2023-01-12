@@ -1,0 +1,2604 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "Sonli o'zgarmas",
+                "Ma'lumotlar bazasini boshqarish tizimi",
+                "Ma\u2019lumotlar lug\u2018ati",
+                "Hisoblash tizimi"
+            ],
+            "correct_index": 1,
+            "index": "1",
+            "level": "1",
+            "question": "Ko\u2018pchilik foydalanuvchilar tomonidan ma'lumotlar bazasini yaratish, to\u2018ldirish va birgalikda foydalanish uchun mo\u2018ljallangan dasturiy vositalar majmuasi nima deyiladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Foydalanuvchilar roli orqali",
+                "Kataloglar orqali",
+                "Fayl tizimi orqali",
+                "Fayl nomlari orqali"
+            ],
+            "correct_index": 2,
+            "index": "2",
+            "level": "1",
+            "question": "Fayllarni boshqarish qanday amalga oshiriladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ma'lumotlar bazasini boshqarish tizimi",
+                "ma\u2019lumotlar bazasi tizimi",
+                "ma\u2019lumotlar tizimi",
+                "ma\u2019lumotlar elementi"
+            ],
+            "correct_index": 2,
+            "index": "3",
+            "level": "1",
+            "question": "O\u2018zaro bog\u2018langan ma\u2019lumotlar nima deb ataladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "bitta yoki bir nechta ma\u2019lumotlar bazasiga texnik xizmat ko\u2018rsatish bilan shug\u2018ullanadi",
+                "bitta yoki bir nechta ma\u2019lumotlar to'plami haqida to\u2018liq tasavvurga ega predmet soha mutaxassisi",
+                "bitta yoki bir nechta ma\u2019lumotlar bazasi haqida to\u2018liq tasavvurga ega mutaxassis bo\u2018lib, ushbu ma\u2019lumotlar bazasini loyihalash va qo\u2019llanilishini nazorat qilish bilan shug\u2018ullanadi",
+                "ma\u2019lumotlar bazasiga faqat tarmoqda xizmat ko\u2018rsatish bilan shug\u2018ullanadi"
+            ],
+            "correct_index": 2,
+            "index": "4",
+            "level": "1",
+            "question": "Ma\u2019lumotlar bazasi adminstratori bu-",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "ma'lumotlar bazasini boshqarish tizimlari",
+                "atribut tizimlari",
+                "ma'lumotlar bazasi tizimlari",
+                "atribut qiymatlari"
+            ],
+            "correct_index": 3,
+            "index": "5",
+            "level": "1",
+            "question": "Atributlarda saqlanadigan ma'lumotlar bu-",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ma\u2019lumotlarni saralashga",
+                "katta hajmdagi axborotni saqlashga",
+                "ko\u2018p foydalanuvchilar bilan ishlashga",
+                "ma\u2019lumotlarni strukturalashga"
+            ],
+            "correct_index": 2,
+            "index": "6",
+            "level": "1",
+            "question": "Zamonaviy ma'lumotlar bazasini boshqarish tizimlari fayl tizimining qaysi muammosiga yechim bo'la oladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "qarama \u2013 qarshi bo`lishi; xatosiz bo`lishi",
+                "qarama \u2013 qarshi bo`lmasligi; xatosiz bo`lishi; yaxlit bo`lishi kerak",
+                "har bir jadval ustunida IDsi ko'rsatilishi kerak",
+                "xar bir jadvalda takrorlanishi kerak"
+            ],
+            "correct_index": 1,
+            "index": "7",
+            "level": "1",
+            "question": "Ma`lumotlar bazasidagi axborotlar qanday bo\u02bblishi kerak",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Jismoniy",
+                "Konseptual",
+                "Ichki",
+                "Tashqi"
+            ],
+            "correct_index": 3,
+            "index": "8",
+            "level": "1",
+            "question": "Ma'lumotlar bazasini boshqarish tizimidagi foydalanuvchilar uchun mos abstraksiya bosqichini ko\u2018rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "5 ta (Relyatsion, Set, Concat, Follow, Insert)",
+                "4 ta (Tarmoqli, Remix, Demux, Filter)",
+                "3 ta (Tarmoqli, Relyatsion, va Ierarxik)",
+                "2 ta (Ierarxik, Set, Demux, Colloborate)"
+            ],
+            "correct_index": 2,
+            "index": "9",
+            "level": "1",
+            "question": "Ma'lumotlar bazasi asosiy modellari nechta?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Besh (Fizik, Tranzaktion, Concat, Insert, Set)",
+                "Uch (Logik, fizik, Maydon)",
+                "to'rt (Logik, Colloborate, Fixed, Dinamik)",
+                "Ikki (Logik va fizik)"
+            ],
+            "correct_index": 3,
+            "index": "10",
+            "level": "1",
+            "question": "Ma\u2019lumotlarni tavsiflanishiga ko'ra nechtaga ajratish mumkin",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ma'lumotlar bazalarini yaratish va foydalanish uchun dasturiy ta'minot",
+                "ma'lumotlar bazalarini yaratish uchun dasturiy ta'minot",
+                "ma'lumotlar bazalarini yaratish va foydalanish uchun boshqarishni ta'minlovchi, maxsus lingvistik vositalar majmuiga ega bo`lgan dasturiy ta`minot",
+                "ma'lumotlar bazalarini yaratish va foydalanish uchun boshqarishni ta'minlovchi dasturiy ta'minot"
+            ],
+            "correct_index": 2,
+            "index": "11",
+            "level": "1",
+            "question": "Ma\u2019lumotlar bazasini boshqarish tizimi deganda nimani tushunasiz?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Fizik tavsiflash",
+                "Logik tavsiflash",
+                "Mantiqiy tavsiflash",
+                "logik va fizik tavsiflash"
+            ],
+            "correct_index": 0,
+            "index": "12",
+            "level": "1",
+            "question": "Ma'lumotlar bazasidagi ma'lumotlarni xotiraga saqlanishi qaysi tavsiflashga tegishli",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "konseptual",
+                "lizik",
+                "logik",
+                "logik va fizik"
+            ],
+            "correct_index": 2,
+            "index": "13",
+            "level": "1",
+            "question": "Ma`lumotlar bazasidagi ma`lumotlarni foydalanuvchilarga interfeys orqali ko`rinishi qaysi tavsiflashga tegishli",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ikkita",
+                "bitta",
+                "bir nechta",
+                "turli MBBTlarda turlicha"
+            ],
+            "correct_index": 2,
+            "index": "14",
+            "level": "1",
+            "question": "Bitta MBBTda nechtagacha ma'lumotlar bazasi bo`lishi mumkin",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Datalogik",
+                "Logik",
+                "Konseptual",
+                "Fizik"
+            ],
+            "correct_index": 0,
+            "index": "15",
+            "level": "1",
+            "question": "MBBT arxitekturasining bosqichi hisoblanmaydigan javob variantini ko\u2018rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "3 ta (Tashqi, Konseptual va Fizik)",
+                "4 ta  (Logik, Colloborate, Fixed, Dinamik)",
+                "5 ta (Fizik, Tranzaktion, Concat, Insert, Set)",
+                "2 ta (Fixed, Dinamik)"
+            ],
+            "correct_index": 0,
+            "index": "16",
+            "level": "1",
+            "question": "MBBT arxitekturasining nechta  bosqichi mavjud",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "jadval",
+                "jadval qatori",
+                "jadval katakchalari",
+                "jadval ustuni"
+            ],
+            "correct_index": 3,
+            "index": "17",
+            "level": "1",
+            "question": "Ob\u2019\u0435kt atributi deganda nima tushuniladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Parallelogram",
+                "Ellips",
+                "Aylana",
+                "Trapetsiya"
+            ],
+            "correct_index": 1,
+            "index": "18",
+            "level": "1",
+            "question": "Mohiyat aloqa diagrammasida uchraydigan shaklni toping",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Parallelogram",
+                "Romb",
+                "to`rtburchak",
+                "to`g`ri chiziq"
+            ],
+            "correct_index": 0,
+            "index": "19",
+            "level": "1",
+            "question": "Mohiyat aloqa diagrammasida qanday shakl qo`llanilmaydi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Kesishuv, seleksiya, ayirish, dekard ko`paytma",
+                "Kesishuv, qo`shish, seleksiya, dekard ko`paytma",
+                "Kesishuv, birlashtirish, ayirish, dekard ko`paytma",
+                "Kesishuv, qo`shish, ayirish, seleksiya,  dekard ko`paytma"
+            ],
+            "correct_index": 2,
+            "index": "20",
+            "level": "1",
+            "question": "Relyatsion algebra amallarini ko`rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "faylli va katalogli",
+                "lokal, tarmoq, bo\u2018lingan",
+                "hujjatli, faktografik, leksikografik",
+                "ierarxik, tarmoqli, relyatsion, obyektga yo\u2018naltirilgan"
+            ],
+            "correct_index": 3,
+            "index": "21",
+            "level": "1",
+            "question": "Ma\u2019lumotlarni taqdim etish modellari bo\u2018yicha klassifikatsiya qaysi variantda tasvirlangan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Jadval, maydon, yozuv",
+                "Jadval, ustun, qator",
+                "Jadval, ustun, yozuv",
+                "Jadval, ustun"
+            ],
+            "correct_index": 0,
+            "index": "22",
+            "level": "1",
+            "question": "Relyatsion ma\u2019lumotlar bazasidagi asosiy tushunchalarni aniqlang?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "munosabatlarning majmuasi yoki ikkilik ustunlar",
+                "munosabatlarning majmuasi yoki ikkilik bazasi",
+                "munosabatlarning majmuasi yoki ikkilik qatorlar",
+                "munosabatlarning majmuasi yoki ikkilik jadvallari"
+            ],
+            "correct_index": 3,
+            "index": "23",
+            "level": "1",
+            "question": "Relyatsion ma\u2019lumotlar bazasining asosiy tushunchalarini aniqlang?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ma\u2019lumotlar lug\u2019ati",
+                "ma\u2019lumotlar bazalari",
+                "ilovalar",
+                "ma\u2019lumotlar banki"
+            ],
+            "correct_index": 3,
+            "index": "24",
+            "level": "1",
+            "question": "Markazlashtirilgan to`plam va ma\u2019lumotlardan jamoaviy foydalanish zarur bo`lgan dasturiy, til, tashkiliy va texnik vositalar tizimi ........deb ataladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ilovalar",
+                "ma\u2019lumotlar bazalari",
+                "ma\u2019lumotlar bazasini boshqarish tizimi",
+                "ma\u2019lumotlar lug\u2019ati"
+            ],
+            "correct_index": 2,
+            "index": "25",
+            "level": "1",
+            "question": "Amaliy masalalar uchun avtomatlashtirilgan ishlov berishni ta\u2019minlovchi dastur yoki dasturlar kompleksiga .............deyiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ro\u2018yxatlar",
+                "jadvallar",
+                "daraxt turidagi graf",
+                "ixtiyoriy graf"
+            ],
+            "correct_index": 1,
+            "index": "26",
+            "level": "1",
+            "question": "Ma\u2019lumotlarni taqdim etishning relyatsion modelida foydalanuvchiga ma\u2019lumotlar qaysi ko\u2018rinishda uzatiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tarmoq modellari",
+                "Ierarxik modellar",
+                "Relyatsion modellar",
+                "Ko`p o`lchamli modellar"
+            ],
+            "correct_index": 0,
+            "index": "27",
+            "level": "1",
+            "question": "Tezkorlik va xotira sarfi ko`rsatkichlari bo`yicha samarali ish olib borish imkoniyati qaysi ma'lumot modellarida mavjud",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ma\u2019lumotlarning tarmoq strukturasi",
+                "Ma\u2019lumotlar bazasida saqlanuvchi ma\u2019lumotlarning fizik strukturasi",
+                "Ma\u2019lumotlarning ierarxik strukturasi",
+                "Malumotlar bazasida saqlanuvchi ma\u2019lumotlarning mantiqiy strukturasi"
+            ],
+            "correct_index": 3,
+            "index": "28",
+            "level": "1",
+            "question": "Ma\u2019lumotlarni taqdim etish modeli bu-",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "to`liq va to`liq emas",
+                "bir pog\u2019onali va ko`p pog\u2019onali",
+                "shaxsiy va jamoaviy",
+                "bir va ko`p foydalanuvchilar"
+            ],
+            "correct_index": 3,
+            "index": "29",
+            "level": "1",
+            "question": "Qo`llanilish tavsifiga ko`ra MBBTlar qanday turlarga bo`linadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ixtiyoriy graf",
+                "ro\u2018yxatlar",
+                "daraxt turidagi graf",
+                "jadvallar"
+            ],
+            "correct_index": 0,
+            "index": "30",
+            "level": "1",
+            "question": "Ma\u2019lumotlarni taqdim etishning tarmoq modelida ma\u2019lumotlar bog'lanishi qanday tasvirlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "relyatsion",
+                "obyektga yo\u2018naltirilgan",
+                "tarmoqli",
+                "ierarxik"
+            ],
+            "correct_index": 0,
+            "index": "31",
+            "level": "2",
+            "question": "Ma\u2019lumotlarni taqdim etish modelining qaysi biri eng keng tarqalgan hisoblanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "daraxt turidagi graf",
+                "ixtiyoriy graf",
+                "ro\u2018yxatlar",
+                "jadvallar"
+            ],
+            "correct_index": 0,
+            "index": "32",
+            "level": "2",
+            "question": "Ma\u2019lumotlarni taqdim etishning ierarxik modelida ma\u2019lumotlar bog'lanishi qanday tasvirlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "atribut, jadval, aloqa",
+                "mohiyat, atribut, aloqa",
+                "obyekt, xususiyat, munosabat",
+                "kalit, qiymat, assotsiatsiya"
+            ],
+            "correct_index": 1,
+            "index": "33",
+            "level": "2",
+            "question": "Mohiyat-aloqa modelining asosiy tushunchalari",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "m:1",
+                "m:1",
+                "n:m",
+                "1:1"
+            ],
+            "correct_index": 3,
+            "index": "34",
+            "level": "2",
+            "question": "Obyektlar orasidagi munosabat turini aniqlang: talaba va reyting daftarchasi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Birga-ko\u2018p, birga-bir, ko\u2018pga-noaniq.",
+                "Birga-uch, birga-bir, ko\u2018pga-ko\u2018p.",
+                "Birga-ko\u2018p, birga-bir, ko\u2018pga-ko\u2018p",
+                "Birga-aniq, birga-bir, ko\u2018pga-ko\u2018p."
+            ],
+            "correct_index": 2,
+            "index": "35",
+            "level": "2",
+            "question": "Jadvallar o'rtasidagi aloqalarning uch turi to\u2018g\u2018ri berilgan javobni ko\u2018rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "n:m",
+                "1:1",
+                "n:1",
+                "bog\u2018lanmagan"
+            ],
+            "correct_index": 2,
+            "index": "36",
+            "level": "2",
+            "question": "Talabalar va guruh obyektlari orasidagi aloqa modelini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1: m",
+                "1:1",
+                "m:n",
+                "m:1"
+            ],
+            "correct_index": 0,
+            "index": "37",
+            "level": "2",
+            "question": "Viloyat va tumanlar obyektlari orasidagi aloqa modelini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Eyler",
+                "Tyuring",
+                "Edgar Kodd",
+                "Piter Chen"
+            ],
+            "correct_index": 3,
+            "index": "38",
+            "level": "2",
+            "question": "Mohiyat-aloqa modelini birinchi bo'lib kim taklif qilgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1: m",
+                "n:1",
+                "1:1",
+                "m:n"
+            ],
+            "correct_index": 3,
+            "index": "39",
+            "level": "2",
+            "question": "Talabalar va auditoriyalar obyektlari orasidagi munosabat turini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "n:1",
+                "n:m",
+                "1:1",
+                "1: m"
+            ],
+            "correct_index": 1,
+            "index": "40",
+            "level": "2",
+            "question": "O'qituvchilar va talabalar jadvallari orasida munosobat turini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ierarxik",
+                "tarmoqli",
+                "relyatsion",
+                "invertlangan ro\u2018yxat asosiga"
+            ],
+            "correct_index": 0,
+            "index": "41",
+            "level": "2",
+            "question": "Daraxt ko\u2018rinishida qaysi ma\u2019lumotlar bazasi tasvirlanadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "katakcha",
+                "ustun",
+                "jadval",
+                "qator"
+            ],
+            "correct_index": 3,
+            "index": "42",
+            "level": "2",
+            "question": "Kortej bu ....?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "katakcha",
+                "ustun",
+                "qator",
+                "jadval"
+            ],
+            "correct_index": 3,
+            "index": "43",
+            "level": "2",
+            "question": "Munosobat nima?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "katakcha",
+                "jadval",
+                "qator",
+                "ustun"
+            ],
+            "correct_index": 3,
+            "index": "44",
+            "level": "2",
+            "question": "Domen bu ....?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Domen",
+                "Yozuv",
+                "Jadval",
+                "Atribut"
+            ],
+            "correct_index": 2,
+            "index": "45",
+            "level": "2",
+            "question": "Relyatsion ma\u2019lumotlar bazasida ma\u2019lumotlarni saqlashning asosiy formasi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Qator va ustunlarning mosligi",
+                "Jadval nomi",
+                "Ustun nomi",
+                "Bir qatorni boshqa qatordan ajratib turadigan qiymatga ega ustun"
+            ],
+            "correct_index": 3,
+            "index": "46",
+            "level": "2",
+            "question": "Unikal identifikator nima",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Agar jadval ikkilamchi kalitga ega bo\u2018lsa",
+                "Ha, bir xil qiymatga ega bo'lishi mumkin",
+                "Yo\u2018q, bir xil qiymatga ega bo'lmaydi",
+                "Agar jadval birlamchi kalitga ega bo\u2019lsa"
+            ],
+            "correct_index": 2,
+            "index": "47",
+            "level": "2",
+            "question": "Jadvalning har xil qatorlari bir xil qiymatdagi kalitga ega bo\u2018ladimi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "atribut, maydon",
+                "yozuv, kortej, ekzemplyar",
+                "fayl",
+                "annorgamma"
+            ],
+            "correct_index": 1,
+            "index": "48",
+            "level": "2",
+            "question": "Qator bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "qiymati boshqasi bilan bog\u2018lanmagan maydon",
+                "qiymati bir xil bo\u2019lgan nom ostidagi maydon",
+                "qiymati oshish xususiyatiga ega maydon",
+                "qiymati qaytarilmaydigan maydon"
+            ],
+            "correct_index": 3,
+            "index": "49",
+            "level": "2",
+            "question": "Unikal maydon deb qanday qatorga aytiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Haskell",
+                "Objective C",
+                "SQL",
+                "Basic"
+            ],
+            "correct_index": 2,
+            "index": "50",
+            "level": "2",
+            "question": "Relyatsion  ma\u2019lumotlar bazasida qaysi so\u2018rov tillari qo\u2018llaniladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "qiyin dasturlar yaratishga",
+                "ma\u2019lumotlarni qayta ishlashga",
+                "ma\u2019lumotlar bazasini kiritish va ularni ko\u2018zdan kechirish",
+                "ma\u2019lumotlarni saqlashga"
+            ],
+            "correct_index": 3,
+            "index": "51",
+            "level": "2",
+            "question": "Ma\u2019lumotlar bazasi jadvali nima uchun kerak?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Hamma maydonlar mustaqil",
+                "Jadvalning hamma maydonlari birinchi kalitga bog\u2018liq",
+                "Hamma maydonlar  kalitsiz maydonlarga bog\u2018liq",
+                "Hamma maydonlar ikkilamchi kalitga bog\u2019liq"
+            ],
+            "correct_index": 1,
+            "index": "52",
+            "level": "2",
+            "question": "Ikkinchi normal formada quyidagicha talab qo\u2018yiladi:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tezkor so\u2018rov tili",
+                "Ketma-ket so\u2018rov tili",
+                "Standart so\u2018rov tili",
+                "Strukturalashgan so\u2018rov tili"
+            ],
+            "correct_index": 3,
+            "index": "53",
+            "level": "2",
+            "question": "SQL kengaytmasi nimani anglatadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "SELECT, UPDATE, INSERT, DELETE",
+                "GRANT, REVOKE",
+                "CRATE, ALTER, DROP",
+                "MODIFY, TRUNCATE"
+            ],
+            "correct_index": 2,
+            "index": "54",
+            "level": "2",
+            "question": "Qaysi SQL operatorlari ma'lumotlar bazasida ma'lumotlarni tavsiflashda ishlatiladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "MODIFY, TRUNCATE",
+                "SELECT, UPDATE, INSERT, DELETE",
+                "CRATE, ALTER, DROP",
+                "GRANT, REVOKE"
+            ],
+            "correct_index": 1,
+            "index": "55",
+            "level": "2",
+            "question": "Qaysi SQL operatorlari ma'lumotlar bazasida ma'lumotlarni manipulyatsiyalashda ishlatiladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "TIMESTAMP",
+                "NUMERIC",
+                "BOOLEAN",
+                "INTEGER"
+            ],
+            "correct_index": 0,
+            "index": "56",
+            "level": "2",
+            "question": "Sana vaqt toifasi qaysi javobda to'g'ri ko'rsatilgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "UNIQUE",
+                "FORGN KEY",
+                "NOT NULL",
+                "CHECK"
+            ],
+            "correct_index": 2,
+            "index": "57",
+            "level": "2",
+            "question": "Jadvaldagi  ustunga  qo\u2018yilgan  qanday  cheklanish ustun  qiymatlarining  bo\u2018sh  bo\u2018lmasligini ko\u2018rsatadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "o\u2018zgaruvchan toifadagi satr tipi",
+                "butun tip",
+                "sana va vaqt",
+                "moddiy son"
+            ],
+            "correct_index": 0,
+            "index": "58",
+            "level": "2",
+            "question": "VARCHAR toifasi bu -",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "O\u2018zlashtirish amallari",
+                "Mantiqiy amallar",
+                "Solishtirish amallari",
+                "Arifmetik amallar va operatorlar"
+            ],
+            "correct_index": 2,
+            "index": "59",
+            "level": "2",
+            "question": ">, <, >=, <=, <>, == operatorlari ........deyiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "2 NF",
+                "4 NF",
+                "5 NF",
+                "6 NF"
+            ],
+            "correct_index": 0,
+            "index": "60",
+            "level": "2",
+            "question": "3 NFga o`tishdan oldin jadval qaysi normal formada bo`lishi shart",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "FORGN KEY",
+                "CHECK",
+                "NOT NULL",
+                "UNIQUE"
+            ],
+            "correct_index": 1,
+            "index": "61",
+            "level": "2",
+            "question": "Jadvaldagi ustunga qo\u2018yilgan qanday cheklanish ustun qiymatlarini ma\u2019lum bir shart bo\u2018yicha tekshiradi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ACCESS",
+                "MySQL",
+                "SQL Server",
+                "ORACLE"
+            ],
+            "correct_index": 0,
+            "index": "62",
+            "level": "2",
+            "question": "Qaysi bir MBBT klient-server turiga kirmaydi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Sana va vaqt toifali",
+                "Butun toifali",
+                "Bul toifali",
+                "Qator toifali"
+            ],
+            "correct_index": 2,
+            "index": "63",
+            "level": "2",
+            "question": "TRUE va FALSE  qiymatini qabul qiluvchi toifalar qanday nomlanadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "FLOAT",
+                "NUMERIC",
+                "TIMESTAMP",
+                "VARChAR"
+            ],
+            "correct_index": 1,
+            "index": "64",
+            "level": "2",
+            "question": "Butun toifa keltirilgan javobni ko`rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "O\u2018zlashtirish amallarini bajarish",
+                "Solishtirish ammallarini bajarish",
+                "Mantiqiy amallarni bajarish",
+                "Arifmetik amallar va operatorlar"
+            ],
+            "correct_index": 2,
+            "index": "65",
+            "level": "2",
+            "question": "NOT, AND, OR operatorlari vazifasi nimadan iborat?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "NOT NULL",
+                "FOREIGN KEY",
+                "UNIQUE",
+                "ChECK"
+            ],
+            "correct_index": 2,
+            "index": "66",
+            "level": "2",
+            "question": "Jadvaldagi ustunga qo\u2018yilgan qanday cheklanish ustun qiymatlarining takrorlanmasligini ta\u2019minlaydi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Belgilangan elementning eng katta qiymatini topish",
+                "Belgilangan qatorning eng katta qiymatini topish",
+                "Belgilangan ustunning eng katta qiymatini topish",
+                "Belgilangan obyektning eng katta qiymatini topish"
+            ],
+            "correct_index": 2,
+            "index": "67",
+            "level": "2",
+            "question": "MAX() agregat funksiyasining vazifasini ayting",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Belgilangan ustunning eng kichik qiymatini topish",
+                "Belgilangan qatorning eng kichik qiymatini topish",
+                "Belgilangan elementning eng kichik qiymatini topish",
+                "Belgilangan obyektning eng kichik qiymatini topish"
+            ],
+            "correct_index": 0,
+            "index": "68",
+            "level": "2",
+            "question": "MIN() agregat funksiyasining vazifasini ayting",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Belgilangan ustunning o`rta arifmetigini topish",
+                "Belgilangan qatorning o`rta arifmetigini topish",
+                "Belgilangan jadvalning o`rta arifmetigini topish",
+                "Belgilangan ob`yektning o`rta arifmetigini topish"
+            ],
+            "correct_index": 0,
+            "index": "69",
+            "level": "2",
+            "question": "AVG() agregat funksiyasining vazifasini ayting",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Belgilangan qatorning  qatorlar sonini topish",
+                "Belgilangan obyektning qatorlar sonini topish",
+                "Belgilangan elementning o`rta arifmetigini topish",
+                "Belgilangan obyektning o`rta arifmetigini topish"
+            ],
+            "correct_index": 1,
+            "index": "70",
+            "level": "2",
+            "question": "COUNT() agregat funksiyasining vazifasini ayting",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ma\u2019lumotlar bazasida obyektni o\u2018chirish",
+                "Ma\u2019lumotlar bazasida obyekt yaratish",
+                "Ma\u2019lumotlar bazasida obyektni o\u2018zgartirish",
+                "Jadvalga qator qo\u2018shish"
+            ],
+            "correct_index": 1,
+            "index": "71",
+            "level": "3",
+            "question": "CREATE operatorining vazifasi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ma\u2019lumotlar bazasida obyektni o\u2018zgartirish",
+                "Ma\u2019lumotlar bazasida obyektni o\u2018chirish",
+                "Ma\u2019lumotlar bazasida obyektni o\u2018zgartirish",
+                "Jadvalga qator qo\u2018shish"
+            ],
+            "correct_index": 2,
+            "index": "72",
+            "level": "3",
+            "question": "ALTER operatorining vazifasi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Jadvalga qator qo\u2018shish",
+                "Ma\u2019lumotlar bazasidan obyektni o\u2018zgartirish",
+                "Ma\u2019lumotlar bazasidan obyektni o\u2018chirish",
+                "Jadvalga obyektni o\u2018chirish"
+            ],
+            "correct_index": 2,
+            "index": "73",
+            "level": "3",
+            "question": "DROP operatorining vazifasi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "STUDENT jadvalini o'chirish",
+                "STUDENT jadvalini yaratish",
+                "STUDENT jadvalini tanlash",
+                "STUDENT jadvalini o'zgartirish"
+            ],
+            "correct_index": 2,
+            "index": "74",
+            "level": "3",
+            "question": "Quyidagi so\u2018rov nimani anglatadi: SELECT * FROM STUDENT;",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "indeks",
+                "jadval nomi",
+                "ustun nomi",
+                "tegishlilikni"
+            ],
+            "correct_index": 1,
+            "index": "75",
+            "level": "3",
+            "question": "Quyidagi so\u2018rovda STUDENT nimani anglatadi: SELECT * FROM STUDENT;",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "tranzaksiyalar",
+                "ikkilamchi kalitlar",
+                "indekslar",
+                "so\u2018rovlarni bajarilishini tezlashtirish mumkin emas"
+            ],
+            "correct_index": 2,
+            "index": "76",
+            "level": "3",
+            "question": "Qidiruv so\u2018rovlarini tezlashtirish uchun qaysi MBBT mexanizmi ishlatiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Jadval bo\u2018shligini",
+                "Ustunga tegishli bo\u2018lgan satr qiymatlari bo\u2018sh bo\u2018lmasligini",
+                "Ustunda qiymat bermaslik imkoniyatini",
+                "Jadval satrlarida probellar bo\u2018lmasligini"
+            ],
+            "correct_index": 2,
+            "index": "77",
+            "level": "3",
+            "question": "CREATE TABLE jadval yaratish operatorida NULL nimani anglatadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Jadval bo\u2018m bo\u2018shligini",
+                "Ustunga tegishli bo\u2018lgan satr qiymatlari bo\u2018sh bo\u2018lishligini",
+                "Ustunga tegishli bo\u2018lgan satr qiymatlari bo\u2018sh bo\u2018lmasligini",
+                "Jadval satrlarida probellar bo\u2018lmasligini"
+            ],
+            "correct_index": 2,
+            "index": "78",
+            "level": "3",
+            "question": "CREATE TABLE jadval yaratish operatorida NOT NULL nimani anglatadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Jadvaldan tanlash",
+                "Jadvalga satr qo\u2018shish",
+                "Jadvalni o\u2018zgartirish",
+                "Jadvaldan ma\u2019lumotlarni tanlash"
+            ],
+            "correct_index": 3,
+            "index": "79",
+            "level": "3",
+            "question": "SELECT operatorini vazifasi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Jadvalga satr qo\u2018shish",
+                "Jadvalda qatorni o\u2018zgartirish",
+                "Jadvalni o\u2018zgartirish",
+                "Jadvaldan tanlash"
+            ],
+            "correct_index": 1,
+            "index": "80",
+            "level": "3",
+            "question": "UPDATE operatorini vazifasi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Jadvaldan tanlash",
+                "Jadvalga satr qo\u2018shish",
+                "Jadvalni o\u2018zgartirish",
+                "Qatorni o\u2018chirish"
+            ],
+            "correct_index": 3,
+            "index": "81",
+            "level": "3",
+            "question": "DELETE operatorining vazifasi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Jadvalga satr qo\u2018shish",
+                "Jadvalni o\u2018zgartirish",
+                "Jadvaldan tanlash",
+                "Qatorni o\u2018chirish"
+            ],
+            "correct_index": 0,
+            "index": "82",
+            "level": "3",
+            "question": "INSERT operatorini vazifasi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "quyi so\u2018rov",
+                "bog\u2018lanish",
+                "birlashuv",
+                "farq"
+            ],
+            "correct_index": 0,
+            "index": "83",
+            "level": "3",
+            "question": "Bitta so`rovning ichida joylashgan ikkinchi so\u2018rov qanday nomlanadi, misol: SELECT * FROM STUDENT WHERE group_id IN (SELECT id FROM group WHERE number=\u2018217-18\u2019)",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Belgilangan jadvalning o`rta arifmetigini topish",
+                "Belgilangan qatorning yigindisining o`rta qiymatini topish",
+                "Belgilangan ustunning yig\u2019indisini topish",
+                "Belgilangan ob`yektning o`rta arifmetigini topish"
+            ],
+            "correct_index": 2,
+            "index": "84",
+            "level": "3",
+            "question": "SUM() agregat funksiyasining vazifasini ayting",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "GROUP BY",
+                "WHERE",
+                "HAVING",
+                "ORDER BY"
+            ],
+            "correct_index": 3,
+            "index": "85",
+            "level": "3",
+            "question": "Qaysi predikat saralash uchun ishlatiladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "GROUP BY",
+                "WHERE",
+                "HAVING",
+                "ORDER BY"
+            ],
+            "correct_index": 0,
+            "index": "86",
+            "level": "3",
+            "question": "Qaysi predikat guruhlash uchun ishlatiladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "P harfi bilan boshlanadigan familiyalar chiqadi.",
+                "P bilan tugovchi familiyalar chiqadi.",
+                "Natija chiqmaydi",
+                "P harfiga teng bo\u2018lmagan familiyalar chiqadi"
+            ],
+            "correct_index": 0,
+            "index": "87",
+            "level": "3",
+            "question": "SELECT * FROM STUDENT WHERE SURNAME LIKE 'P%';",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "shartni",
+                "ustunning nomini",
+                "jadvalning nomini",
+                "kalit maydonni"
+            ],
+            "correct_index": 2,
+            "index": "88",
+            "level": "3",
+            "question": "SELECT operatorida FROM so\u2018zidan keyingi yozuv nimani bildiradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "GROUP BY",
+                "WHERE",
+                "HAVING",
+                "ORDER BY"
+            ],
+            "correct_index": 1,
+            "index": "89",
+            "level": "3",
+            "question": "Qaysi predikat berilgan shartni qanoatlantiruvchi qidiruvni amalga oshiradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "SELECT * FROM <jadval nomi>",
+                "SELECT * <jadval nomi>",
+                "SELECT  Table  FROM  <jadval nomi>",
+                "SELECT FROM  * Table_name"
+            ],
+            "correct_index": 0,
+            "index": "90",
+            "level": "3",
+            "question": "To\u2018gri yozilgan SELECT operatorini ko\u2018rsating.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "DQL",
+                "DDL",
+                "DML",
+                "DSL"
+            ],
+            "correct_index": 2,
+            "index": "91",
+            "level": "3",
+            "question": "INSERT, UPDATE, DELETE quyidagi SQL tillarining  qaysi biriga tegishli?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "UPDATE",
+                "INSERT",
+                "SELECT",
+                "DELETE"
+            ],
+            "correct_index": 1,
+            "index": "92",
+            "level": "3",
+            "question": "Qaysi operatorda WHERE ishlatib bo\u2018lmaydi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Farqi yo`q",
+                "DROP obyektni, DELETE qatorni o`chiradi",
+                "SQLda DROP ishlatilmaydi",
+                "SQLda DELETE ishlatilmaydi"
+            ],
+            "correct_index": 1,
+            "index": "93",
+            "level": "3",
+            "question": "DROP va DELETE operatorlarining farqi nimada",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "satr qatorlari yulduzcha bilan shifrlanganini",
+                "hamma satrlarni belgilashni",
+                "hamma ustunlarni belgilashni",
+                "bu belgidan foydalanib bo\u2018lmaydi"
+            ],
+            "correct_index": 2,
+            "index": "94",
+            "level": "3",
+            "question": "SELECT operatoridan keyin '*' belgisi nimani bildiradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "SELECT + JOIN",
+                "SELECT + WHERE",
+                "SELECT + GROUP BY",
+                "SELECT + ORDER BY"
+            ],
+            "correct_index": 0,
+            "index": "95",
+            "level": "3",
+            "question": "Qaysi operator yordamida jadvallarni \u00abqo`shish\u00bb amali bajariladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "DEVIDE",
+                "UNION",
+                "INNER JOIN",
+                "MINUS"
+            ],
+            "correct_index": 2,
+            "index": "96",
+            "level": "3",
+            "question": "Qaysi operator yordamida \u00abkesishuv\u00bb amali bajariladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "DELETE + WHERE",
+                "UPDATE + WHERE",
+                "INSERT",
+                "SELECT + WHERE"
+            ],
+            "correct_index": 3,
+            "index": "97",
+            "level": "3",
+            "question": "Qaysi operator yordamida \u00abtanlash\u00bb amali bajariladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "UNION",
+                "INTERSECT",
+                "MINUS",
+                "DEVIDE"
+            ],
+            "correct_index": 0,
+            "index": "98",
+            "level": "3",
+            "question": "Qaysi operator yordamida \u00abbirlashtirish\u00bb amali bajariladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "RIGHT OUTER JOIN",
+                "FULL OUTER JOIN",
+                "INNER JOIN",
+                "LEFT OUTER JOIN"
+            ],
+            "correct_index": 2,
+            "index": "99",
+            "level": "3",
+            "question": "Ichki bog\u2018lanish operatori \u2013 bu",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "LEFT OUTER JOIN",
+                "INNER JOIN",
+                "FULL OUTER JOIN",
+                "RIGHT OUTER JOIN"
+            ],
+            "correct_index": 0,
+            "index": "100",
+            "level": "3",
+            "question": "Chap tashqi bog\u2018lanish operatori \u2013 bu",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "STUDENTning maksimal indentifikatorini",
+                "STUDENTlarning sonini",
+                "STUDENTning  oxirgi identifikatorini",
+                "STUDENTning  birinchi identifikatorini"
+            ],
+            "correct_index": 1,
+            "index": "101",
+            "level": "1",
+            "question": "SELECT COUNT(id) FROM STUDENT so\u2018rovi qanday natija qaytaradi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "MINUS",
+                "INTERSECT",
+                "UNION",
+                "DEVIDE"
+            ],
+            "correct_index": 0,
+            "index": "102",
+            "level": "1",
+            "question": "Qaysi operator yordamida \u00abayiruv\u00bb amali bajariladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "INNER JOIN",
+                "RIGHT OUTER JOIN",
+                "LEFT OUTER JOIN",
+                "FULL OUTER JOIN"
+            ],
+            "correct_index": 3,
+            "index": "103",
+            "level": "1",
+            "question": "To\u2018liq tashqi bog\u2018lanish operatori \u2013 bu",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "uch",
+                "bir",
+                "ikki",
+                "to'rt"
+            ],
+            "correct_index": 2,
+            "index": "104",
+            "level": "1",
+            "question": "Relyatsion turdagi ma'lumotlar bazasi obyektlari necha o\u2019lchovli jadvalni tashkil etadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1,2,4",
+                "1, 2, 3",
+                "2.3",
+                "1,3,4"
+            ],
+            "correct_index": 1,
+            "index": "105",
+            "level": "1",
+            "question": "SQL tilini tarkibiy qismlariga kiradi: 1) ma\u2019lumotlarni aniqlash tili; 2) ma\u2019lumotlarni manipulyatsiyalash tillari; 3) ma\u2019lumotlarni boshqarish tili; 4) dasturlash tillari",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "INSERT, DROP, UPDATE, SELECT",
+                "CREATE, ALTER, DROP",
+                "INSERT, DELETE, UPDATE, SELECT",
+                "CREATE, ALTER, DELETE"
+            ],
+            "correct_index": 2,
+            "index": "106",
+            "level": "1",
+            "question": "DML komandalarini ko`rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "INSERT, DELETE, UPDATE, SELECT",
+                "CREATE, ALTER, DROP",
+                "INSERT, DROP, UPDATE, SELECT",
+                "CREATE, ALTER, DELETE"
+            ],
+            "correct_index": 1,
+            "index": "107",
+            "level": "1",
+            "question": "DDL komandalarini ko`rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "SET",
+                "AND va OR",
+                "SETUP",
+                "DATE"
+            ],
+            "correct_index": 0,
+            "index": "108",
+            "level": "1",
+            "question": "UPDATE operatorini qaysi kalit so\u2019zi jadvalni aniq ustunlarini tanlab olish va o\u2019zgartirish imkonini beradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tarmoqli ma\u2019lumotlar bazalari",
+                "Ierarxik ma\u2019lumotlar bazalari",
+                "Relyatsion ma\u2019lumotlar bazalari",
+                "Ierarxik va relyasion ma\u2019lumotlar bazalari"
+            ],
+            "correct_index": 2,
+            "index": "109",
+            "level": "1",
+            "question": "Amaliyotda eng ko\u2019p tarqalgan ma\u2019lumotlar bazalari bu-",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "birlamchi kalitni",
+                "ustunning nomini",
+                "shartni",
+                "jadvalning nomini"
+            ],
+            "correct_index": 3,
+            "index": "110",
+            "level": "1",
+            "question": "SELECT operatoridan FROM so\u2018zidan keyingi yozuv nimani bildiradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Suarez***",
+                "**********Suarez",
+                "****Suarez",
+                "Suarez****"
+            ],
+            "correct_index": 2,
+            "index": "111",
+            "level": "1",
+            "question": "Select lpad(o'yinchi, 10, '*') from fun. So`rov natijasini tanlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Suarez***",
+                "****Suarez",
+                "Suarez****",
+                "**********Suarez"
+            ],
+            "correct_index": 2,
+            "index": "112",
+            "level": "1",
+            "question": "Select rpad(uyinchi, 10, '*') from func; So`rov natijasini tanlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Jadvallar",
+                "Qatorlar",
+                "Ustunlar",
+                "Ob\u2019yektlar"
+            ],
+            "correct_index": 2,
+            "index": "113",
+            "level": "1",
+            "question": "SELECT Name, Surname FROM talaba; So\u2019rovida  Name, Surname nimani anglatadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "So`rovda xatolik beradi",
+                "Xodimlar ismining chap tomonidan chiqaradi",
+                "Xodimlar ismining 5 ta harfini chiqaradi",
+                "Xodimlar ismining birinchi 5 ta harflarini chiqaradi"
+            ],
+            "correct_index": 3,
+            "index": "114",
+            "level": "1",
+            "question": "SELECT LEFT(`ism`, 5)  FROM `xodimlar`; so`rov natijasini toping",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ob\u2019yektlarni",
+                "Qatorlarni",
+                "Jadvallarni",
+                "Ustunlarni"
+            ],
+            "correct_index": 3,
+            "index": "115",
+            "level": "1",
+            "question": "select year from test where name='Jonny'); So`rovdagi  year va name nimani anglatadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Jadval qatori",
+                "MB ga bo\u2018lgan talablar o\u2018zgaradi",
+                "Maxsus operator",
+                "Jadval nomi"
+            ],
+            "correct_index": 3,
+            "index": "116",
+            "level": "1",
+            "question": "Select * from table1 INNER JOIN table2 ON table1.name=table2.name; So`rovdagi \"table2\" nima?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Jadvallarni birlashtiradi",
+                "Ikkita jadvalni yoniga qisqartiradi",
+                "Jadvallarni qisqartiradi",
+                "Jadvallarni ayiradi"
+            ],
+            "correct_index": 0,
+            "index": "117",
+            "level": "1",
+            "question": "UNION operatori vazifasi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Barcha ustunlarni birlashtiradi",
+                "Barcha ma`lumotlarni filtrlab birlashtiradi",
+                "Jadvallar birlashtiriladi",
+                "Barcha jadvallarni birlashtiradi"
+            ],
+            "correct_index": 2,
+            "index": "118",
+            "level": "1",
+            "question": "Select name, surname from test1 UNION ALL select name, surname from test2;           So`rovdagi \"ALL\" qanday vazifa bajaradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yosh qatori minimal qiymatini xisoblash",
+                "Yosh ustuni minimal qiymatini xisoblash",
+                "Yosh jadvali minimal qiymatini xisoblash",
+                "min() funksiyasi xato"
+            ],
+            "correct_index": 1,
+            "index": "119",
+            "level": "1",
+            "question": "SELECT MIN(yosh), ism, familiya FROM test GROUP By ism, familiya; So`rovidagi MIN(yosh) funksiyasi natijasi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Test jadvalidan ism ustunini ajratib ko`rsatadi",
+                "yosh ustunini saralaydi",
+                "yosh ustunini guruhlaydi",
+                "yosh ustunini teskarisiga saralaydi"
+            ],
+            "correct_index": 3,
+            "index": "120",
+            "level": "1",
+            "question": "SELECT * FROM test ORDER BY yosh DESC; So`rovdagi \"DESC\" nima vazifa bajaradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Bunday operator SQLda ishlatilmaydi",
+                "ma'lumotlar orasida bir xil ma'lumot bo'lsa, bu ma'lumotni chiqarmaydi",
+                "ma'lumotlar orasida bir xil ma'lumot bo'lsa, bu ma'lumotni ikkalasini ham chiqaradi",
+                "ma'lumotlar orasida bir xil ma'lumot bo'lsa, bu ma'lumotni bitta qilib chiqaradi"
+            ],
+            "correct_index": 3,
+            "index": "121",
+            "level": "1",
+            "question": "DISTINCT operatorining vazifasi nima?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "\"S\"dan keyin simvollar bo`lishi mumkin",
+                "\"S\"dan oldin simvollar bo`lishi mumkin",
+                "\"S\"dan keyin % bo`lishi mumkin",
+                "\"S%\" simvollar bo`lishi mumkin"
+            ],
+            "correct_index": 0,
+            "index": "122",
+            "level": "1",
+            "question": "Select ism, yosh, familiya from test where ism like 'S%'; So`rovdagi \"%\" nima uchun ishlatiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "MAX funksiyasi yordamida",
+                "COUNT funksiyasi yordamida",
+                "MIN funksiyasi yordamida",
+                "SUM funksiyasi yordamida"
+            ],
+            "correct_index": 3,
+            "index": "123",
+            "level": "1",
+            "question": "Jadval ustunidagi yig\u2018indi qiymati qanday hisoblanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "LEFT OUTER JOIN",
+                "RIGHT OUTER  JOIN",
+                "INNER JOIN",
+                "FULL OUTER JOIN"
+            ],
+            "correct_index": 1,
+            "index": "124",
+            "level": "1",
+            "question": "O\u2018ng tashqi bog\u2018lanish operatori  \u2013 bu",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ikki jadvaldan olingan natijalarni bitta jadvalda birlashtirish uchun",
+                "Ikkala tanlovda mavjud umumiy natijalarni chiqarish uchun",
+                "Birinchi tanlovda mavjud, lekin ikkinchisida yo\u2018q bo\u2018lgan natijalarni chiqarish uchun",
+                "Ikki so\u2018rov tanlovining natijalarini birlashtirish uchun"
+            ],
+            "correct_index": 0,
+            "index": "125",
+            "level": "1",
+            "question": "JOIN operatori nimaga mo\u2018ljallangan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Jadval",
+                "Ustun",
+                "Maydon",
+                "Qator"
+            ],
+            "correct_index": 0,
+            "index": "126",
+            "level": "1",
+            "question": "MySQL so\u2019rovlarida ko\u2019pincha  FROM so\u2019zidan keyin \u2026\u2026.. nomi yoziladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Mahsulotlar jadvalidan id 2 ga teng bo`lgan qatorni qo`shadi",
+                "Mahsulotlar jadvalidan id 2 ga teng bo`lgan ustunni o`chiradi",
+                "Mahsulotlar jadvalidan id 2 ga teng bo`lgan qatorni barcha ma`lumotlarini o`chiradi",
+                "Mahsulotlar jadvalidan id 2 ga teng bo`lgan qatorni belgilaydi"
+            ],
+            "correct_index": 2,
+            "index": "127",
+            "level": "1",
+            "question": "DELETE * FROM Mahsulotlar WHERE ID=2; so`rovni natijasini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "DELETE mahsulot SET  narxi= `1050` WHERE  Mahsulot nomi=`non`",
+                "UPDATE mahsulot SET  Mahsulot nomi=`non`  WHERE  narxi= `1050`",
+                "UPDATE mahsulot SET  narxi= `1050` WHERE  Mahsulot nomi=`non`",
+                "UPDATE non SET  narxi= `1050` WHERE  Mahsulot nomi=`mahsulot`"
+            ],
+            "correct_index": 2,
+            "index": "128",
+            "level": "1",
+            "question": "So`rov orqali  mahsulot ob`yektidan nonni narxi o`zgartirilsin",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "2 ta jadvaldan kerakli ustunlar tanlanadi va virtual usulda ko\u2019rsatiladi",
+                "Dinamik jadvaldan ma\u2019lumot ko\u2019rsatiladi",
+                "har doim har xil",
+                "VIEW  jadvallarni ko\u2019rsatish uchun hizmat qiladi"
+            ],
+            "correct_index": 0,
+            "index": "129",
+            "level": "1",
+            "question": "MySQL da  CREATE VIEW operatori ishlatilsa",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Berilgan kortejdagi hamma ma\u2019lumotlarni ko\u2019rib chiqish",
+                "Berilgan qatordagi hamma ma\u2019lumotlarni ko\u2019rib chiqish",
+                "Berilgan yozuv hamma ma\u2019lumotlarni ko\u2019rib chiqish",
+                "Berilgan jadvaldagi hamma ma\u2019lumotlarni ko\u2019rib chiqish"
+            ],
+            "correct_index": 3,
+            "index": "130",
+            "level": "1",
+            "question": "DELETE * FROM Yetkazib_beruvchilar WHERE Yetkazib_beruvchilar=\"Sarbon MChJ\" So`rovidagi * FROM nima uchun ishlatiladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "STUDENTning maksimal indentifikatori",
+                "STUDENTning  oxirgi identifikatori",
+                "STUDENTning  oxirgi identifikatori",
+                "STUDENTlarning miqdori"
+            ],
+            "correct_index": 0,
+            "index": "131",
+            "level": "2",
+            "question": "SELECT MAX(id) FROM STUDENT so\u2018rovini nima qaytaradi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Minimal STUDENT",
+                "Maksimal STUDENT",
+                "STUDENTlarning o\u2018rtacha yoshini",
+                "STUDENTlar yoshining yig\u2018indisini"
+            ],
+            "correct_index": 2,
+            "index": "132",
+            "level": "2",
+            "question": "SELECT AVG(age) FROM STUDENT so\u2018rovi nimani qaytaradi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "AVG funksiyasi yordamida",
+                "COUNT funksiyasi yordamida",
+                "MIN funksiyasi yordamida",
+                "MAX funksiyasi yordamida"
+            ],
+            "correct_index": 1,
+            "index": "133",
+            "level": "2",
+            "question": "Jadvaldagi qatorlar soni qanday hisoblanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "MIN, MAX,Count, AVG",
+                "MIN, MAX, DATE, AVG",
+                "MIN, MAX,SUBSTR, MID",
+                "LEFT, RIGHT, MAX,Count,AVG"
+            ],
+            "correct_index": 0,
+            "index": "134",
+            "level": "2",
+            "question": "Agregat funksiyalarni ko`rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "UPDATE",
+                "SELECT va DELETE",
+                "faqatgina SELECT bilan",
+                "INSERT va UPDATE"
+            ],
+            "correct_index": 2,
+            "index": "135",
+            "level": "2",
+            "question": "Qaysi operatorlar bilan MIN, MAX, AVG, SUM agregat funksiyalar bajarilishi mumkin",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Eng qimmat narxga ega bo`lgan maxsulot  nomi",
+                "Eng arzon narxga ega bo`lgan maxsulot  narxi",
+                "Eng qimmat narxga ega bo`lgan maxsulot  narxi",
+                "Eng qimmat narxga ega bo`lgan maxsulot haqida barcha ma`lumot"
+            ],
+            "correct_index": 2,
+            "index": "136",
+            "level": "2",
+            "question": "SELECT  MAX(`max_narxi(so`m)`)  AS  `eng qimmat mahsulot`  FROM `mahsulotlar`; so`rov natijasini toping",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "`max_narxi` jadvalidagi Mahsulotlar ustunining o`rta arifmetigi",
+                "Mahsulotlar jadvalidagi `max_narxi` ustunining yig`indisi",
+                "Mahsulotlar jadvalidagi `max_narxi` ustunining kattasi",
+                "Mahsulotlar jadvalidagi `max_narxi` ustunining o`rta arifmetigi"
+            ],
+            "correct_index": 3,
+            "index": "137",
+            "level": "2",
+            "question": "SELECT  AVG(`max_narxi(so`m)`) FROM `mahsulotlar`;  so`rov natijasini toping",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Xodimlarlarning ismlarini",
+                "Xodimlarning  birinchi identifikatori",
+                "Xodimlarning oxirgi identifikatori",
+                "Xodimlarning o\u2019rtacha oyligi"
+            ],
+            "correct_index": 3,
+            "index": "138",
+            "level": "2",
+            "question": "SELECT AVG(oylik) FROM Xodimlar; so\u2018rovi nimani qaytaradi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "STUDENTning  birinchi identifikatori",
+                "STUDENTning  oxirgi identifikatori",
+                "STUDENTning minimal indentifikatori",
+                "STUDENTlarning miqdori"
+            ],
+            "correct_index": 2,
+            "index": "139",
+            "level": "2",
+            "question": "SELECT MIN(ID) FROM STUDENT so\u2018rovi nimani qaytaradi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "STUDENTning  oxirgi identifikatori",
+                "STUDENTning  birinchi identifikatori",
+                "STUDENTning maksimal identifikatori",
+                "STUDENTlarning ismlarini"
+            ],
+            "correct_index": 2,
+            "index": "140",
+            "level": "2",
+            "question": "SELECT MAX(ID) FROM STUDENT so\u2018rovi nimani qaytaradi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Xodimlar familyalarining bitta harfini chiqaradi",
+                "Xodimlar familyalarining birinchisini chiqaradi",
+                "Xodimlar familyalarining bosh harflarini chiqaradi",
+                "So`rovda xatolik beradi"
+            ],
+            "correct_index": 2,
+            "index": "141",
+            "level": "2",
+            "question": "SELECT SUBSTR(`familiya`,1,1)  FROM `xodimlar`; so`rov natijasini toping",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Sanalar",
+                "Sonlar",
+                "Qatorlar",
+                "Barcha ma\u2019lumotlarga qo\u2018llash mumkin"
+            ],
+            "correct_index": 2,
+            "index": "142",
+            "level": "2",
+            "question": "Ma\u2019lumotlarni qaysi toifasiga MIN, MAX, AVG, SUM agregat funksiyalarni qo\u2018llash mumkin emas",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "SELECT   * FROM      Products,   PName LIKE \u2018%gizmo%\u2019",
+                "SELECT   * FROM     LIKE WHERE   PName  Products \u2018%gizmo%\u2019",
+                "SELECT  LIKE(\u2018%gizmo%\u2019)  FROM      Products WHERE   PName",
+                "SELECT   * FROM      Products WHERE   PName LIKE \u2018%gizmo%\u2019"
+            ],
+            "correct_index": 3,
+            "index": "143",
+            "level": "2",
+            "question": "LIKE to`g`ri qollanilgan so`rovni ko`rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Imtixondan 4 chi va 5 chi bilet haqidagi ma`lumot",
+                "Imtixondan 4 va 5 olmaganlar hadiqa ma`lumot",
+                "Imtixondan 4,5 va undan past baho olganlar hadiqa ma`lumot",
+                "Imtixondan 4 yoki 5 olganlar hadiqa ma`lumot"
+            ],
+            "correct_index": 3,
+            "index": "144",
+            "level": "2",
+            "question": "Select * from exam Where mark in (4,5); so`rov natijasini toping",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "berilgan qatorni katta harflarga almashtirib beradi",
+                "berilgan qatorni kichik harflarga almashtirib beradi",
+                "berilgan satrni katta harflarga almashtirib beradi",
+                "berilgan ustunni kichik harflarga almashtirib beradi"
+            ],
+            "correct_index": 3,
+            "index": "145",
+            "level": "2",
+            "question": "Lower operatorining vazifasi nima?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "berilgan satrni kichik harflarga almashtirib beradi",
+                "berilgan qatorni kichik harflarga almashtirib beradi",
+                "berilgan ustunni katta harflarga almashtirib beradi",
+                "berilgan qatorni katta harflarga almashtirib beradi"
+            ],
+            "correct_index": 2,
+            "index": "146",
+            "level": "2",
+            "question": "Upper operatorining vazifasi nima?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "joriy vaqtni ko`rsatadi",
+                "soniyalar orasidagi farq",
+                "ko`rsatilgan vaqt",
+                "xatolik yuz beradi"
+            ],
+            "correct_index": 1,
+            "index": "147",
+            "level": "2",
+            "question": "SELECT TIMESTAMPDIFF(SECOND, '2015-04-29 22:14:55', '2015-04-29 22:24:18'); So`rov natijasini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ma`lumotlarni tasvirlash tili",
+                "Ma`lumotlarni manipulyatsiya qilish tili",
+                "Ma`lumotlarni nazorat qilish tili",
+                "Ma`lumotlarni saqlash tili"
+            ],
+            "correct_index": 0,
+            "index": "148",
+            "level": "2",
+            "question": "MBBTda DDL tilini vazifasi nima?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Length",
+                "Substr",
+                "Mid",
+                "First"
+            ],
+            "correct_index": 0,
+            "index": "149",
+            "level": "2",
+            "question": "SQLda satrni uzunligini aniqlab beradigan operatorni toping",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ma`lumotlarni nazorat qilish tili",
+                "Ma`lumotlarni tasvirlash tili",
+                "Ma`lumotlarni manipulyatsiya qilish tili",
+                "Ma`lumotlarni saqlash tili"
+            ],
+            "correct_index": 2,
+            "index": "150",
+            "level": "2",
+            "question": "MBBTda DML tilini vazifasi nima?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ma`lumotlarni tasvirlash tili",
+                "Ma`lumotlarni nazorat qilish tili",
+                "Ma`lumotlarni manipulyatsiya qilish tili",
+                "Ma`lumotlarni saqlash tili"
+            ],
+            "correct_index": 1,
+            "index": "151",
+            "level": "2",
+            "question": "MBBTda DCL tilini vazifasi nima?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Bitta jadval uchun Maksimal darajasi  6 G",
+                "Bitta jadval uchun Maksimal darajasi   2 G",
+                "Bitta jadval uchun Maksimal darajasi  4G",
+                "Bitta jadval uchun Maksimal darajasi  8 G"
+            ],
+            "correct_index": 2,
+            "index": "152",
+            "level": "2",
+            "question": "LONG toifasi xotiradan qancha joy egallaydi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Loyihalashning murakkabligi",
+                "Loyihalash, foydalanishda hamda boshqarishda  murakkabligi",
+                "Ekspluatatsiyaning murakkabligi",
+                "MB ga bo\u2018lgan talablar o\u2018zgaradi"
+            ],
+            "correct_index": 1,
+            "index": "153",
+            "level": "2",
+            "question": "Ko\u2018p foydalanuvchili MBBTda ishlashning murakkabligi nimada",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yo\u2018q",
+                "Ha",
+                "Ha, MySQL va ORACLE mahsulotlarida",
+                "MySQL dan tashqari har qanday MB da"
+            ],
+            "correct_index": 0,
+            "index": "154",
+            "level": "2",
+            "question": "Mahalliy (Lokal) MB da ko\u2018p foydalanuvchi ishlashiga ruxsat mavjudmi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "namuna",
+                "massiv RADON",
+                "Mirroring",
+                "nusxa"
+            ],
+            "correct_index": 2,
+            "index": "155",
+            "level": "2",
+            "question": "Zahira o\u2018rnini bosuvchi MBBT serveri nima deb ataladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "faqat ikkita",
+                "faqat bitta",
+                "bir nechta",
+                "kamida ikkitadan"
+            ],
+            "correct_index": 2,
+            "index": "156",
+            "level": "2",
+            "question": "Bitta tranzaksiya nechta operatsiyadan iborat bo\u2018lishi mumkin",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "3 (SET)",
+                "4 (ACID)",
+                "2 (IN)",
+                "1 ()"
+            ],
+            "correct_index": 1,
+            "index": "157",
+            "level": "2",
+            "question": "Tranzaksiya nechta xususiyatga ega",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Operatsiya",
+                "Tranzaksiya",
+                "O\u2018qish",
+                "Yozuvlarni qayd qilish"
+            ],
+            "correct_index": 1,
+            "index": "158",
+            "level": "2",
+            "question": "MB dagi ma\u2019lumotlarni tranzaktsiya mantiqiy birligi nima deb ataladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "CRUD",
+                "APID",
+                "ACID",
+                "DDL"
+            ],
+            "correct_index": 2,
+            "index": "159",
+            "level": "2",
+            "question": "Tranzaksiyalarning asosiy xususiyatlari",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tables",
+                "Backup",
+                "Config",
+                "Memory"
+            ],
+            "correct_index": 1,
+            "index": "160",
+            "level": "2",
+            "question": "Tizimdagi ma\u2019lumotlarni qayta tiklash uchun MB qanday imkoniyatidan foydalanish zarur",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "BEGIN TRANSACTION",
+                "FLUSh",
+                "ROLLBACK",
+                "COMMIT"
+            ],
+            "correct_index": 3,
+            "index": "161",
+            "level": "2",
+            "question": "Qaysi buyruqlardan biri tranzaksiyadagi o\u2018zgarishlarni saqlash uchun xizmat qiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ikkita",
+                "Bitta",
+                "Bir nechta",
+                "Uchtadan ko\u2018p emas"
+            ],
+            "correct_index": 2,
+            "index": "162",
+            "level": "2",
+            "question": "Ma'lumotlar bazasini boshqarish jarayonida bitta rolda nechta foydalanuvchi bo\u2018lishi mumkin",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ism ustunini guruhlaydi",
+                "Ism ustunini saralaydi",
+                "Ism ustunini oshib borish tartibda saralaydi",
+                "Test jadvalidan ism ustunini ajratib ko`rsatadi"
+            ],
+            "correct_index": 2,
+            "index": "163",
+            "level": "2",
+            "question": "SELECT * FROM test ORDER BY ism ASC; So`rovdagi \"ASC\" nima vazifa bajaradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "BEGIN TRANSACTION",
+                "COMMIT",
+                "ROLLBACK",
+                "COMMIT"
+            ],
+            "correct_index": 0,
+            "index": "164",
+            "level": "2",
+            "question": "Qaysi buyruqlardan biri tranzaksiyani boshlanishini e\u2019lon qilish uchun xizmat qiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "deshifrlash",
+                "Shifrlash",
+                "Foydalanuvchilar va rollar",
+                "Faqatgina ma\u2019lumotlarni himoyalash mavjud"
+            ],
+            "correct_index": 2,
+            "index": "165",
+            "level": "2",
+            "question": "Ma\u2019lumotlarga ruxsat etish xavfsizligi qanday mexanizm bilan ta\u2019minlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Fizik va mantiqiy rad etish hollarida oldingi holatdagi ma\u2019lumotlar bazasini tiklash uchun ma\u2019lumotlar saqlanadigan MBBT funksiyasi",
+                "Ma\u2019lumotlar bilan ishlashda o\u2018zining mantiqiy birligiga ega bo\u2018lgan ma\u2019lumotlar bazasi jarayonlarining ketma-ket bajarilish guruxi",
+                "MBBT ga bo\u2018lgan asosiy talablardan biri bu tashqi xotirada ma\u2019lumotlarni ishonchli saqlanishidir",
+                "MBning asosiy qismi bo\u2018lib hisoblanadi va barcha rivojdagi MBBTda pratokol Write Ahead Log \u2013 WAL deb nomlanadi"
+            ],
+            "correct_index": 1,
+            "index": "166",
+            "level": "2",
+            "question": "Tranzaksiya bu......?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "COMMIT",
+                "ROLLBACK",
+                "BEGIN TRANSACTION",
+                "FLUSh"
+            ],
+            "correct_index": 1,
+            "index": "167",
+            "level": "2",
+            "question": "Qaysi buyruqlardan biri tranzaksiyani boshlang'ich holatga qaytarish uchun xizmat qiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "COMMIT",
+                "ROLLBACK",
+                "BEGIN TRANSACTION",
+                "FLUSH"
+            ],
+            "correct_index": 0,
+            "index": "168",
+            "level": "2",
+            "question": "Qaysi buyruqlardan biri tranzaksiya muvafaqiyatli bajarilganligini anglatadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Jadvallar ustida ayrim amallarni bajarish huquqi faqatgina aniq foydalanuvchiga va aniq vaqt davomida beriladi",
+                "Barcha foydalanuvchilar uchun alohida ma\u2019lumotlarni o\u2018qish huquqi",
+                "Faqatgina avtorizatsiyalashgan foydalanuv-chilar uchun harakatlarni bajarish huquqi",
+                "Ma\u2019lum toifadagi foydalanuvchilar uchun ma\u2019lumotlarni shifrlash va deshifrlash"
+            ],
+            "correct_index": 0,
+            "index": "169",
+            "level": "2",
+            "question": "Ma\u2019lumotlar bazasi xavfsizligini ta\u2019minlash nimalardan iborat bo'ladi",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Uchtadan ko\u2018p emas",
+                "Bitta",
+                "Ikkita",
+                "Bir nechta"
+            ],
+            "correct_index": 3,
+            "index": "170",
+            "level": "2",
+            "question": "Bitta foydalanuvchida nechtagacha rollar bo\u2018lishi mumkin",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Manzil nomli yangi kortejda so\u2019rov  natijalarini chiqarishga",
+                "Manzil nomli yangi qatorda so\u2019rov  natijalarini chiqarishga",
+                "Manzil nomli yangi jadvalda so\u2019rov  natijalarini chiqarishga",
+                "Manzil nomli yangi ustunda so\u2019rov  natijalarini chiqarishga"
+            ],
+            "correct_index": 3,
+            "index": "171",
+            "level": "3",
+            "question": "Quyidagi So\u2019rov berilgan. SELECT Familiya, CONCAT(shahar, \" \", tuman, \" \", manzil) AS manzil FROM talaba;  AS yordamchi so\u2019z vazifasi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "MijozName jadvalidan \u2018Alimov Bekzod\u2019 nomli Mijoz yozuvi o\u2019chirladi",
+                "Mijozlar jadvalidagi MijozName \u2018Alimov Bekzod\u2019 bo\u2019lgan yozuv o\u2019chiriladi",
+                "FROM Mijoz jadvalidan MijozName \u2018Alimov Bekzod\u2019 bo\u2019lgan yozuv o\u2019chiriladi",
+                "Mijoz WHERE jadvalidan MijozName \u2018Alimov Bekzod\u2019 bo\u2019lgan yozuv o\u2019chiriladi"
+            ],
+            "correct_index": 1,
+            "index": "172",
+            "level": "3",
+            "question": "DELETE FROM Mijozlar WHERE MijozName=\u2018Alimov Bekzod\u2019;",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Sikllar",
+                "Domen",
+                "Abstraktsiya",
+                "Tranzaksiya"
+            ],
+            "correct_index": 3,
+            "index": "173",
+            "level": "3",
+            "question": "Bir nechta amallar birligining bajarilishining nomlanishi nima deyiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Alimov_Doniyor'  jadvalga temporary foydalanuvchiga SELECT, INSERT operatorlarini ishlatishga ruxsat berish",
+                "Talaba  jadvalga, 'Alimov_Doniyor' foydalanuvchiga  SELECT, INSERT operatorlarini ishlatishga ruxsat berish",
+                "Temporary jadvalga, 'Alimov_Doniyor' foydalanuvchiga  SELECT, INSERT operatorlarini ishlatishga ruxsat bermaslik",
+                "'Alimov_Doniyor'  jadvalga temporary foydalanuvchiga SELECT, INSERT operatorlarini ishlatishga ruxsat berimaslik"
+            ],
+            "correct_index": 1,
+            "index": "174",
+            "level": "3",
+            "question": "GRANT SELECT, INSERT ON Talaba  TO 'Alimov_Doniyor'; so\u2019rovi natijasi",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "UPDATE `Xodim` SET `Familiyasi`=`Anvarov` where  `id`=5",
+                "ALTER `Xodim` AS `Familiyasi`=`Anvarov` where  `id`=5",
+                "SELECT `Xodim` SET `Familiyasi`=`Anvarov` where  `id`=5",
+                "UPDATE `Xodim` `Familiyasi`=`Anvarov`  SET where  `id`=5"
+            ],
+            "correct_index": 0,
+            "index": "175",
+            "level": "3",
+            "question": "Xodim jadvalida `id`=5 bo\u2018lgan xodimning Familiyasini o\u2018zgartirish amali qaysi javobda to\u2018g\u2018ri ko\u2018rsatilgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "KattaNarx  jadvalidan MAX(Baho) nomli ustunidagi ma\u2019lumotlarni eng kattasini ko\u2019rsatish",
+                "Yakuniy_Nazorat jadvalidagi Baho ustunidagi ma\u2019lumotlarni o\u2019rtachasini Katta_ball deb nomlab ko\u2019rsatish",
+                "MAX(Baho) nomli jadvaldan Baho ustunidagi ma\u2019lumotlarni o\u2019rtachasini Katta_ball deb nomlab ko\u2019rsatish",
+                "Yakuniy_Nazorat jadvalining Baho ustunidagi ma\u2019lumotlarni eng kattasini Katta_ball deb nomlab ko\u2019rsatish"
+            ],
+            "correct_index": 3,
+            "index": "176",
+            "level": "3",
+            "question": "MySQL so\u2019rov bajarilsa natijasi qanday bo\u2019ladi? SELECT MAX(Baho) AS Katta_ball FROM Yakuniy_Nazorat;",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Ma\u2019lumotlarni maydonga kiritish va yangi ustun qo\u2019shish  uchun",
+                "Ma\u2019lumotlarni ustunga kiritish va yangi maydon qo\u2019shish  uchun",
+                "Ma\u2019lumotlarni jadvalga kiritish va satr qo\u2019shish  uchun",
+                "Ma\u2019lumotlardagi maydon tipini o\u2019zgartirish uchun"
+            ],
+            "correct_index": 2,
+            "index": "177",
+            "level": "3",
+            "question": "INSERT INTO  operatori vazifasi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ALTER TABLE `Xodim` SET `Jinsi` varchar(10) not null",
+                "ALTER TABLE `Xodim` ADD COLUMN `Tel_raqam` text(15) null",
+                "ALTER TABLE `Xodim` RENAME `Yoshi` int(3) not null",
+                "ALTER TABLE `Xodim` CHANGE  `Tel_raqam` text(15)  not null"
+            ],
+            "correct_index": 1,
+            "index": "178",
+            "level": "3",
+            "question": "Xodim jadvaliga yangi atribut qo\u2018shish amali qaysi javobda to\u2018g\u2018ri ko\u2018rsatilgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "SELECT AVG(`maosh`) as `Natija` from `Xodim` WHERE `yoshi`>37 AND  LIKE `Familiyasi`=`A%`",
+                "SELECT AVG(`maosh`) as `Natija` from `Xodim` WHERE `yoshi`>37 AND  LIKE `A%`",
+                "SELECT AVG(`maosh`) as `Natija` from `Xodim` WHERE `yoshi`>37  AND  `Familiyasi`  LIKE`A%`",
+                "SELECT *  from `Xodim` WHERE `yoshi`>37 and LIKE `Familiyasi`=`A%`"
+            ],
+            "correct_index": 2,
+            "index": "179",
+            "level": "3",
+            "question": "\u201cXodim jadvalidan yoshi 37 dan yuqori va familiyasi A harfi bilan boshlanuvchilarning oylik maoshi o\u2018rta arifmetigi topilsin\u201d. Yuqoridagi shartni qaysi javobdagi so\u2018rov qanoatlantiradi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "SELECT COUNT(*) as `Natija`  from  `Talaba`  WHERE  `Familiyasi`  LIKE  `B%V`",
+                "SELECT COUNT(*) as `Natija` from `Talaba` WHERE  LIKE `Familiyasi` `B%V`",
+                "SELECT COUNT(*) as `Natija` from `Talaba` WHERE LIKE `Familiyasi` `B%V%`",
+                "SELECT COUNT(*) as `Natija` from `Talaba` WHERE `Familiyasi` LIKE `%B%V`"
+            ],
+            "correct_index": 0,
+            "index": "180",
+            "level": "3",
+            "question": "Talaba jadvalidan familiyasi B harfi bilan boshlanib, V harfi bilan tugovchilarini sonini sanash so\u2018rovi qaysi javobda to\u2018g\u2018ri ko\u2018rsatilgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Jadvaldagi  hamma ma\u2019lumotlar tipini varchar(5) ga o\u2019zgartiradi",
+                "Jadvaldagi \u2018Jinsi\u2019 nomli ustun ma\u2019lumot tipini varchar(5) ga o\u2019zgartiradi",
+                "Xodim Ustunidagi Jinsi qatorini 5 ga o\u2019zgartiradi",
+                "Xodim qatoridagi ma\u2019lumot uzunligini 5 taga bo\u2019ladi"
+            ],
+            "correct_index": 1,
+            "index": "181",
+            "level": "3",
+            "question": "ALTER TABLE `Xodim` MODIFY  `Jinsi` varchar(5); Sorovi natijasi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "SELECT  `Nomi`, MAX(`narx`) as `Natija` from `Mahsulot` GROUP BY `narx`  HAVING MAX(`Nomi`)>=4000",
+                "SELECT  `Nomi`, MAX(`narx`) as `Natija` from GROUP BY `Nomi`  HAVING MAX(`narx`)>4000",
+                "SELECT * from `Mahsulot` GROUP BY `Nomi`  HAVING MAX(`narx`)>4000",
+                "SELECT  `Nomi`, MAX(`narx`) as `Natija` from `Mahsulot` GROUP BY `Nomi`  HAVING MAX(`narx`)>=4000"
+            ],
+            "correct_index": 3,
+            "index": "182",
+            "level": "3",
+            "question": "Mahsulot jadvalidan narxi 4000 so'm va undan yuqori bo\u2018lganlarini nomi bo\u2018yicha guruhlab chiqarish so\u2018rovi qaysi javobda to\u2018g\u2018ri ko\u2018rsatilgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "SELECT  `Fan_nomi`, MAX(`fan_soati`) as `Natija` from `Fanlar` GROUP BY `Fan_nomi`  HAVING MAX(`fan_nomi`)>80",
+                "SELECT  `Fan_nomi`, MAX(`fan_soati`)  from `Fanlar` GROUP BY `Fan_nomi`  HAVING MAX(`fan_soati`)>=80",
+                "SELECT  `Fan_nomi`, MAX(`fan_soati`) as `Natija` GROUP BY `Fan_soati`  HAVING MAX(`fan_soati`)>80",
+                "SELECT  `Fan_nomi`, MAX(`fan_soati`) as `Natija` from `Fanlar` GROUP BY `Fan_nomi`  HAVING MAX(`fan_soati`)>80"
+            ],
+            "correct_index": 3,
+            "index": "183",
+            "level": "3",
+            "question": "Fanlar jadvalidan `fan_soati` 80 dan yuqori bo\u2018lganlarini nomi bo\u2018yicha guruhlab chiqarish so\u2018rovi qaysi javobda to\u2018g\u2018ri ko\u2018rsatilgan",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "ALTER TABLE `Xodim` DELETE `Jinsi` varchar(10) not null",
+                "ALTER TABLE `Xodim` DROP  COLUMN `Tel_raqam` text(15)",
+                "ALTER TABLE `Xodim` DROP RENAME `Yoshi` int(3) not null",
+                "ALTER TABLE `Xodim` CHANGE  DROP `Tel_raqam` text(15)  not null"
+            ],
+            "correct_index": 1,
+            "index": "184",
+            "level": "3",
+            "question": "Xodim jadvalidan ixtiyoriy atributni o'chirish amali qaysi javobda to\u2018g\u2018ri ko\u2018rsatilgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ALTER TABLE `Xodim` MODIFY  `Jinsi` varchar(5)",
+                "ALTER TABLE `Xodim` MODIFY ALTER `Jinsi` varchar(10) not null",
+                "ALTER TABLE `Xodim` MODIFY CHANGE `Yoshi int(3) not null",
+                "ALTER TABLE `Xodim` CHANGE COLUMN `Tel_raqam` text(15)  not null"
+            ],
+            "correct_index": 0,
+            "index": "185",
+            "level": "3",
+            "question": "Xodim jadvalidan ixtiyoriy atributning ma'lumot tipini o'zgartirish amali qaysi javobda to\u2018g\u2018ri ko\u2018rsatilgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ALTER TABLE `Mahsulot` CHANGE COLUMN `narxi` text(15)  null",
+                "ALTER TABLE `Mahsulot` MODIFY ALTER `nomi` varchar(10) null",
+                "ALTER TABLE `Mahsulot`  MODIFY CHANGE `nomi`  text(3) null",
+                "ALTER TABLE `Mahsulot` MODIFY  `narxi` varchar(15)  null"
+            ],
+            "correct_index": 3,
+            "index": "186",
+            "level": "3",
+            "question": "Mahsulot jadvalidan ixtiyoriy atributning ma'lumot tipini o'zgartirish amali qaysi javobda to\u2018g\u2018ri ko\u2018rsatilgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ko`rsatilgan vaqt",
+                "joriy vaqtni ko`rsatadi",
+                "Yillar orasidagi farq",
+                "xatolik yuz beradi"
+            ],
+            "correct_index": 2,
+            "index": "187",
+            "level": "3",
+            "question": "SELECT TIMESTAMPDIFF(YEAR, '2015-04-29 22:14:55', '2018-04-29 22:24:18'); So`rov natijasini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Baho ustunini teskarisiga saralaydi",
+                "Baho ustunini saralaydi",
+                "Baho ustunini guruhlaydi",
+                "Talaba jadvalidan Baho ustunini ajratib ko`rsatadi"
+            ],
+            "correct_index": 0,
+            "index": "188",
+            "level": "3",
+            "question": "SELECT * FROM talaba ORDER BY baho DESC; So`rovdagi \"desc\" nima vazifa bajaradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "jadval",
+                "qator",
+                "birlashuv",
+                "ustun"
+            ],
+            "correct_index": 3,
+            "index": "189",
+            "level": "3",
+            "question": "Berilgan misoldagi \u2018number\u2019 so\u2019zi ?: SELECT * FROM STUDENT WHERE group_id IN (SELECT id FROM group WHERE number=\u2018217-18\u2019)",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "INSERT INTO CUSTOMERS (ID,NAME,AGE,ADDRESS,SALARY)  VALUES (2, 'Khurshid', 25, 'Denov', 1500.00 );",
+                "INSERT INTO CUSTOMERS (ID,NAME,AGE,ADDRESS,SALARY) VALUES (1, 'Rustam', 32, 'Andijon', Done );",
+                "INSERT INTO CUSTOMERS (ID,NAME,AGE,ADDRESS,SALARY) VALUES (3, 'Kamronbek', 23, 'Karshi', 2000.00 );",
+                "INSERT INTO CUSTOMERS (ID,NAME,AGE,ADDRESS,SALARY) VALUES (4, 'Charos', 25, 'Chirchiq', 6500.00 );"
+            ],
+            "correct_index": 1,
+            "index": "190",
+            "level": "3",
+            "question": "Quyidagi berilgan MySQL so\u2019rovini ishga tushirsa sintaksis xato bor deb, bajarilmaydigan so\u2019rovni toping.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "P bilan tugovchi familyalar chiqadi.",
+                "P harfi bilan boshlanadigan familyalar chiqadi.",
+                "Hech nima chiqmaydi",
+                "P harfiga teng bo\u2018lmagan familyalar chiqadi"
+            ],
+            "correct_index": 1,
+            "index": "191",
+            "level": "3",
+            "question": "SELECT * FROM STUDENT WHERE SURNAME LIKE 'P%';",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "SELECT * from Talaba WHERE LIKE `Familiyasi`  '%ev'",
+                "SELECT * from Talaba WHERE `Familiyasi` LIKE '%ev'",
+                "SELECT * from Talaba  `Familiyasi`  WHERE LIKE '%ev%'",
+                "SELECT * from Talaba WHERE `Familiyasi`  LIKE 'ev'"
+            ],
+            "correct_index": 1,
+            "index": "192",
+            "level": "3",
+            "question": "Qaysi javobda LIKE operatoridan to'g'ri foydalanilgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "SELECT `Familiyasi as `Talaba` GROUP BY `Familiyasi` HAVING MAX(`baho`)>4",
+                "\"SELECT `Familiyasi`, MAX(`baho`) as `Talaba` GROUP BY `baho` HAVING MAX(`Familiyasi`)>4\"",
+                "\"SELECT `Familiyasi`, MAX(`baho`) as `Natija` from `Talaba` GROUP BY `Familiyasi` HAVING MAX(`baho`)>4\"",
+                "\"SELECT `Familiyasi`, MAX(`baho`) as `Natija` from `Talaba` GROUP BY `Familiyasi` HAVING MAX(`baho`)= 4\""
+            ],
+            "correct_index": 2,
+            "index": "193",
+            "level": "3",
+            "question": "Talaba jadvalidan bahosi 4 dan yuqori bo\u2018lganlarini familiyasi bo\u2018yicha guruhlab chiqarish so\u2018rovi qaysi javobda to\u2018g\u2018ri ko\u2018rsatilgan",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Narx jadvalidan Maxsulotlar nomli ustundagi ma\u2019lumotlar ichidan 101 va 205 orasidagi yozuvlarni ko\u2019rsatish hamda CategoryID = 1,2,3,8,12 ga teng bo\u2019lganlarini ko\u2019rsatmaslik",
+                "Maxsulotlar jadvalidan Narx nomli ustundagi ma\u2019lumotlar ichidan 101 va 205 orasidagi yozuvlarni tanlash hamda CategoryID = 1,2,3,8,12 ga teng bo\u2019lganlarini ko\u2019rsatmaslik",
+                "Maxsulotlar jadvalining Narx nomli ustundagi ma\u2019lumotlar ichidan 101 va 205 lar oralig\u2019idagi yozuvi bor qatorlarni ko\u2019rsatish hamda faqat CategoryID = 1,2,3,8,12 ga teng bo\u2019lganlarini ko\u2019rsatish",
+                "Narx jadvalining Maxsulotlar nomli ustundagi ma\u2019lumotlar ichidan 101 va 205 orasidagi yozuvlarni tanlash hamda CategoryID = 1,2,3,8,12 ga teng bo\u2019lganlarini ko\u2019rsatish"
+            ],
+            "correct_index": 2,
+            "index": "194",
+            "level": "3",
+            "question": "Maxsulotlar nomli jadval berilgan. Quyidagi MySQL so\u2019rov bajarilsa natijasi qanday bo\u2019ladi?  SELECT * FROM Maxsulotlar WHERE Narx BETWEEN 101 AND 205 AND CategoryID IN (1,2,3,8,12);",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Birinchi jadvaldan ikkinchi jadvalga shartlarda berilgan ma\u2019lumotlarni ko\u2019chirishga ruxsat bermaslik",
+                "Birinchi jadvaldan ikkinchi jadvalga shartlarda berilgan ma\u2019lumotlarni ko\u2019chirish",
+                "Faqatgina birinchi jadvalga ko\u2019chirish ortib qolsa ikkinchi jadvalga ko\u2019chirish",
+                "Birinchi jadvaldagi hamma ma\u2019lumotlarni ikkinchi jadvalga ko\u2019chirib o\u2019tqazish"
+            ],
+            "correct_index": 1,
+            "index": "195",
+            "level": "3",
+            "question": "Qaysi javobda INSERT INTO SELECT amali bajarilish tartibi to\u2019g\u2019ri keltirilgan?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "SELECT *  as `Natija` `O'quvchilar`  from  `Yoshi`  WHERE `='10'",
+                "SELECT Count(ID) as `Natija` from `O'quvchilar` WHERE `Yoshi`>='10'",
+                "SELECT Count(ID) as `Natija` from `O'quvchilar` WHERE `Yoshi`='10'",
+                "SELECT SUM(ID) as `Natija` from `O'quvchilar` WHERE `Yoshi`='10'"
+            ],
+            "correct_index": 2,
+            "index": "196",
+            "level": "3",
+            "question": "O'quvchilar jadvalidan 10 yoshlilarini sonini chiqaruvchi so'rov qaysi javobda to'g'ri ko'rsatilgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "SELECT * from Xodim WHERE Ism LIKE '%or%'",
+                "SELECT * from Xodim WHERE LIKE `Ism`  '%or'",
+                "SELECT * from Xodim  `Ism`  WHERE LIKE '%or%'",
+                "SELECT * from Xodim WHERE Ism LIKE ='or'"
+            ],
+            "correct_index": 0,
+            "index": "197",
+            "level": "3",
+            "question": "Qaysi javobda LIKE operatoridan to'g'ri foydalanilgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "SELECT   * FROM  LIKE WHERE   Name  Products \u2018%ford%\u2019",
+                "SELECT   * FROM  Products WHERE   Name LIKE \u2018%ford%\u2019",
+                "SELECT  LIKE (\u2018%ford%\u2019)  FROM  Products WHERE  Name",
+                "SELECT   * FROM  Products,   Name LIKE \u2018%ford%\u2019"
+            ],
+            "correct_index": 1,
+            "index": "198",
+            "level": "3",
+            "question": "LIKE to`g`ri qo'llanilgan so`rovni ko`rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ahmedov****",
+                "**********Ahmedov",
+                "****Ahmedov",
+                "Ahmedov******"
+            ],
+            "correct_index": 2,
+            "index": "199",
+            "level": "3",
+            "question": "Select LPAD(oyinchi, 11, '*') from fun. So`rov natijasini tanlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "****Ahmedov",
+                "Ahmedov****",
+                "Ahmedov***",
+                "**********Ahmedov"
+            ],
+            "correct_index": 1,
+            "index": "200",
+            "level": "3",
+            "question": "Select RPAD(oyinchi, 11, '*') from func; So`rov natijasini tanlang",
+            "type": "short"
+        }
+    ]
+}

@@ -26,6 +26,10 @@ const users = (sequelize, DataTypes) => {
     group: {
       type: DataTypes.STRING,
     },
+    soni: {
+      type: DataTypes.INTEGER,
+      defaultValue: 0,
+    },
   });
   return users;
 };

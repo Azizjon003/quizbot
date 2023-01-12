@@ -1,0 +1,2380 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "tog'ri javob yo'q",
+                "{-5;4}",
+                "{4;3}",
+                "{4}"
+            ],
+            "correct_index": 3,
+            "index": 1,
+            "question": "Agar A={xϵN:x^2+x-20=0}, B={xϵR:x^2-7x+12=0}, u holda A ∩ B=?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{1,2,3,6}",
+                "{12,14,36,…}",
+                "{1,2,3,4,6,12}",
+                "{2,12}"
+            ],
+            "correct_index": 0,
+            "index": 2,
+            "question": "To'plamni ro'yxat tarzida bering: A={n┤|12 bo'linadi 2n}",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "d, f",
+                "а, b, d",
+                "b, d",
+                "d"
+            ],
+            "correct_index": 0,
+            "index": 3,
+            "question": "Quydagi to'plamlar berilgan A={1,2,3,4,5}, B={3,5,7}, C={3}. Keltirilgan tasdiqlardan a) A⊆B; b) A⊆C; c) B⊆A; d) C⊆A; e) B⊆C; f) C⊆B qaysilari to'g'ri?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "а, b",
+                "b, c",
+                "d, f",
+                "d, c"
+            ],
+            "correct_index": 1,
+            "index": 4,
+            "question": "Quydagi to'plamlar berilgan A={1,a,2,b,3,c}, B={1,2,3}, C={a,b,c}. Keltirilgan tasdiqlardan a)A⊆B∩C; b) A⊆C∪B; c) B⊆A\\C; d) C⊆B\\A; e) B⊆C∩A; f) C⊆B∩A qaysilari to'g'ri?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "romb",
+                "uchburchak",
+                "∅",
+                "kvadrat"
+            ],
+            "correct_index": 3,
+            "index": 5,
+            "question": "Agar A –barcha mumkin bo'lgan to'g'ri to`rtburchaklar to'plami, B-romblar to'plami, u holda A ∩ B =?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "bo'sh to'plam",
+                "cheksiz to'plam",
+                "chekli to'plam",
+                "chegaralangan to'plam"
+            ],
+            "correct_index": 0,
+            "index": 6,
+            "question": "Bitta ham elementga ega bo'lmagan to'plam –...?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ekvivalent to'plam",
+                "chekli to'plam",
+                "bo'sh to'plam",
+                "Sanoqli to'plam"
+            ],
+            "correct_index": 3,
+            "index": 7,
+            "question": "Barcha elementlarini no'merlash mumkin bo'lgan cheksiz to'plam – ...?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "6",
+                "3",
+                "9",
+                "5"
+            ],
+            "correct_index": 2,
+            "index": 8,
+            "question": "Uchta to'plam berilgan bo'lsin A ={1;2;3}; B = {4;5;6}; C = {7;8;9}. Quydagi to'plam neshta elementdan iborat bo'ladi D = A U B U C ?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{30;40;50}",
+                "{20;30;40;50}",
+                "{10;20;30;40;50;60}",
+                "tog'ri javob yo'q"
+            ],
+            "correct_index": 1,
+            "index": 9,
+            "question": "Ikkita to'plam berilgan bo'lsin A = {20;30;40;50}; B = {10;20;30;40;50;60}. D= A ∩ (A U B) to'plamni toping?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A",
+                "A∩B",
+                "A△B",
+                "A∪B"
+            ],
+            "correct_index": 0,
+            "index": 10,
+            "question": "Quydagini soddalashtiring: (A\\B)⋃(A⋂B)",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "∅",
+                "A∪B",
+                "A△B",
+                "A∩B"
+            ],
+            "correct_index": 0,
+            "index": 11,
+            "question": "Quydagini soddalashtiring: ((A\\B)∪(A∩B))\\A",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "3",
+                "5",
+                "4",
+                "6"
+            ],
+            "correct_index": 3,
+            "index": 12,
+            "question": "Quydagi A va B to'plamlarni dekart ko'paytmasi neshta elemendan iborat bo'ladi. A = {1;2;3} ; B = {3;4} ?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(1,3),(2,4)}",
+                "{(1,3),(1,4),(2,3),(2,4)}",
+                "{(3,1),(3,2),(4,1),(4,2)}",
+                "{(1,2),(3,4)}"
+            ],
+            "correct_index": 2,
+            "index": 13,
+            "question": "Quydagi to'plamlar berilgan bo'lsin А={1,2} ; В={3,4}. Dekart ko'paytma B×A qaysi javobda berilgan?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(1,2),(2,5),(4,2)}",
+                "{(3,1),(4,1),(5,1),(5,2)}",
+                "{(2,1),(6,4)}",
+                "{(2,3),(5,3)}"
+            ],
+            "correct_index": 1,
+            "index": 14,
+            "question": "To'plam А={1,2,3,4,5}. A – to'plamdagi x > 2y binar munosabatning qism to'plami qaysi javobda ko'rsatilgan?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(1,1),(1,2),(3,6),(5,6)}",
+                "{(1,2),(2,5),(4,6)}",
+                "{(3,2),(4,3),(5,2),(5,3),(5,4)}",
+                "{(2,1),(4,4)}"
+            ],
+            "correct_index": 2,
+            "index": 15,
+            "question": "А={1,2,3,4,5} to'plamdagi «o'zaro tub» va x > y binar munosabatning qism to'plami ?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{{2,2},(4,2),(4,4),{7,7}}",
+                "{(2;2);(2;4);(2;7);(2;20)}",
+                "{(2;4);(2;7);(4;20)}",
+                "{(2;2); (2;20);(4;20)}"
+            ],
+            "correct_index": 0,
+            "index": 16,
+            "question": "A = {2;4;7;20} to'plamdagi R = {(x,y): x,y∈A,x bo'linadi y va x ≤ 10} binar munosabat nimaga teng?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(a,2),(b,2)}",
+                "{(1,a),(2,b)}",
+                "{(a,2)}",
+                "{(a,1),(b,1),(a,2),(b,2)}"
+            ],
+            "correct_index": 1,
+            "index": 17,
+            "question": "To'plamlarni dekart ko'paytmasida А={a,b} va В={1,2} munosabatlar aniqlangan. Qaysi munosabat suryektivlik funksiyasi f: B→A bo'ladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(1,b),(2,a),(1,c)}",
+                "{(1,a),(2,a)}",
+                "{(a,1),(a,2),(b,1),(b,2),(c,1),(c,2)}",
+                "{(1,a),(2,b),(1,c),(2,c)}"
+            ],
+            "correct_index": 2,
+            "index": 18,
+            "question": "Agar А={1,2} va В={a,b,c} bo'lsa, B x A qaysi javobda to'g'ri aniqlangan?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(1,a),(3,c),(2,a),(2,b)}",
+                "{(1,a),(2,c)}",
+                "{(1,a),(2,b)}",
+                "{(a,1),(b,2),(c,3)}"
+            ],
+            "correct_index": 3,
+            "index": 19,
+            "question": "To'plamlarni dekart ko'paytmasida А={1,2,3} va В={a,b,c} munosabatlar aniqlangan. Qaysi munosabat biektivlik funksiyasi f: B→A bo'ladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{4;3}",
+                "{-5;4}",
+                "{-5;3;4}",
+                "tog'ri javob yo'q"
+            ],
+            "correct_index": 2,
+            "index": 20,
+            "question": "Agar A={xϵN:x^2+x-20=0}, B={xϵR:x^2-7x+12=0}, u holda A U B=?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{1,2,3,4,6,12}",
+                "{12,14,36,…}",
+                "{1,2,3,6,12}",
+                "{2,12}"
+            ],
+            "correct_index": 0,
+            "index": 21,
+            "question": "To'plamni ro'yxat tarzida bering: A={n┤|12 bo'linadi n}",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "а, b, d",
+                "d, e",
+                "b, d",
+                "d"
+            ],
+            "correct_index": 1,
+            "index": 22,
+            "question": "Quydagi to'plamlar berilgan A={1,2,3,4,5}, B={3,5,7}, C={3,5}. Keltirilgan tasdiqlardan, a) A⊆B, b) A⊆C, c) B⊆A, d) C⊆A, e) C⊆B qaysilari to'g'ri",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "b, c, d",
+                "а, b",
+                "d, f",
+                "d, c"
+            ],
+            "correct_index": 0,
+            "index": 23,
+            "question": "Quydagi to'plamlar berilgan, A={1,a,2,b,3,c}, B={1,2,3}, C={a,b,c}. Keltirilgan tasdiqlardan, a) A⊆B∩C, b) A⊆C∪B, c) B⊆A\\C, d) C⊆A\\B, e) B⊆C∩A, f) C⊆B∩A qaysilari to'g'ri",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "kvadrat",
+                "uchburchak",
+                "∅",
+                "romb"
+            ],
+            "correct_index": 0,
+            "index": 24,
+            "question": "Agar A – barcha mumkin bo'lgan to'g'ri to'rtburchaklar to'plami, B-romblar to'plami, u holda A ∩ B = ?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "chegaralangan to'plam",
+                "bo'sh to'plam",
+                "chekli to'plam",
+                "cheksiz to'plam"
+            ],
+            "correct_index": 3,
+            "index": 25,
+            "question": "Elementlari sanoqsiz darajada ko'p bo'lgan to'plam –",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ekvivalent to'plam",
+                "sanoqli to'plam",
+                "bo'sh to'plam",
+                "chekli to'plam"
+            ],
+            "correct_index": 3,
+            "index": 26,
+            "question": "N ta elementlardan tashkil topgan to'plam –",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "6",
+                "9",
+                "3",
+                "5"
+            ],
+            "correct_index": 2,
+            "index": 27,
+            "question": "Uchta to'plam berilgan bo'lsin A ={1;2;3}; B = {4;5;6}; C = {7;8;9}. Quydagi to'plam neshta elementdan iborat bo'ladi D = A ∩ B U C ?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{20;30;40}",
+                "{30;40;50}",
+                "{10;20;30;40;50;60}",
+                "tog'ri javob yo'q"
+            ],
+            "correct_index": 0,
+            "index": 28,
+            "question": "Ikkita to'plam berilgan bo'lsin A = {20;30;40}; B = {10;20;30;40;50;60}. D=A∩(AUB) to'plamni toping?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{2,6,7,8}",
+                "{6}",
+                "{5,6}",
+                "{2,6}"
+            ],
+            "correct_index": 0,
+            "index": 29,
+            "question": "Agar A={2,3,4,5,6}, B={5,6,7,8} va C={3,4,5} bo'lsa, (А∪В)\\С = ?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{5,6}",
+                "{2,6,7,8}",
+                "{6}",
+                "{2,6}"
+            ],
+            "correct_index": 2,
+            "index": 30,
+            "question": "Agar A={2,3,4,5,6}, B={5,6,7,8} va C={3,4,5} bo'lsa, А∩В\\С = ?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{2,6,7,8}",
+                "{6}",
+                "{3,4,5,6}",
+                "{5,6}"
+            ],
+            "correct_index": 2,
+            "index": 31,
+            "question": "Agar A={2,3,4,5,6}, B={5,6,7,8} va C={3,4,5} bo'lsa, (А∩В)∪(А∩С)∪(В∩С) = ?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "35",
+                "30",
+                "10",
+                "60"
+            ],
+            "correct_index": 2,
+            "index": 32,
+            "question": "A – to'plamda 5 ta 2 ga bo'linuvchi son, 7 ta 3 ga bo'linuvchi son va 2 ta 6 ga bo'linuvchi sonlardan tashkil topgan. Agar A dan olingan har qanday son 2 yoki 3 ga bo'linishi ma`lum bo'lsa, A to'plam neshta son mavjud?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "А∪В={x;x∈A yoki x∈B}",
+                "А∪В={x;x∈A va x∈B}",
+                "А∪В={x;x∈A, x∉B}",
+                "А∪В={x;x∉A, x∈B}"
+            ],
+            "correct_index": 0,
+            "index": 33,
+            "question": "A va B to'plamning birlashmasi uchun",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "А\\В={x;x∈A va x∈B}",
+                "А\\В={x;x∈A,x∉B}",
+                "А\\В={x;x∈A yoki x∈B}",
+                "А\\В={x;x∉A, x∈B}"
+            ],
+            "correct_index": 0,
+            "index": 34,
+            "question": "A va B to'plamning kesishmasi uchun",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "А\\В={x;x∈A,x∈B}",
+                "А\\В={x;x∈A,x∉B}",
+                "А\\В={x;x∉A,x∉B}",
+                "А\\В={x;x∈A yoki x∈B}"
+            ],
+            "correct_index": 1,
+            "index": 35,
+            "question": "A va B to'plamning ayirmasi uchun",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ayrim hollarda to`g`ri",
+                "Tenglik o`rinli emas",
+                "Tenglik o`rinli",
+                "Qisman to`g`ri"
+            ],
+            "correct_index": 2,
+            "index": 36,
+            "question": "f:M→N uchun, A⊂M,B⊂M bo`lsa quyidagi f(A∪B)=f(A)∪f(B)",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Syu`rektiv emas",
+                "In`ektiv",
+                "Biektiv",
+                "Syu`rektiv"
+            ],
+            "correct_index": 0,
+            "index": 37,
+            "question": "M=[-1;1],N=[0;1],f(x)=x^2 akslantirish bu … .",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Biektiv",
+                "Syu`rektiv",
+                "In`ektiv",
+                "Biektiv emas"
+            ],
+            "correct_index": 0,
+            "index": 38,
+            "question": "Μ=Ν=[0;1] da f(x) =x^3 akslantirish",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "B(X) to`plamlar ayirmasi deb ataladi",
+                "B(X) bo`sh to`plamni ifodalayi",
+                "B(X) to`plamlar kesishmasi deb ataladi",
+                "B(X) to`plamlar sistemasi deb ataladi"
+            ],
+            "correct_index": 3,
+            "index": 39,
+            "question": "B(X)={A;A⊂X} bu erda X biror to'plam",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Dinamik masala",
+                "Chiziqli masala",
+                "Chiziqsiz masala",
+                "kvadratik masala"
+            ],
+            "correct_index": 2,
+            "index": 40,
+            "question": "Klassik Logranj ko`paytuvchilar qoidasi qanday masala uchun qo`llaniladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tartiblangan to'plam",
+                "Qisman tartiblangan to'plam",
+                "Bo'sh to'plam",
+                "Bo'sh bo'lmagan to'plam"
+            ],
+            "correct_index": 1,
+            "index": 41,
+            "question": "A⊂M uchun ∀x_1,x_2 ϵA, elementlarini solishtirish mumkin bo'lsa A to'plamni zanjir deb ataymiz. M-qanday to'plam",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "А∆В=(A\\B)∪(B\\A)=(A∪B)\\(A∩B)",
+                "А∆В={x;x∈A va x∈B}",
+                "А∆В={x;x∈A yoki x∈B}",
+                "А∆В={x;x∈A yoki x∉B}"
+            ],
+            "correct_index": 0,
+            "index": 42,
+            "question": "A va B to'plamning simmetrik ayirmasi uchun",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "А∪B",
+                "B",
+                "А\\B",
+                "А"
+            ],
+            "correct_index": 3,
+            "index": 43,
+            "question": "Agar B⊂А bo'lsa, u holda (А\\B)∪B=?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "17",
+                "30",
+                "13",
+                "56"
+            ],
+            "correct_index": 1,
+            "index": 44,
+            "question": "Talaba matematika fanidan praktika vazifasini bajarishi kerak. Unga vazifa sifatida 17 ta mavzu algebradan va 13 ta mavzu geometriyadan tafsiya qilindi. Necha xil usul bilan u o'ziga 1 ta mavzu tanlashi mumkin.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "60",
+                "30",
+                "35",
+                "10"
+            ],
+            "correct_index": 3,
+            "index": 45,
+            "question": "A – to'plamda 5 ta 2 ga bo'linuvchi son, 7 ta 3 ga bo'linuvchi son va 2 ta 6 ga bo'linuvchi sonlardan tashkil topgan. Agar A dan olingan har qanday son 2 yoki 3 ga bo'linishi ma`lum bo'lsa, A to'plam neshta son mavjud?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "10",
+                "20",
+                "60",
+                "56"
+            ],
+            "correct_index": 1,
+            "index": 46,
+            "question": "Maxraji 50 ga teng bo'lgan to'g'ri qisqarmaydigan kasrlar nechta?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "8",
+                "9",
+                "10",
+                "11"
+            ],
+            "correct_index": 0,
+            "index": 47,
+            "question": "“KAMZUL” so'zida unli va undosh harflar necha xi lusulda tanlab olish mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "100",
+                "110",
+                "80",
+                "120"
+            ],
+            "correct_index": 0,
+            "index": 48,
+            "question": "1 dan 20 gacha bo'lgan natural sonlardan yig'indisi toq son bo'lgan sonni necha xil usulda tanlab olish mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "35",
+                "12",
+                "7",
+                "11"
+            ],
+            "correct_index": 0,
+            "index": 49,
+            "question": "5 xil turdagi marka va 7 xil markasiz convert bor. Xat jo'natish uchun konvertlar necha xil usulda tanlab olinishi kerak?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "17160",
+                "208",
+                "〖52〗^4",
+                "〖13〗^4"
+            ],
+            "correct_index": 0,
+            "index": 50,
+            "question": "Karta to'liq kolodasidan (52 dona) 4 ta har xilini necha usulda tanlab olinish mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "90",
+                "120",
+                "88",
+                "22"
+            ],
+            "correct_index": 2,
+            "index": 51,
+            "question": "Savatda 12 ta olma va 10 ta apelsin bor. Laylo savatdan olma va 2та apelsin tanlab oldi, undan keyin Aziza olma va apelsin tanlab oldi. Aziza necha xil usulda olma va apelsin tanlay oladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "14",
+                "28",
+                "48",
+                "96"
+            ],
+            "correct_index": 1,
+            "index": 52,
+            "question": "Mo'jizalar mamlakatida 4 ta shahar bor: A,B,C,A shahardan B shaharga 6ta yo'l bor. B shahardan C shaharga 4ta yo'l bor, A shahardan D shaharga 2ta yo'l D dan C ga 2ta yo'l bor. A dan Cga necha xil usulda yetib borish mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "takrorlanmagan o'rinlashtirish",
+                "o'rinlashtirish",
+                "o'rin almashtirish",
+                "takrorlanmagan gruppalash"
+            ],
+            "correct_index": 3,
+            "index": 53,
+            "question": "n ta elementdan takrorlanmasdan olingan tartiblanmagan k-ta tanlanma nima deb ataladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "takrorlangan o'rinlashtirish",
+                "gruppalash",
+                "o'rin almashtirish",
+                "Takrorlangan gruppalash"
+            ],
+            "correct_index": 0,
+            "index": 54,
+            "question": "n ta elementdan takrorlanib olingan tartiblangan k- ta tanlanma nima deb ataladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "takrorlangan gruppalash",
+                "takrorlangan o'rin almashtirish",
+                "o'rin almahtirish",
+                "gruppalash"
+            ],
+            "correct_index": 2,
+            "index": 55,
+            "question": "n-ta elementdan tuzilgan tartiblangan takrorlanmagan n- tanlanma:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "n!/k!(n-k)!",
+                "n!/(n-k)!",
+                "k!/n!(n-k)!",
+                "k^n"
+            ],
+            "correct_index": 1,
+            "index": 56,
+            "question": "n-ta elementdan k-tadan olingan takrorlanmagan o'rinlashtirishlar soni qaysi ifodada ko'rsatilgan?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "2652",
+                "2684",
+                "2680",
+                "2180"
+            ],
+            "correct_index": 0,
+            "index": 57,
+            "question": "52!/50! ni hisoblang.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "11",
+                "204",
+                "260",
+                "9"
+            ],
+            "correct_index": 3,
+            "index": 58,
+            "question": "Hisoblang. (A_6^5+A_6^4)/(A_6^3 )",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "15",
+                "22",
+                "18",
+                "21"
+            ],
+            "correct_index": 3,
+            "index": 59,
+            "question": "(x+2)^7 binom yoyilmasining 6-hadi oldidagi koeffitsiyentni toping.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "5",
+                "6",
+                "4",
+                "3"
+            ],
+            "correct_index": 2,
+            "index": 60,
+            "question": "Tenglamani yeching. A_x^2*C_x^(x-1)=48",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "n!/k!(n-k)!",
+                "k!/n!(n-k)!",
+                "n!/(n-k)!",
+                "n^k"
+            ],
+            "correct_index": 0,
+            "index": 61,
+            "question": "n-ta elementdan k-tadan olingan gruppalashlar soni qaysi ifodada ko'rsatilgan?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "n^n",
+                "n(n-1)!",
+                "n!",
+                "2^n"
+            ],
+            "correct_index": 3,
+            "index": 62,
+            "question": "C_n^0+C_n^1+⋯+C_n^n yig'indi nechaga teng?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "240",
+                "1440",
+                "480",
+                "360"
+            ],
+            "correct_index": 2,
+            "index": 63,
+            "question": "Mashinada haydovchi o'rni bilan birgalikda 6 ta o'rin bor. Mashinaga 6ta odamni necha hil usulda joylashtirish mumkin,agar ulardan 4 tasida haydovchilik guvohnomasi bo'lsa?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "860",
+                "720",
+                "32",
+                "1680"
+            ],
+            "correct_index": 3,
+            "index": 64,
+            "question": "Talaba 8 kun davomida 4 ta imtixon topshirishi kerak. Agar 1 kunda 1 tadan ko'p imtixon topshirish mumkin bo'lmasa, 4 ta imtixonni necha hil usulda topshirish mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "5039",
+                "2064",
+                "40",
+                "2109"
+            ],
+            "correct_index": 0,
+            "index": 65,
+            "question": "Seyf qulfi 0 dan 9 gacha bo'lgan raqamlarni 4 honali kombinatsiyasi to'g'ri terilganda ochiladi. Agar kodni bilmasangiz va kodda bir hil raqamlar bo'lmasa muvafaqqiyatsiz urinishlarning eng katta sonini aniqlang?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "4^5",
+                "625",
+                "499",
+                "8999"
+            ],
+            "correct_index": 1,
+            "index": 66,
+            "question": "Natural sonni “yaxshi” deb ataymiz, agar uni yozilishida faqat toq raqamlar ishtirok ets4 xonali “yaxshi” sonlar nechta mavjud?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "4^5",
+                "12",
+                "81",
+                "5^4"
+            ],
+            "correct_index": 2,
+            "index": 67,
+            "question": "4ta talaba imtixon topshirayapti. Agar barcha talabalar imtixondan o'tgan bo'lsa, baholar taqsimotining necha hil usuli mavjud?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "35",
+                "64",
+                "192",
+                "576"
+            ],
+            "correct_index": 3,
+            "index": 68,
+            "question": "3ta yigit va 2ta qiz ishga joylashishi lozim. Shaharda 4ta zavod bo'lib u yerga erkak ishchilar kerak va 3ta fabrika bo'lib u yerga ayol ishchilar kerak. Yigit va qizlar necha xil usulda bu tashkilotlarga taqsimlanishi mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "720",
+                "25",
+                "120",
+                "50"
+            ],
+            "correct_index": 2,
+            "index": 69,
+            "question": "Narsa harid qilish uchun kelgan 5ta do'st do'konda navbat borligini ko'rdi. Do'stlar navbatga necha xil usulda turishi mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "120",
+                "24",
+                "720",
+                "50"
+            ],
+            "correct_index": 2,
+            "index": 70,
+            "question": "Informatsion texnalogiyalar bo'yicha mutaxassis 1 kunda 6ta ma'lum saytga kiradi. Bu saytlarga kirish tartibi ixtiyoriy bo'lsa, necha hil usulda saytlarga tashrif buyurish mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "30!",
+                "30",
+                "215",
+                "15!"
+            ],
+            "correct_index": 3,
+            "index": 71,
+            "question": "Qurilish otryadida 15ta talaba bor. Ularni har biriga 1tadan 15ta har hil vazifa berildi. Bu vazifalarni o'zaro necha hil usulda taqsimlash mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "154",
+                "252",
+                "360",
+                "180"
+            ],
+            "correct_index": 1,
+            "index": 72,
+            "question": "5ta qora va 5ta oq shashka donalarini necha hil usulda bir qatorga joylash mumkin?.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "60",
+                "120",
+                "3!2!",
+                "5!"
+            ],
+            "correct_index": 0,
+            "index": 73,
+            "question": "So'z harflarni ixtiyoriy chekli ketma-ketligi. «Liniya»so'zida harflarni joyini almashtirib nechi xil so'z yozish mumkin.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "24",
+                "12",
+                "20",
+                "50"
+            ],
+            "correct_index": 1,
+            "index": 74,
+            "question": "Matematika bo'yicha konfirensiyada 4 ta student ishtirok etishi kerak: A,B,C,Agar A doklad qilmaguncha B doklad qila olmasa necha xil usul bilan doklad qiluvchilar ro'yxatida ularni joylashtirish mumkin.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "8",
+                "12",
+                "6",
+                "10"
+            ],
+            "correct_index": 3,
+            "index": 75,
+            "question": "Bizga 5 ta son berilgan bo'lsin: 1,2,3,4,5. Shu sonlardan neshta uch xonalik son tuzish mumkin, tuzulgan sonlar qaytarilmasin va har bir son qolganlaridan kamida bittaga farq qilsin.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "6!/3!",
+                "82",
+                "18",
+                "20"
+            ],
+            "correct_index": 3,
+            "index": 76,
+            "question": "Agar oq, ko'k, qizil, yashil, sariq, qora ranglar berilgan bo'lsa, shu ranglardan neshta uch xil rangli bayroqchalar yasash mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "10!/8!",
+                "45",
+                "90",
+                "40"
+            ],
+            "correct_index": 1,
+            "index": 77,
+            "question": "Tekislikda 10 ta to'g'ri chiziq o'tqazilgan, ulardan hech bir ikkitasi parallel emas va hech bir uchtasi bitta nuqtada kesishmaydi. To'g'ri chiziqlar nechta kesishuvchi nuqtaga ega.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "36",
+                "156",
+                "84",
+                "220"
+            ],
+            "correct_index": 3,
+            "index": 78,
+            "question": "Agar har bir qirrani uzunligi 1 dan 10 gacha bo'lgan butun sondan iborat bo'lsa, neshta har xil to'g'ri burchakli parallelepiped qurish mumkin.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "156",
+                "252",
+                "120",
+                "36"
+            ],
+            "correct_index": 1,
+            "index": 79,
+            "question": "5 ta bir xil kubikni tashlashni nechchi xil usuli mavjud?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "88",
+                "27",
+                "91",
+                "120"
+            ],
+            "correct_index": 2,
+            "index": 80,
+            "question": "12 ta predmetni 3 ta xar xil qutiga necha xil usul bilan joylashtirish mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "736",
+                "488",
+                "570",
+                "105"
+            ],
+            "correct_index": 2,
+            "index": 81,
+            "question": "1 dan 1050 gacha bo'lgan sonlar orasida hech bo'lmaganda3; 5 yoki 7 ga sonlardan bittasiga bo'linuvchi nechta natural son mavjud?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "120",
+                "2880",
+                "36",
+                "24"
+            ],
+            "correct_index": 1,
+            "index": 82,
+            "question": "Sanoqli sonlar sanoqli joyda qoladigan qilib, 123456789 sonini nechchi xil usul bilan sonlarni o'rnini almashtitish mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "70",
+                "275",
+                "480",
+                "945"
+            ],
+            "correct_index": 3,
+            "index": 83,
+            "question": "Parallel to'g'ri chiziqlardan birida 10 ta nuqta belgilangan, ikkinchisida esa 7 ta nuqta belgilangan. To'g'ri chiziqni har bir nuqtasi boshqa to'g'ri chiziqni har bir nuqtasi bilan bog'langan. Agar hech bir uchta to'g'ri chiziq bir nuqtada kesishmasa, kesmalarni kesishmasidan hosil bo'lgan nuqtalar sonini toping?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "A va B mulohazalardan faqat va faqat bittasi rost bo`lsa.",
+                "A va B mulohazalar ikkalasi rost bo`lsa.",
+                "A va B mulohazalardan hech bo'lmaganda bittasi rost bo`lsa.",
+                "A va B mulohazalar yolg'on bo`lsa."
+            ],
+            "correct_index": 2,
+            "index": 84,
+            "question": "A va B mulohazalar dizyunksiyasi rost bo'lgan mulohaza deyiladi, faqat va faqat shu holdaki.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A va B mulohazalar ikkalasi rost bo`lsa.",
+                "A va B mulohazalar ikkalasi ham rost yoki yolg'on bo`lsa.",
+                "A va B mulohazalar ham yolg'on bo`lsa.",
+                "A va B mulohazalardan hech bo'lmaganda bittasi rost bo`lsa."
+            ],
+            "correct_index": 0,
+            "index": 85,
+            "question": "A va B mulohazalar konyunksiyasi rost bo'lgan mulohaza deyiladi, faqat va faqat shu holdaki.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A va B mulohazalar ham yolg'on.",
+                "A va B mulohazalar ikkalasi ham rost yoki yolg'on.",
+                "A va B mulohazalardan hech bo'lmaganda bittasi rost.",
+                "A va B mulohazalar rost."
+            ],
+            "correct_index": 1,
+            "index": 86,
+            "question": "A va B mulohazalar ekvivalentligi rost bo'lgan mulohaza deyiladi faqat va faqat shu holda qachon?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "P∧Q",
+                "P∨Q",
+                "P→Q",
+                "P~Q"
+            ],
+            "correct_index": 0,
+            "index": 87,
+            "question": "Faraz qilaylik P mulohaza «Men ТAТU da o'qiyman», Q - «Men diskret matematikani yoqtiraman» bo'lsin. «Men ТAТU da o'qiyman va diskret matematikani yoqtiraman» mulohazani algebraik mantiq tiliga o'giring.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "P→Q",
+                "P∧Q",
+                "P∨Q",
+                "P~Q"
+            ],
+            "correct_index": 0,
+            "index": 88,
+            "question": "Faraz qilaylik P mulohaza «Men ТAТU ga o'qishga kiraman», Q - «Men diskret matematikani o'rganaman» bo'lsin. «Agar men ТAТU ga o'qishga kirsam unda diskret matematikani o'rganaman» mulohazani algebraik mantiq tiliga o'giring.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "¬(A∨B)=¬A∧¬B, ¬(A∧B)=¬A∨¬B",
+                "A∧(B∨A)=A, A∨(B∧A)=A",
+                "¬(¬A)=A",
+                "A∨¬A=1"
+            ],
+            "correct_index": 0,
+            "index": 89,
+            "question": "De-morgan qonuni.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "(A∨B)∨C=A∨(B∨С)",
+                "A∧(B∨A)=A, A∨(B∧A)=A",
+                "A∨A=A, A∧A=A;",
+                "¬(A∨B)=¬A∧¬B, ¬(A∧B)=¬A∨¬B"
+            ],
+            "correct_index": 0,
+            "index": 90,
+            "question": "Dizyunksiyaning assotsiativlik qonuni.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A∨¬A=1",
+                "A∧(B∨A)=A, A∨(B∧A)=A",
+                "A∧B=B∧A",
+                "A∨A=A, A∧A=A"
+            ],
+            "correct_index": 2,
+            "index": 91,
+            "question": "Konyunksiyaning kommutativlik qonuni.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "¬(A∨B)",
+                "AB∨¬(AB)",
+                "A¬B∨¬AB",
+                "¬A∨B"
+            ],
+            "correct_index": 3,
+            "index": 92,
+            "question": "Implikatsiya A→B nimaga teng.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A⊕0",
+                "A ⊕1",
+                "A↓¬A",
+                "¬(A~¬A )"
+            ],
+            "correct_index": 1,
+            "index": 93,
+            "question": "Inkor ¬A nimaga teng.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A∨A=A, A∧A=A",
+                "¬(A∨B)=¬A∧¬B, ¬(A∧B)=¬A∨¬B",
+                "A∧(B∨A)=A, A∨(B∧A)=A",
+                "¬(¬A)=A"
+            ],
+            "correct_index": 2,
+            "index": 94,
+            "question": "Yutilish qonuni.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A∧(B∨A)=A, A∨(B∧A)=A",
+                "¬(¬A)=A",
+                "¬(A∨B)=¬A∧¬B, ¬(A∧B)=¬A∨¬B",
+                "A∨A=A, A∧A=A"
+            ],
+            "correct_index": 1,
+            "index": 95,
+            "question": "Ikkilangan rad etish qonuni.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "¬(A∨B)=¬A∧¬B, ¬(A∧B)=¬A∨¬B",
+                "A∧(B∨A)=A, A∨(B∧A)=A",
+                "A∨A=A, A∧A=A",
+                "¬(¬A)=A"
+            ],
+            "correct_index": 2,
+            "index": 96,
+            "question": "Idempotentlik qonuni:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "(¬A)=A",
+                "A&B≡B&A",
+                "A∨B= B∨A",
+                "A∨A=A"
+            ],
+            "correct_index": 2,
+            "index": 97,
+            "question": "Diz`yunktsiya amalining kommutativlik qonuni.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "α&β≡β&α",
+                "α∨(β∨γ)=(α∨β)∨γ)",
+                "α&(β&γ)≡(α&β)&γ",
+                "α∨β= β∨α"
+            ],
+            "correct_index": 2,
+            "index": 98,
+            "question": "Kon`yunksiya amalining assotsiativlik qonuni",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "α\\/ ⌐ α≡1",
+                "α & ⌐ α≡0",
+                "α&1≡α",
+                "α\\/0≡α"
+            ],
+            "correct_index": 0,
+            "index": 99,
+            "question": "Tavtologiya qonuni:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "α\\/ ⌐ α≡1",
+                "α & ⌐ α≡0",
+                "α&1≡α",
+                "α\\/0≡α"
+            ],
+            "correct_index": 1,
+            "index": 100,
+            "question": "Ziddiyat qonuni:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "α~β≡ α&β \\/ ⌐α&⌐β",
+                "α→β≡ ⌐α\\/β",
+                "α→β≡ ⌐ β → ⌐ α",
+                "α~β≡(α→β)&(β→α)"
+            ],
+            "correct_index": 2,
+            "index": 101,
+            "question": "Kontrpozitsiya qonuni:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "α~β≡ α&β \\/ ⌐α&⌐β",
+                "α~β≡ ⌐ β → ⌐ α",
+                "α~β≡ ⌐α\\/β",
+                "α ~ ⌐ α≡0"
+            ],
+            "correct_index": 0,
+            "index": 102,
+            "question": "Ekvivalentlikdan qutilish qonuni.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "α→β≡ α&β \\/ ⌐α&⌐β",
+                "α→β≡ ⌐ β → ⌐ α",
+                "α→β≡ ⌐α\\/β",
+                "α → ⌐ α≡0"
+            ],
+            "correct_index": 2,
+            "index": 103,
+            "question": "Implikatsiyadan qutilish qonuni:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "x=[0 0 1 1], y=[0 1 0 1], f=[0 0 0 1]",
+                "x=[0 0 1 1], y=[0 1 0 1], f=[1 1 1 1]",
+                "x=[0 0 1 1], y=[0 1 0 1], f=[0 1 0 0]",
+                "x=[0 0 1 1], y=[0 1 0 1], f=[1 0 0 0]"
+            ],
+            "correct_index": 1,
+            "index": 104,
+            "question": "f=x ∧ y → (x ∨ (y ~ x)) formulaga rostlik jadvali qaysi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "x=[0 0 1 1], y=[0 1 0 1], f=[0 0 0 1]",
+                "x=[0 0 1 1], y=[0 1 0 1], f=[0 1 0 0]",
+                "x=[0 0 1 1], y=[0 1 0 1], f=[1 1 1 0]",
+                "x=[0 0 1 1], y=[0 1 0 1], f=[1 0 0 1]"
+            ],
+            "correct_index": 3,
+            "index": 105,
+            "question": "f=(х ∨ у) → (¬х ↓ ¬у) formulaga mos rostlik jadvali qaysi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "x=[0 0 1 1], y=[0 1 0 1], f=[1 1 1 0]",
+                "x=[0 0 1 1], y=[0 1 0 1], f=[0 1 0 0]",
+                "x=[0 0 1 1], y=[0 1 0 1], f=[1 0 0 0]",
+                "x=[0 0 1 1], y=[0 1 0 1], f=[0 0 0 1]"
+            ],
+            "correct_index": 0,
+            "index": 106,
+            "question": "f=(х ∧ у) | (¬х ↓ ¬у) formulaga mos rostlik jadvali qaysi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "P ∨ Q",
+                "1",
+                "¬P∧Q",
+                "¬P"
+            ],
+            "correct_index": 1,
+            "index": 107,
+            "question": "Formulani soddalashtiring ¬(¬P ∨ Q)→((P ∨ Q) → P)",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "¬P",
+                "P ∧ Q",
+                "¬P∧Q",
+                "P ∨ Q"
+            ],
+            "correct_index": 3,
+            "index": 108,
+            "question": "Formulani soddalastiring P∧R∨ ¬((¬P∨R)∧¬Q)",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "А",
+                "1",
+                "¬В",
+                "В"
+            ],
+            "correct_index": 1,
+            "index": 109,
+            "question": "Formulani soddalastiring A→(B →А)",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "xy∨¬x¬yz∨xyz",
+                "(x ∨ z)(y ∨ z",
+                "(¬x∨¬y)(¬x∨z)",
+                "¬x¬z∨¬xy¬z"
+            ],
+            "correct_index": 3,
+            "index": 110,
+            "question": "¬(x∨z)(x→y) formula uchun asosiy tengliklarni ishlatib, keltirilgan formulalardan qaysi biri diz'yunktiv normal shakl bo'ladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "¬x¬z(¬x∨y)",
+                "y∨¬x¬y∨yz",
+                "xy∨¬x¬yz∨xyz",
+                "xy∨¬x¬y∨yz"
+            ],
+            "correct_index": 3,
+            "index": 111,
+            "question": "(x⊕y)→yz formula uchun asosiy tengliklarni ishlatib, keltirilgan formulalardan qaysi biri diz'yunktiv normal shakl bo'ladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "¬x¬z∨¬xyz",
+                "xy∨¬x¬y∨yz",
+                "(¬x∨y)(x∨z)",
+                "(x∨¬y∨z)(¬x∨y∨z)"
+            ],
+            "correct_index": 2,
+            "index": 112,
+            "question": "¬((¬х∨у)→(х↓z)) formula uchun asosiy tengliklarni ishlatib, keltirilgan formulalardan qaysi biri kon'yunktiv normal shakl bo'ladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "xyz∨x¬yz∨¬xy¬z",
+                "¬x¬y¬z∨¬xy¬z∨x¬y¬z",
+                "(x∨y∨z)∧(x∨y∨¬z)",
+                "xyz∨x¬yz∨¬xy¬z∨xy¬z∨xyz"
+            ],
+            "correct_index": 1,
+            "index": 113,
+            "question": "Qiymatlari f=(1,0,1,0,1,0,0,0) bo'lgan f(x,y,z) Bul funksiyasi berilgan. MDNSh ni tuzing.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "xyz∨x¬yz∨¬xy¬z",
+                "¬x¬y¬z∨¬xy¬z∨x¬y¬z",
+                "(¬x∨y∨z)∧(x∨¬y∨z)∧(x∨¬y∨¬z)",
+                "xyz∨x¬yz∨¬xy¬z∨xy¬z∨xyz"
+            ],
+            "correct_index": 2,
+            "index": 114,
+            "question": "Qiymatlari f=(1,1,0,0,0,1,1,1) bo'lgan f(x,y,z) Bul funksiyasi berilgan. MKNSh ni tuzing.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "xyz∨x¬yz∨¬xy¬z∨xy¬z∨¬xyz",
+                "¬x¬y¬z∨¬xy¬z∨x¬y¬z",
+                "xyz∨x¬yz∨¬xy¬z",
+                "(¬x∨y∨z)∧(x∨¬y∨z)∧(x∨¬y∨¬z)"
+            ],
+            "correct_index": 0,
+            "index": 115,
+            "question": "Qiymatlari f=(1,0,1,1,0,1,1,0) bo'lgan f(x,y,z) Bul funksiyasi berilgan. MDNSh ni tuzing.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A&B\\/ ⌐A&B",
+                "⌐A1&A2&A3 \\/ ⌐A1&A2&A3&⌐A4",
+                "A&B\\/ ⌐A&B\\/A&⌐C",
+                "(⌐A1\\/A2\\/A3 )&(A1\\/⌐A2\\/⌐A3)"
+            ],
+            "correct_index": 3,
+            "index": 116,
+            "question": "Kon'yunktiv normal shaklni toping",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A&B\\/ ⌐A&B\\/A&⌐C",
+                "(⌐A1\\/A2\\/A3 )&(A1\\/⌐A2\\/⌐A3)",
+                "(⌐A1\\/A2\\/A3 )&(A1\\/⌐A2)",
+                "(⌐A1\\/A2 )&(A1\\/⌐A2\\/⌐A3)"
+            ],
+            "correct_index": 0,
+            "index": 117,
+            "question": "Diz'yunktiv normal shaklni toping.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A∨¬B",
+                "A&¬B",
+                "A&B",
+                "A ∨ B"
+            ],
+            "correct_index": 3,
+            "index": 118,
+            "question": "¬A&B∨A&¬B∨A&B formulani soddalashtiring",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A∨B",
+                "A&¬B",
+                "A&B",
+                "A"
+            ],
+            "correct_index": 3,
+            "index": 119,
+            "question": "A&B∨A&¬B∨A&B formulani soddalashtiring",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A&¬B",
+                "A∨B",
+                "A&B",
+                "¬A∨B"
+            ],
+            "correct_index": 1,
+            "index": 120,
+            "question": "A&B∨A&¬B∨¬A&B formulani soddalashtiring",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A|B= ¬(A&B)",
+                "A|B= A&¬B",
+                "A|B= ¬(A∨B)",
+                "A|B= ¬A∨B"
+            ],
+            "correct_index": 0,
+            "index": 121,
+            "question": "Sheffer shtrixini toping",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A↓B= ¬A∨B",
+                "A↓B= ¬A&B",
+                "A↓B= ¬(A&B)",
+                "A↓B= ¬(A∨B)"
+            ],
+            "correct_index": 3,
+            "index": 122,
+            "question": "Pirs strelkasini toping",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A⊕B =¬(A&B)",
+                "A⊕B =¬(A∨B)",
+                "A⊕B =¬(A~B)",
+                "A⊕B =¬A∨B"
+            ],
+            "correct_index": 2,
+            "index": 123,
+            "question": "Halqali yig'indini toping",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(3,1),(3,2),(4,1),(4,2)}",
+                "{(1,3),(1,4),(2,3),(2,4)}",
+                "{(1,3),(2,4)}",
+                "{(1,2),(3,4)}"
+            ],
+            "correct_index": 1,
+            "index": 124,
+            "question": "Quydagi to'plamlar berilgan bo'lsin А={1,2} va В={3,4}. Dekart ko'paytma A×B qaysi javobda berilgan?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(2,1),(6,4)}",
+                "{(1,2),(2,5),(4,2)}",
+                "{(1,1),(1,2),(3,6),(5,6)}",
+                "{(2,3),(5,3)}"
+            ],
+            "correct_index": 2,
+            "index": 125,
+            "question": "To'plam А={1,2,3,4,5,6}. A–to'plamdagi x≤y binar munosabatning qism to'plami qaysi javobda ko'rsatilgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(2,3),(5,3)}",
+                "{(1,2),(2,5),(4,6)}",
+                "{(1,1),(1,2),(3,6),(5,6)}",
+                "{(2,1),(4,4)}"
+            ],
+            "correct_index": 0,
+            "index": 126,
+            "question": "А={1,2,3,4,5,6} to'plamdagi «o'zaro tub» binar munosabatning qism to'plami?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(2;2);(2;4);(2;20);(4;20);(4,4)}",
+                "{(2;2);(2;4);(2;7);(2;20)}",
+                "{(2;4);(2;7);(4;20)}",
+                "{(2;2); (2;20);(4;20)}"
+            ],
+            "correct_index": 0,
+            "index": 127,
+            "question": "A = {2;4;7;20} to'plamdagi R={(x,y): x,y∈A,y bo'linadi x va x≤4} binar munosabat nimaga teng",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(a,2),(b,2)}",
+                "{(a,1),(b,2)}",
+                "{(a,2)}",
+                "{(a,1),(b,1),(a,2),(b,2)}"
+            ],
+            "correct_index": 1,
+            "index": 128,
+            "question": "To'plamlarni dekart ko'paytmasida А={a,b} va В={1,2} munosabatlar aniqlangan.Qaysi munosabat suryektivlik funksiyasi f: A→B bo'ladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(1,a),(2,a)}",
+                "{(1,a),(2,c)}",
+                "{(1,b),(2,a),(1,c)}",
+                "{(1,a),(2,b),(1,c),(2,c)}"
+            ],
+            "correct_index": 1,
+            "index": 129,
+            "question": "To'plamlarni dekart ko'paytmasida А={1,2} va В={a,b,c} munosabatlar aniqlangan.Qaysi munosabat inyektivlik funksiyasi f: A→B bo'ladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(1,b),(2,a),(3,c)}",
+                "{(1,a),(2,c)}",
+                "{(1,a),(2,b)}",
+                "{(1,a),(3,c),(2,a),(2,b)}"
+            ],
+            "correct_index": 0,
+            "index": 130,
+            "question": "To'plamlarni dekart ko'paytmasida А={1,2,3} va В={a,b,c} munosabatlar aniqlangan. Qaysimunosabatbiektivlikfunksiyasi f: A→B bo'ladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "а",
+                "b,d",
+                "c,d",
+                "а,c,d"
+            ],
+            "correct_index": 3,
+            "index": 131,
+            "question": "Qaysi xossa а) refleksivlik, b) simmetriklik, c) tranzitivlik, d) antisimmetriklik А={1,2,3,4} to'plamning dekart kvadratida R={(1,1),(1,2),(1,3),(2,2),(3,3),(4,3),(4,4)} munosabatga ega.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "b",
+                "c,d",
+                "b,c",
+                "а"
+            ],
+            "correct_index": 0,
+            "index": 132,
+            "question": "Qaysi xossa а) refleksivlik, b) simmetriklik, c) tranzitivlik, d) antisimmetriklik А={1,2,3,4} to'plamning dekart kvadratida R={(1,2),(1,4),(2,1),(3,4),(4,1),(4,3)} munosabatga ega.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "xRy va yRx kelib chiqsa x=y;",
+                "xRy kelib chiqsa yRx;",
+                "xRx ixtiyoriy x∈A;",
+                "xRy va yRz kelib chiqsa xRz"
+            ],
+            "correct_index": 2,
+            "index": 133,
+            "question": "A-to'plamdagi R – binar munosabat refleksivlik xossasiga ega, agar",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "xRx ixtiyoriy x∈A;",
+                "xRy va yRz kelibchiqsa xRz",
+                "xRy kelib chiqsa yRx;",
+                "xRy va yRx kelibchiqsa x=y;"
+            ],
+            "correct_index": 2,
+            "index": 134,
+            "question": "A-to'plamdagi R – binar munosabat simmetriklik xossasiga ega, agar",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "xRy va yRz kelibchiqsa xRz",
+                "xRx ixtiyoriy x∈A;",
+                "xRy kelibchiqsa yRx;",
+                "xRy va yRx kelib chiqsa x=y;"
+            ],
+            "correct_index": 3,
+            "index": 135,
+            "question": "A-to'plamdagi R – binar munosabat antisimmetriklik xossasiga ega, agar",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "xRx ixtiyoriy x∈A;",
+                "xRy va yRz kelib chiqsa xRz",
+                "xRy kelib chiqsa yRx;",
+                "xRy va yRx kelib chiqsa x=y;"
+            ],
+            "correct_index": 1,
+            "index": 136,
+            "question": "A-to'plamdagi R – binar munosabat tranzitivliylik xossasiga ega, agar",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "а,b,v",
+                "b,g",
+                "а,g,d",
+                "а,b,g"
+            ],
+            "correct_index": 3,
+            "index": 137,
+            "question": "Qaysi xossa а) refleksivlik, b) simmetriklik, v) antisimmetriklik g) tranzitivlik, d) antisimmetriklik ekvivalentlik munosabatiga ega?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "а,g,d",
+                "а,b,g",
+                "b,g",
+                "а,b,v"
+            ],
+            "correct_index": 0,
+            "index": 138,
+            "question": "Qaysi xossa а) refleksivlik, b) simmetriklik, v) antisimmetriklik g) tranzitivlik, d) antisimmetriklik qisman artiblanganlik munosabatiga ega?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ixtiyoriy x va y∈A bajarilsa xRy yoki yRx;",
+                "xRx ixtiyoriy x∈A;",
+                "xRy kelib chiqsa yRx;",
+                "xRy va yRx kelib chiqsa x=y;"
+            ],
+            "correct_index": 0,
+            "index": 139,
+            "question": "Qisman tartiblangan munosabat, chiziqli tartiblangan munosabat deyiladi agar",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "N=3^5=243",
+                "N=5!=120",
+                "N=5*4*3=60",
+                "N=5*5*5=125"
+            ],
+            "correct_index": 3,
+            "index": 140,
+            "question": "A={1,2,3,4,5}.Bu to`plamdan qancha uch honali sonlar tuzish mumkin:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "4",
+                "6",
+                "5",
+                "7"
+            ],
+            "correct_index": 2,
+            "index": 141,
+            "question": "70 ta talabadan so`rov o`tkazilganda 45 tasi ingiliz tilini o`rganmoqda, 29 –fransuz tili, 9 –tasi esa ingliz va fransuz tili bilan shug`ullanadi. Qancha talaba xech qaysi til bilan shug`ullanmaydi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A∩B",
+                "A",
+                "A△B",
+                "A∪B"
+            ],
+            "correct_index": 1,
+            "index": 142,
+            "question": "Ushbu munosabatni soddalashtiring: (A\\B)⋃(A⋂B)",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A∪B",
+                "∅",
+                "A△B",
+                "A∩B"
+            ],
+            "correct_index": 1,
+            "index": 143,
+            "question": "Ushbu munosabatni soddalashtiring: A((A\\B)∪(A∩B))\\A",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "3",
+                "5",
+                "4",
+                "6"
+            ],
+            "correct_index": 3,
+            "index": 144,
+            "question": "Quyidagi dekard munosabat nechta elementdan iborat. A = {1;2;3} и B = {3;4}",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(1,2),(3,4)}",
+                "{(3,1),(3,2),(4,1),(4,2)}",
+                "{(1,3),(2,4)}",
+                "{(1,3),(1,4),(2,3),(2,4)}"
+            ],
+            "correct_index": 3,
+            "index": 145,
+            "question": "А={1,2} va В={3,4}. To`plam berilgan A×B dekard munosabatini toping",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(2,1),(6,4)}",
+                "{(1,2),(2,5),(4,2)}",
+                "{(1,1),(1,2),(3,6),(5,6)}",
+                "{(2,3),(5,3)}"
+            ],
+            "correct_index": 2,
+            "index": 146,
+            "question": "А={1,2,3,4,5,6}. To`plamning x ≤ y shartni qanoatlantiruvchi to`plam osti binar munosabatini toping",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(1,2),(2,5),(4,6)}",
+                "{(2,3),(5,3)}",
+                "{(1,1),(1,2),(3,6),(5,6)}",
+                "{(2,1),(4,4)}"
+            ],
+            "correct_index": 1,
+            "index": 147,
+            "question": "А={1,2,3,4,5,6} to`plamning o`zaro tub bo`lgan to`plam osti binar munosabati ko`rsating.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(2;2);(2;4);(2;20);(4;20);(4,4)}",
+                "{(2;2);(2;4);(2;7);(2;20)}",
+                "{(2;4);(2;7);(4;20)}",
+                "{(2;2); (2;20);(4;20)}"
+            ],
+            "correct_index": 0,
+            "index": 148,
+            "question": "R binar munosabat bo`lib R = {(x,y): x,y∈A,y- x ga bo`linadi va x ≤ 4} bo`lsa A = {2;4;7;20} to`plam quyidagiga teng.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(a,1),(b,2)}",
+                "{(a,2),(b,2)}",
+                "{(a,2)}",
+                "{(a,1),(b,1),(a,2),(b,2)}"
+            ],
+            "correct_index": 0,
+            "index": 149,
+            "question": "А={a,b} va В={1,2} to`plamlarning dekard ko`paytmasi munosabat berilgan. Quyidagi munosabatlardan qaysilari f: A→B ? funksiya uchun sureyktiv bo`ladi:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(1,a),(2,c)}",
+                "{(1,a),(2,a)}",
+                "{(1,b),(2,a),(1,c)}",
+                "{(1,a),(2,b),(1,c),(2,c)}"
+            ],
+            "correct_index": 0,
+            "index": 150,
+            "question": "А={1,2} va В={a,b,c} to`plamlarning dekard ko`paytmasi munosabat berilgan. Quyidagi munosabatlardan qaysilari f: A→B ? funksiya uchun ineyktiv bo`ladi:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "{(1,a),(2,b)}",
+                "{(1,a),(2,c)}",
+                "{(1,b),(2,a),(3,c)}",
+                "{(1,a),(3,c),(2,a),(2,b)}"
+            ],
+            "correct_index": 2,
+            "index": 151,
+            "question": "А={1,2,3} va В={a,b,c} to`plamlarning dekard ko`paytmasi munosabat berilgan. Quyidagi munosabatlardan qaysilari f: A→B ? funksiya uchun bieyktiv bo`ladi:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "а,в,г",
+                "в,г",
+                "а",
+                "а,б,в"
+            ],
+            "correct_index": 0,
+            "index": 152,
+            "question": "А={1,2,3,4} to`plam R={(1,1),(1,2),(1,3),(2,2),(3,3),(4,3),(4,4)} munosabatda quyidagi xossalarga bo`y sinadi: Refleksivlik, б) simmetriklik,в) trazitivlik, г) antisimmetriklik.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "а",
+                "г",
+                "б",
+                "б,в"
+            ],
+            "correct_index": 2,
+            "index": 153,
+            "question": "А={1,2,3,4} to`plam R={(1,2),(1,4),(2,1),(3,4),(4,1),(4,3)} munosabatda quyidagi xossalarga bo`y sinadi:Refleksivlik, б) simmetriklik,в) trazitivlik, г) antisimmetriklik",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "xRy va yRz dan xRz kelb chiqadi",
+                "xRy dan yRx; kelib chiqadi",
+                "xRy va yRx dan x=y; kelb chiqadi",
+                "A to`plamdagi xar qanday x uchun xRx kelb chiqadi"
+            ],
+            "correct_index": 3,
+            "index": 154,
+            "question": "R Binar munosabat А to`plamda refleksivlik xossasiga quyidagilar-ning qaysilarida to`g`rib o`ladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "A to`plamdagi xar qanday x uchun xRx kelb chiqadi",
+                "xRy va yRx dan x=y; kelb chiqadi",
+                "xRy dan yRx; kelb chiqadi",
+                "xRy va yRz dan xRz kelb chiqadi"
+            ],
+            "correct_index": 2,
+            "index": 155,
+            "question": "R Binar munosabat А to`plamda simmetriklik xossasiga quyidagilar-ning qaysilarida to`g`rib o`ladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "xRy va yRz dan xRz kelb chiqadi",
+                "xRy va yRx dan x=y; kelb chiqadi",
+                "A to`plamdagi xar qanday x uchun xRx kelb chiqadi",
+                "xRy dan yRx; kelb chiqadi"
+            ],
+            "correct_index": 1,
+            "index": 156,
+            "question": "R Binar munosabat А to`plamda anisimmetriklik xossasiga quyida-gilarning qaysilarida to`g`rib o`ladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "xRy dan yRx; kelb chiqadi",
+                "xRy va yRx dan x=y; kelb chiqadi",
+                "xRy va yRz dan xRz kelb chiqadi.",
+                "A to`plamdagi xar qanday x uchun xRx kelb chiqadi"
+            ],
+            "correct_index": 2,
+            "index": 157,
+            "question": "R Binar munosabat А to`plamda trazitivlik xossasiga quyidagilarning qaysilarida to`g`rib o`ladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "nuqtalar juftlarni bog'laydigan chiziqlar to'plami;",
+                "ikkita cheksiz to'plam juftligi: nuqtalar to'plami va ba'zi nuqtalar juftlarini bog'laydigan chiziqlar to'plami;",
+                "ikkita cheklangan to'plam juftligi: nuqtalar to'plami va ba'zi nuqtalar juftlarini bog'laydigan chiziqlar to'plami;",
+                "ikkita cheklangan to'plam juftligi: nuqtalar to'plami va chiziqlar to'plami."
+            ],
+            "correct_index": 2,
+            "index": 158,
+            "question": "Graf bu -",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "parallel",
+                "ilmoq",
+                "bog'langan",
+                "insident"
+            ],
+            "correct_index": 3,
+            "index": 159,
+            "question": "Agar grafning qirrasi uning ikkita uchlarini birlashtirsa, u holda bu qirra unga ... deyishadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "xuddi shu uchda insident",
+                "karrali",
+                "parallel",
+                "bog'langan"
+            ],
+            "correct_index": 0,
+            "index": 160,
+            "question": "Agar qirralar tutashgan bo'lsa, ular ... deb nomlanadi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "har bir qirra va har bir uchdan faqat bir marta o'tadi",
+                "har bir uchni faqat bir marta o'z ichiga oladi",
+                "har bir qirrani faqat bir marta o'z ichiga oladi;",
+                "har bir qirra va har bir uchni faqat bir marta o'z ichiga oladi"
+            ],
+            "correct_index": 2,
+            "index": 161,
+            "question": "Eyler sikli …",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "har bir qirra va har bir uchdan faqat bir marta o'tadi",
+                "har bir qirrani faqat bir marta o'z ichiga oladi",
+                "har bir uchni faqat bir marta o'z ichiga oladi",
+                "har bir qirra va har bir uchni faqat bir marta o'z ichiga oladi"
+            ],
+            "correct_index": 2,
+            "index": 162,
+            "question": "Gamilton sikli …",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "toq darajadagi 2 ta uchga",
+                "toq darajadagi 1 ta uchga",
+                "juft darajadagi 2 ta uchga",
+                "juft darajadagi 1 ta uchga"
+            ],
+            "correct_index": 0,
+            "index": 163,
+            "question": "Yarim Eyler graflarida ... ruxsat beriladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "fbecdf",
+                "abecdfa",
+                "abeca",
+                "abcdfca"
+            ],
+            "correct_index": 1,
+            "index": 164,
+            "question": "{a, b, c, d, e, f} uchlar to'plami bo'lgan grafik tsikllaridan qaysi biri Gamilton sikli?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1 ta yoydan",
+                "4 ta yoydan",
+                "7 ta yoydan",
+                "6 ta yoydan"
+            ],
+            "correct_index": 2,
+            "index": 165,
+            "question": "Grafda 7 ta yoy bor. Uning Eyler tsikli ... iborat.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "takrorlanadigan uchlar va qirralar bo'lmagan marshrut",
+                "minimal xarajatli marshrut",
+                "takrorlanadigan uchlar bo'lmagan marshrut",
+                "takrorlanadigan qirralar bo'lmagan marshrut"
+            ],
+            "correct_index": 0,
+            "index": 166,
+            "question": "Oddiy zanjir bu-",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Sikllari bo'lmagan bog'liqli graf",
+                "grafning ostov grafosti",
+                "Sikllari bo'lmagan graf",
+                "bog'liqli graf"
+            ],
+            "correct_index": 0,
+            "index": 167,
+            "question": "Daraxt bu-",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ostov",
+                "bog'lanmagan",
+                "daraxt",
+                "bog'langan"
+            ],
+            "correct_index": 3,
+            "index": 168,
+            "question": "Agar grafikaning istalgan ikkita uchini oddiy zanjir bilan bog'lash mumkin bo'lsa, u holda graf ... deyiladi:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Bog'langan bo'lsa",
+                "Parallel bo'lsa",
+                "Aynan bitta uchta insident bo'lsa",
+                "Bir xil yo'nalishlarga ega bo'lsa"
+            ],
+            "correct_index": 3,
+            "index": 169,
+            "question": "Qirralar karrali deyiladi, agar ular .... .",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Uchning uzoqligi",
+                "Uchning balandligi",
+                "Uchning yarusi",
+                "Uchning qavati"
+            ],
+            "correct_index": 2,
+            "index": 170,
+            "question": "Daraxt uchigacha masofa … deyiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "n ta qirrani",
+                "n+1 ta qirrani",
+                "n-1 ta qirrani",
+                "2n ta qirrani"
+            ],
+            "correct_index": 2,
+            "index": 171,
+            "question": "N uchli grafda ostov quyidagilarni o'z ichiga oladi:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "gipergraf",
+                "zanjir",
+                "multigraf",
+                "to'liq graf"
+            ],
+            "correct_index": 3,
+            "index": 172,
+            "question": "Agar yo'naltirilmagan grafning har bir uchi qolganlari bilan qirralar bilan bog'langan bo'lsa, unda bunday graf ... deyiladi:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "proeksiya",
+                "sikl",
+                "yo'l",
+                "zanjir"
+            ],
+            "correct_index": 2,
+            "index": 173,
+            "question": "G=(V,E) grafda ... deb, uchlar va qirralarning navbatlashuvchi har qanday ketma-ketligiga aytiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "orgraf",
+                "daraxt",
+                "zanjir",
+                "bog'lanish"
+            ],
+            "correct_index": 1,
+            "index": 174,
+            "question": "Daraxtdan chekkadagi uchlaridan birini insident qirra bilan olib tashlangandan so'ng nima hosil bo'ladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "orgraf",
+                "bog'langan ko'prik",
+                "bog'langan graf",
+                "ko'prik"
+            ],
+            "correct_index": 3,
+            "index": 175,
+            "question": "Grafning qirrasi ... deyiladi, agar grafda shu qirra qatnashgan tsikl mavjud bo'lmasa.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Xromatik",
+                "Planar",
+                "Simmetrik",
+                "Karrali"
+            ],
+            "correct_index": 1,
+            "index": 176,
+            "question": "Tekislikka izomorf bo'lgan ixtiyoriy graf ... bo'ladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Daraxtning siklomatik soni nolga teng.",
+                "O'rmonning siklomatik soni har doim musbat bo'ladi.",
+                "O'rmonning siklomatik soni 1 ga teng",
+                "Boshqa graflar uchun siklomatik sonlar manfiy hisoblanadi"
+            ],
+            "correct_index": 0,
+            "index": 177,
+            "question": "To'g'ri tasdiqni tanlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1",
+                "0",
+                "2",
+                "3"
+            ],
+            "correct_index": 1,
+            "index": 178,
+            "question": "Bog'langan G grafasi oddiy tsikl bo'lishi uchun uning har bir uchi quyidagi darajaga teng bo'lishi zarur va etarli:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Geometrik",
+                "Qirralani sanash",
+                "Uchlarni sanash",
+                "Matematik"
+            ],
+            "correct_index": 0,
+            "index": 179,
+            "question": "Grafni berilish usullari:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "bij = 0, agar Vi uch Xj qirraga insident bo'lsa",
+                "bij = 1, agar Vi uch Xj qirraga insident bo'lsa",
+                "bij = -1, agar Vi uch Xj qirraga insident bo'lmasa",
+                "bij = 0, agar Vi uch Xj+1 qirraga insident bo'lmasa"
+            ],
+            "correct_index": 1,
+            "index": 180,
+            "question": "To'g'ri tasdiqni tanlang. Yo'naltirilmagan graf uchun insidentlik matritsasida:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "set",
+                "slot",
+                "ostov",
+                "sep"
+            ],
+            "correct_index": 2,
+            "index": 181,
+            "question": "G grafning barcha uchlarini o'z ichiga olgan va daraxt bo'lgan G bog'langan har qanday grafosti ... deyiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "2",
+                "0",
+                "1",
+                "4"
+            ],
+            "correct_index": 0,
+            "index": 182,
+            "question": "Agar insident uchida ilmoq bo'lsa bu uchning darajasi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "nul",
+                "izolyatsiyalangan",
+                "alohida",
+                "osilgan"
+            ],
+            "correct_index": 1,
+            "index": 183,
+            "question": "Graf uchining darajasi 0 bo'lsa u ... deyiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "izolyatsiyalangan",
+                "osilgan",
+                "ozod",
+                "bog'langan"
+            ],
+            "correct_index": 1,
+            "index": 184,
+            "question": "Graf uchining darajasi 1 bo'lsa u ... deyiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct_index": 1,
+            "index": 185,
+            "question": "Hovlida 4 nafar o'g'il bola yashaydi: Ali, Vali, Soli va Doli. Ularning har biri boshqalaridan hech bo'lmasa birini taniydi, Ali, Vali, Soli taniydiganlari soni turlichDolining tanishi nechta.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "210",
+                "200",
+                "10",
+                "190"
+            ],
+            "correct_index": 3,
+            "index": 186,
+            "question": "O'rmon 10 ta daraxtdan iborat. O'rmonda 200 ta uch bor. Unda qancha qirra bor?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "5",
+                "3",
+                "10",
+                "15"
+            ],
+            "correct_index": 0,
+            "index": 187,
+            "question": "Grafikning har bir qirrasi ko'k yoki yashil rangga shunday bo'yalganki, har qanday uchdan bir xil rangdagi ikkita qirralar chiqmaydi. Yashil qirralardan ko'k qirralar 5 ta ko'p. Ushbu grafda bog'langanlik komponentining eng kichik soni qancha bo'lishi mumkin?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "9",
+                "20",
+                "10",
+                "18"
+            ],
+            "correct_index": 3,
+            "index": 188,
+            "question": "Uchlari darajalari 3, 4, 5, 3, 4, 5, 3, 4, 5 bo'lgan grafda nechta qirralar mavjud?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "9",
+                "16",
+                "36",
+                "18"
+            ],
+            "correct_index": 3,
+            "index": 189,
+            "question": "Qishloqda 9 ta uy bor. Har bir uydan to'rtta yo'lak boshqa to'rtta uyga boradi. Qishloqda nechta yo'lak bor?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "15",
+                "14",
+                "18",
+                "10"
+            ],
+            "correct_index": 1,
+            "index": 190,
+            "question": "15 ta uchli to'liq grafdan nechta minimal sondagi qirrani olib tashlansa u bog'lanmagan graf bo'ladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "210",
+                "200",
+                "180",
+                "190"
+            ],
+            "correct_index": 3,
+            "index": 191,
+            "question": "20 ta uchli to'liq grafa qancha qirra mavjud?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "uchi",
+                "graf qirralari",
+                "graf elementlari",
+                "tekislikda berilgan ikkita qobig'i bir-biri bilan kesishmaydigan grafga"
+            ],
+            "correct_index": 3,
+            "index": 192,
+            "question": "Tekis graf deb…\t?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "elementlari",
+                "qirralari",
+                "grafning hamma cho'qqilari bog'langan bo'lib, bir butun bo'lsa",
+                "uchi"
+            ],
+            "correct_index": 2,
+            "index": 193,
+            "question": "Bog'langan graf deb….. ?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "qirralari umumiy bo'lsa",
+                "agar grafda birorta cho'qqilar bog'lanmagan bo'lsa",
+                "elementlari",
+                "uchlari"
+            ],
+            "correct_index": 1,
+            "index": 194,
+            "question": "Bog'lanmagan graf deb….. ?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "tugunchalar yo'q bo'lsa",
+                "graflarda tugunchalar va parallel qobiqlar bo'lsa",
+                "uchlari",
+                "qirralari"
+            ],
+            "correct_index": 1,
+            "index": 195,
+            "question": "Yo'naltirilmagan aralash graf deb….?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "tugunchalar",
+                "graflarda yo'naltirilgan qobiqlar va tugunchalar bo'lsa",
+                "uchlari",
+                "qirralari"
+            ],
+            "correct_index": 1,
+            "index": 196,
+            "question": "Yo'naltirilgan aralash graf deb….?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "tekis graf",
+                "graflarda",
+                "grafda har bir cho'qqining darajasi bo'lsa",
+                "to'liq graf"
+            ],
+            "correct_index": 2,
+            "index": 197,
+            "question": "Siklli graf deb………?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "yulduzli graf",
+                "simmetrik graf",
+                "grafda cho'qqilarni hammasi bir-biri bilan bog'langan bo'lsa",
+                "gamilton graf"
+            ],
+            "correct_index": 2,
+            "index": 198,
+            "question": "To'liq graf deb……?",
+            "type": "short"
+        }
+    ]
+}

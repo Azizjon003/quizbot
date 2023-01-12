@@ -1,10 +1,15 @@
 const redis = require("../redis/redis");
 const db = require("../database/index");
 const Test = db.test;
-const testEnngine = async (id) => {
+const testEnngine = async (id, name) => {
   // const id = ctx.from.id;
-
-  const test = await Test.findAll({});
+  // console.log(name);
+  const test = await Test.findAll({
+    where: {
+      grooupId: name,
+    },
+  });
+  // console.log("Test", test);
   const testLength = test.length;
   let arr = [];
 
@@ -13,6 +18,7 @@ const testEnngine = async (id) => {
     arr.push(test[randNum]);
   }
   console.log("Uzunligi", arr.length);
+  // console.log(arr);
   return arr;
 };
 module.exports = testEnngine;

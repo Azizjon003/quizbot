@@ -1,0 +1,1000 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "ko’paytirish, ayirish, konkatenasiya",
+                "qo’shish, ayirish, bo’lish, mod, konkatenasiya",
+                "qo’shish, ayirish, butun sonli bo’lish, qoldiqli bo’lish",
+                "ko’paytirish, ayirish, div, konkatenasiya"
+            ],
+            "correct_index": 2,
+            "index": "1",
+            "level": "1",
+            "question": "INT turi uchun qaysi amallar o’rinli?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "qo’shish, ayrish, ko’paytirish, bo’lish",
+                "qo’shish, ayrish, bo’lish, mod",
+                "ko’paytirish, ayrish, konkatenasiya",
+                "qo’shish, ayrish, div, mod"
+            ],
+            "correct_index": 0,
+            "index": "2",
+            "level": "1",
+            "question": "FLOAT  turi uchun qaysi amallar o’rinli",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Standart toifa",
+                "Birlashma",
+                "Matrisa",
+                "Yozuv"
+            ],
+            "correct_index": 3,
+            "index": "3",
+            "level": "1",
+            "question": "STRUCT kalit so’zi yordamida qanday tuzilma yaratiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Fayllarga murojaat",
+                "amallar ketma-ketligi",
+                "Obyektlar majmuasini ifodalash",
+                "To’plam elementlarini ifodalash"
+            ],
+            "correct_index": 1,
+            "index": "4",
+            "level": "1",
+            "question": "Algoritm nima?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "structure",
+                "struct",
+                "record",
+                "object"
+            ],
+            "correct_index": 1,
+            "index": "5",
+            "level": "1",
+            "question": "C++ tilida tuzilmani yaratish uchun ishlatiladigan kalit so’zi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "bu ma’lumot elementlari va ular orasidagi relyasion munosabatlar majmuasi",
+                "bu ma’lumot elementlari majmuasi",
+                "bu elementlar orasidagi munosabatlar amali",
+                "bu ma’lumot elementlari va ular orasidagi munosabatlar majmuasi"
+            ],
+            "correct_index": 3,
+            "index": "6",
+            "level": "1",
+            "question": "Ma’lumotlar tuzilmasi nima",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "-1",
+                "0",
+                "1",
+                "66"
+            ],
+            "correct_index": 2,
+            "index": "7",
+            "level": "1",
+            "question": "Qaysi biri true kalit so’ziga mos qiymatini aniqlaydi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "0",
+                "1",
+                "-1",
+                "66"
+            ],
+            "correct_index": 0,
+            "index": "8",
+            "level": "1",
+            "question": "Qaysi biri false kalit so’ziga mos qiymatini aniqlaydi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Doimo bajariladi",
+                "yolg’on (false)",
+                "rost (true)",
+                "Hech qachon bajarilmaydi"
+            ],
+            "correct_index": 2,
+            "index": "9",
+            "level": "1",
+            "question": "Shartli operator if tanasi qachon bajariladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "positive",
+                "unsigned",
+                "extern",
+                "signed"
+            ],
+            "correct_index": 1,
+            "index": "10",
+            "level": "1",
+            "question": "Qaysi kalit so’z butun sonli o’zgaruvchi faqat musbat qiymatlarni qabul qilishini ko’rsatadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "cout << X;",
+                "cin << X;",
+                "cout >> X;",
+                "cin >> X;"
+            ],
+            "correct_index": 3,
+            "index": "11",
+            "level": "1",
+            "question": "C++ tilida kiritish oqimi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "cin << X;",
+                "cout << X;",
+                "cout >> X;",
+                "cin >> X;"
+            ],
+            "correct_index": 1,
+            "index": "12",
+            "level": "1",
+            "question": "C++ tilida chiqarish oqimi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "tartib raqami dasturchi aniqlaydi",
+                "19",
+                "18",
+                "tartib raqami cheksiz bo’ladi"
+            ],
+            "correct_index": 2,
+            "index": "13",
+            "level": "1",
+            "question": "Massivning oxirgi elemenning tartib raqami nimaga teng bo’ladi, agar massiv o’lchami 19 teng bo’lsa?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "yaratish, o’chirish, tanlash (ruxsat olish), yangilash.",
+                "yaratish, o’chirish, kengaytirish, yangilash.",
+                "yaratish, tanlash (ruxsat olish), kengaytirish, yangilash.",
+                "yaratish, o’chirish, kengaytirish, tanlash (ruxsat olish)."
+            ],
+            "correct_index": 0,
+            "index": "14",
+            "level": "1",
+            "question": "Ma’lumotlar tuzilmasi ustida qanday to’rtta asosiy amal bajariladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_index": 0,
+            "index": "15",
+            "level": "1",
+            "question": "Ma’lumotlarni kompyuter xotirasda akslantirish nechta bosqichdan iborat?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "berilgan talabalar bo’yicha algoritmni ishlab chiqilishi tadqiq qilinadi.",
+                "kompyuter xotirasida ma’lumotlarni aks ettirilishi tadqiq qilinadi.",
+                "konkret obyektning qayta ishlash, ularning xussusiyatlari va munosabatlarini tadqiq qilinadi.",
+                "dasturni yaratish jarayoni tadqiq qilinadi."
+            ],
+            "correct_index": 2,
+            "index": "16",
+            "level": "1",
+            "question": "Ma’lumotlar tuzilmasi mazmunli (matematik) bosqichda ...",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "berilgan talabalar bo’yicha algoritmni ishlab chiqilishi tadqiq qilinadi.",
+                "kompyuter xotirasida ma’lumotlarni aks ettirilishi tadqiq qilinadi.",
+                "konkret obyektning qayta ishlash, ularning xussusiyatlari va munosabatlarini tadqiq qilinadi.",
+                "dasturni yaratish jarayoni tadqiq qilinadi."
+            ],
+            "correct_index": 0,
+            "index": "17",
+            "level": "1",
+            "question": "Ma’lumotlar tuzilmasi mantiqiy bosqichda ...",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "dasturni yaratish jarayoni tadqiq qilinadi.",
+                "konkret obyektning qayta ishlash, ularning xussusiyatlari va munosabatlarini tadqiq qilinadi.",
+                "berilgan talabalar bo’yicha algoritmni ishlab chiqilishi tadqiq qilinadi.",
+                "kompyuter xotirasida ma’lumotlarni aks ettirilishi tadqiq qilinadi."
+            ],
+            "correct_index": 3,
+            "index": "18",
+            "level": "1",
+            "question": "Ma’lumotlar tuzilmasi fizik bosqichda ...",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yozuv",
+                "Massiv",
+                "To’plam",
+                "Jadval"
+            ],
+            "correct_index": 2,
+            "index": "19",
+            "level": "1",
+            "question": "Bir xil tipdagi o’zaro  takrorlanmaydigan elementlardan iborat majmua",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "To’plam",
+                "Yozuv",
+                "Jadval",
+                "Massiv"
+            ],
+            "correct_index": 3,
+            "index": "20",
+            "level": "1",
+            "question": "Bir xil tipdagi elementlar majmuasi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yozuv",
+                "Massiv",
+                "To’plam",
+                "Jadval"
+            ],
+            "correct_index": 0,
+            "index": "21",
+            "level": "1",
+            "question": "Turli tipdagi ma’lumotlardan qanday tuzilma xosil qilinadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Massiv",
+                "Jadval",
+                "Yozuv",
+                "To’plam"
+            ],
+            "correct_index": 1,
+            "index": "22",
+            "level": "1",
+            "question": "Turli tipdagi ma’lumot maydonlardan iborat tartibli  tuzilmasi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "S = {D, R}",
+                "G = {V, E}",
+                "A = {D(1..n)}",
+                "BT = {K, L, R}"
+            ],
+            "correct_index": 0,
+            "index": "23",
+            "level": "1",
+            "question": "Ma’lumotlar tuzilmasini matematik qanday ifodalash mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "mantiqiy, butun, xakikiy, belgili, ko’rsatkichli tur",
+                "massiv, yozuv, rekursiv turlar, to’plam",
+                "jadval, stek, navbat, ruyxat, dek",
+                "daraxtlar, graflar"
+            ],
+            "correct_index": 0,
+            "index": "24",
+            "level": "2",
+            "question": "Oddiy sozlangan ma’lumotlar turlari (atomlar)ga kuyidagilar kiradi:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "mantiqiy, butun, xakikiy, belgili, ko’rsatkichli tur",
+                "jadval, stek, navbat, ruyxat, dek",
+                "daraxtlar, graflar",
+                "massiv, yozuv, rekursiv turlar, to’plam"
+            ],
+            "correct_index": 3,
+            "index": "25",
+            "level": "2",
+            "question": "Sozlangan tuzilmaviy MT (molekulalar) ga kuyidagilar kiradi:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Standart toifa",
+                "Yozuv",
+                "Matrisa",
+                "Birlashma"
+            ],
+            "correct_index": 3,
+            "index": "26",
+            "level": "2",
+            "question": "ENUM kalit so’zi yordamida qanday tuzilma yaratiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "int x;",
+                "int &x;",
+                "int *x;",
+                "int []x;"
+            ],
+            "correct_index": 2,
+            "index": "27",
+            "level": "2",
+            "question": "C++ tilida ko’rsatkichni to’g’ri e’lon qilingan variantni ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "new",
+                "create",
+                "make",
+                "value"
+            ],
+            "correct_index": 0,
+            "index": "28",
+            "level": "2",
+            "question": "Xotirani dinamik ajratish uchun kalit so’zini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "clear",
+                "delete",
+                "free",
+                "cls"
+            ],
+            "correct_index": 1,
+            "index": "29",
+            "level": "2",
+            "question": "Dinamik xotirani bo’shatish uchun kalit so’zini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "mas(6);",
+                "mas[7];",
+                "mas(7);",
+                "mas[6];"
+            ],
+            "correct_index": 3,
+            "index": "30",
+            "level": "2",
+            "question": "<pre>int mas[10];</pre> ko’rinishida massiv e’lon qilinganda, uning yettinchi elementiga murojaat qanday amalga oshiriladi?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "double",
+                "char",
+                "float",
+                "int"
+            ],
+            "correct_index": 3,
+            "index": "31",
+            "level": "2",
+            "question": "<pre>int function(char x1, float x2, double x3)</pre> \nfunksiya qiymatining qaytarish turini ko’rsating",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "float to int",
+                "char to float",
+                "char to int",
+                "int to float"
+            ],
+            "correct_index": 0,
+            "index": "32",
+            "level": "2",
+            "question": "Turlarni keltirishda ma’lumotnng qisman yo’qotish bilan oshiriladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "<=",
+                "!=",
+                "=!",
+                ">="
+            ],
+            "correct_index": 2,
+            "index": "33",
+            "level": "2",
+            "question": "Taqqoslash amalning qaysi biri noto’g’ri berilgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "-",
+                "/",
+                "+",
+                "()"
+            ],
+            "correct_index": 3,
+            "index": "34",
+            "level": "2",
+            "question": "Yuqori prioritetga ega bo’lgan amalni ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "char : a",
+                "to(char, a)",
+                "a (char)",
+                "(char) a"
+            ],
+            "correct_index": 3,
+            "index": "35",
+            "level": "2",
+            "question": "Ma’lumotlarning turlarni keltirishda to’g’ri javobini toping",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "a = #3;",
+                "a = '3';",
+                "a = \"3\";",
+                "a = 3;"
+            ],
+            "correct_index": 2,
+            "index": "36",
+            "level": "2",
+            "question": "char a; o’zgaruvchisi e’lon qilingan. Keltirilgan ifodalarning qaysi biri noto’g’ri?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Bog’lamli va bog’lamsiz",
+                "Statik, yarimstatik va  dinamik",
+                "Chiziqli va chiziqsiz",
+                "Oddiy va murakkab"
+            ],
+            "correct_index": 0,
+            "index": "37",
+            "level": "2",
+            "question": "Ma’lumotlar tuzilmalari bog’lanishiga ko’ra qo’yidagilarga klassifikasiyalanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Bog’lamli va bog’lamsiz",
+                "Chiziqli va chiziqsiz",
+                "Statik, yarimstatik va  dinamik",
+                "Oddiy va murakkab"
+            ],
+            "correct_index": 2,
+            "index": "38",
+            "level": "2",
+            "question": "Ma’lumotlar tuzilmalari vaqt o’zgaruvchanligi yoki dastur bajarilishi jarayoniga ko’ra qo’yidagilarga klassifikasiyalanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Chiziqli va chiziqsiz",
+                "Statik, yarimstatik va  dinamik",
+                "Bog’lamli va bog’lamsiz",
+                "Oddiy va murakkab"
+            ],
+            "correct_index": 0,
+            "index": "39",
+            "level": "2",
+            "question": "Ma’lumotlar tuzilmalari tartibiga ko’ra qo’yidagilarga klassifikasiyalanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "tanlash (ruxsat)",
+                "yo’qotish",
+                "yaratish",
+                "yangilash"
+            ],
+            "correct_index": 2,
+            "index": "40",
+            "level": "2",
+            "question": "Ma’lumotlar tuzilmalari uchun xotira ajratish amali qanday nomlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "tanlash (ruxsat)",
+                "yaratish",
+                "yo’qotish",
+                "yangilash"
+            ],
+            "correct_index": 2,
+            "index": "41",
+            "level": "2",
+            "question": "Ma’lumotlar tuzilmalari uchun ajratilgan xotirani o’chirish amali qanday nomlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "yaratish",
+                "yo’qotish",
+                "yangilash",
+                "tanlash (ruxsat)"
+            ],
+            "correct_index": 2,
+            "index": "42",
+            "level": "2",
+            "question": "Ma’lumotlar tuzilmalari qiymatini o’zgartirish amali qanday nomlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "yo’qotish",
+                "yangilash",
+                "tanlash (ruxsat)",
+                "yaratish"
+            ],
+            "correct_index": 2,
+            "index": "43",
+            "level": "2",
+            "question": "Ma’lumotlar tuzilmalariga ruxsat olish amali qanday nomlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "int A;",
+                "struct{int P1, P2; float P3;} A;",
+                "struct{int P1, P2; float P3;} A[100];",
+                "int A[100];"
+            ],
+            "correct_index": 3,
+            "index": "44",
+            "level": "2",
+            "question": "C++ tilida o’zgaruvchilarni e’lon qilinganlardan qaysi biri massiv tuzilmasini anglatadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "int A[100];",
+                "struct{int P1, P2; float P3;} A;",
+                "struct{int P1, P2; float P3;} A[100];",
+                "int A;"
+            ],
+            "correct_index": 1,
+            "index": "45",
+            "level": "2",
+            "question": "C++ tilida o’zgaruvchilarni e’lon qilinganlardan qaysi biri yozuv tuzilmasini anglatadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "struct{int P1, P2; float P3;} A[100];",
+                "int A[100];",
+                "struct{int P1, P2; float P3;} A;",
+                "int A;"
+            ],
+            "correct_index": 0,
+            "index": "46",
+            "level": "2",
+            "question": "C++ tilida o’zgaruvchilarni e’lon qilinganlardan qaysi biri jadval tuzilmasini anglatadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "3",
+                "1415",
+                "31415",
+                "51413"
+            ],
+            "correct_index": 2,
+            "index": "47",
+            "level": "2",
+            "question": "X=3.1415; xaqiqiy sonning mantissasi nimaga teng bo’ladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yarimstatik ma’lumotlar tuzilmasi",
+                "Dinamik ma’lumotlar tuzilmasi",
+                "Statik ma’lumotlar tuzilmasi",
+                "Rekursiv ma’lumotlar tuzilmasi"
+            ],
+            "correct_index": 2,
+            "index": "48",
+            "level": "2",
+            "question": "Dastur bajarilish jarayonida xotira xajmi bir xil bo’lgan oddiy va asosiy tuzilma to’plamlariga ... deyiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "8",
+                "6",
+                "14",
+                "1"
+            ],
+            "correct_index": 0,
+            "index": "49",
+            "level": "3",
+            "question": "12 & 10 ifodaning bitlar ustidagi amal natijasini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "8",
+                "6",
+                "14",
+                "1"
+            ],
+            "correct_index": 2,
+            "index": "50",
+            "level": "3",
+            "question": "12 | 10 ifodaning bitlar ustidagi amal natijasini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1",
+                "14",
+                "8",
+                "6"
+            ],
+            "correct_index": 3,
+            "index": "51",
+            "level": "3",
+            "question": "12 ^ 10 ifodaning bitlar ustidagi amal natijasini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "0",
+                "3",
+                "21",
+                "1"
+            ],
+            "correct_index": 1,
+            "index": "52",
+            "level": "3",
+            "question": "!12 ifodaning bitlar ustidagi amal natijasini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "13",
+                "-12",
+                "-13",
+                "12"
+            ],
+            "correct_index": 2,
+            "index": "53",
+            "level": "3",
+            "question": "~12  ifodaning bitlar ustidagi amal natijasini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "<pre>delete a;</pre>",
+                "<pre>delete a;</pre>",
+                "<pre>delete []a;</pre>",
+                "<pre>a = NULL;</pre>"
+            ],
+            "correct_index": 2,
+            "index": "54",
+            "level": "3",
+            "question": "<pre>char *a; a = new char[20];</pre> berilgan. Egallab turgan xotirani qanday to’g’ri o’chirish mumkin?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "1",
+                "0",
+                "NaN",
+                "ERROR"
+            ],
+            "correct_index": 0,
+            "index": "55",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang:  !((1 || 0) && 0)",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1",
+                "0",
+                "NaN",
+                "ERROR"
+            ],
+            "correct_index": 1,
+            "index": "56",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang: (!(1 && 1) || 0)",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "0",
+                "53",
+                "35",
+                "40"
+            ],
+            "correct_index": 3,
+            "index": "57",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang:  cout << (5 << 3);",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "35",
+                "53",
+                "0",
+                "40"
+            ],
+            "correct_index": 2,
+            "index": "58",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang:  cout << (5 >> 3);",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "6",
+                "10",
+                "0",
+                "250"
+            ],
+            "correct_index": 0,
+            "index": "59",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang:   1000 / 100 % 7 * 2",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "10",
+                "1000",
+                "0",
+                "250"
+            ],
+            "correct_index": 1,
+            "index": "60",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang:  1000 / (100 % 7) * 2",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "12 13",
+                "13 12",
+                "12 12",
+                "13 13"
+            ],
+            "correct_index": 1,
+            "index": "61",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang:   \n<pre>float X = 12.54;\ncout &amp;lt;&amp;lt; ceil(X) &amp;lt;&amp;lt; \" \" &amp;lt;&amp;lt; floor(X);</pre>",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "6 6 12",
+                "6 6 11",
+                "6 5 11",
+                "5 6 11"
+            ],
+            "correct_index": 1,
+            "index": "62",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang:   <pre>x = y = 5;\nz= ++x + y++;\ncout &amp;lt;&amp;lt; x &amp;lt;&amp;lt; y &amp;lt;&amp;lt; z;</pre>",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "12",
+                "13,2",
+                "1,47",
+                "1"
+            ],
+            "correct_index": 0,
+            "index": "63",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang: cout <<22 / 5 * 3;",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1,47",
+                "12",
+                "13,2",
+                "1"
+            ],
+            "correct_index": 2,
+            "index": "64",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang: cout << 22.0 / 5.0 * 3;",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "dastur kodida PI ni 3.14 ga almashtirish qoidasi",
+                "yangi tur PI kiritadi",
+                "dastur kodida 3 satrni o’chirish",
+                "dastur kodida 3 va  14 satrlarini o’zaro almashtirish"
+            ],
+            "correct_index": 0,
+            "index": "65",
+            "level": "3",
+            "question": "Dastur fragment nimani anglatadi  #define PI 3.14",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "dastur tugatilishini aniqlaydi",
+                "dastur kodida CODni almashtirish qoidasi",
+                "dastur kodida COD so’zlarini o’chirish",
+                "COD yangi tur kiritadi"
+            ],
+            "correct_index": 3,
+            "index": "66",
+            "level": "3",
+            "question": "Dastur fragment nimani anglatadi  Typedef unsigned char COD;",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "compare();",
+                "stringcompare();",
+                "strcmp();",
+                "cmp();"
+            ],
+            "correct_index": 2,
+            "index": "67",
+            "level": "1",
+            "question": "Ikkita satrni o’zaro taqqoslash funksiyasini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "strcat ();",
+                "stringadd ();",
+                "append ();",
+                "insert ();"
+            ],
+            "correct_index": 0,
+            "index": "68",
+            "level": "1",
+            "question": "Birinchi satrning davomida ikkinchi satrni qo’shish funksiyasini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "LILO",
+                "FIFO",
+                "FILO",
+                "LIFO"
+            ],
+            "correct_index": 3,
+            "index": "69",
+            "level": "1",
+            "question": "Stek tuzilmasida qanday hizmat ko’rsatish turi qullaniladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "FIFO",
+                "LIFO",
+                "FILO",
+                "LILO"
+            ],
+            "correct_index": 0,
+            "index": "70",
+            "level": "1",
+            "question": "Navbat tuzilmasida qanday hizmat ko’rsatish turi qullaniladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Top",
+                "Pop",
+                "Push",
+                "Empty"
+            ],
+            "correct_index": 2,
+            "index": "71",
+            "level": "1",
+            "question": "Stekga yangi element qushish funksiyasi qanday belgilanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Pop",
+                "Push",
+                "Top",
+                "Empty"
+            ],
+            "correct_index": 0,
+            "index": "72",
+            "level": "1",
+            "question": "Stekdan yuqori elementini o’chirish funksiyasi qanday belgilanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Push",
+                "Pop",
+                "Top",
+                "Empty"
+            ],
+            "correct_index": 2,
+            "index": "73",
+            "level": "1",
+            "question": "Stekdan yuqori elementini o’qitib olish funksiyasi qanday belgilanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yozuv, Jadval",
+                "Stek, Massiv",
+                "Graf. Vektor",
+                "Stek, Dek, Navbat"
+            ],
+            "correct_index": 3,
+            "index": "74",
+            "level": "2",
+            "question": "Yarimstatik ma’lumotlar tuzilmasiga nimalar kiradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ro’yxat elementlari turli tipda bo’lishi mumkin",
+                "Ular orasida sezilarli farq yo’q",
+                "ro’yxatni uzunligiga chegara belgilanmaydi",
+                "Ro’yxat elementlari butun tipda bo’lishi kerak"
+            ],
+            "correct_index": 2,
+            "index": "75",
+            "level": "2",
+            "question": "Ro’yxatni massivdan ustunligini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Statik ma’lumotlar tuzilmasi",
+                "Yarimstatik ma’lumotlar tuzilmasi",
+                "Dinamik ma’lumotlar tuzilmasi",
+                "Rekursiv ma’lumotlar tuzilmasi"
+            ],
+            "correct_index": 1,
+            "index": "76",
+            "level": "2",
+            "question": "Dastur bajarilish jarayonida xotira xajmi statik belgilanadi va deskriptor-ko’rsatkich orqali foydalanilgan tuzilma to’plamlariga ... deyiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "deque <int> S;",
+                "queue <int> S;",
+                "stack <int> S;",
+                "list<int> S;"
+            ],
+            "correct_index": 2,
+            "index": "77",
+  

@@ -1,0 +1,2604 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "ruxsatsiz bajarishdan himoyalash.",
+                "ruxsatsiz yozishdan himoyalash.",
+                "ruxsatsiz o‘qishdan himoyalash.",
+                "ruxsat etilgan amallarni bajarish."
+            ],
+            "correct_index": 2,
+            "index": "1",
+            "level": "1",
+            "question": "Konfidensiallikni ta’minlash bu - ?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ruxsatsiz o‘qishdan himoyalash.",
+                "ruxsatsiz yozishdan himoyalash.",
+                "ruxsatsiz bajarishdan himoyalash.",
+                "ruxsat etilgan amallarni bajarish."
+            ],
+            "correct_index": 2,
+            "index": "2",
+            "level": "1",
+            "question": "Foydalanuvchanlikni ta’minlash bu - ?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ruxsatsiz bajarishdan himoyalash.",
+                "ruxsatsiz o‘qishdan himoyalash.",
+                "ruxsatsiz yozishdan himoyalash.",
+                "ruxsat etilgan amallarni bajarish."
+            ],
+            "correct_index": 2,
+            "index": "3",
+            "level": "1",
+            "question": "Yaxlitlikni ta’minlash bu - ?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ma’lumotni aniq va ishonchli ekanligini bilish uchun",
+                "kafolatlangan amallarni ta’minlash uchun",
+                "ma’lumot, axborot va tizimdan foydalanish uchun",
+                "bo‘lishi mumkin bo‘lgan xavfni oldini olish uchun"
+            ],
+            "correct_index": 3,
+            "index": "4",
+            "level": "1",
+            "question": "Jumlani to‘ldiring. Hujumchi kabi fikrlash ... kerak.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ma’lumot, axborot va tizimdan foydalanish",
+                "bo‘lishi mumkin bo‘lgan xavfni oldini olish",
+                "kafolatlangan amallarni ta’minlash",
+                "ma’lumotni aniq va ishonchli ekanligini bilish"
+            ],
+            "correct_index": 2,
+            "index": "5",
+            "level": "1",
+            "question": "Jumlani to‘ldiring. Tizimli fikrlash ... uchun kerak.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Manbaga zarar keltiradigan ichki yoki tashqi zaiflik ta’sirida tahdid qilish ehtimoli.",
+                "U yoki bu faoliyat jarayonida nimaga erishishni xoxlashimiz.",
+                "Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa.",
+                "Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa."
+            ],
+            "correct_index": 0,
+            "index": "6",
+            "level": "1",
+            "question": "Axborot xavfsizligida risk bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa.",
+                "Noaniqlikning maqsadlarga ta’siri.",
+                "U yoki bu faoliyat jarayonida nimaga erishishni xohlashimiz.",
+                "Aktivga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa."
+            ],
+            "correct_index": 3,
+            "index": "7",
+            "level": "1",
+            "question": "Axborot xavfsizligida tahdid bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Noaniqlikning maqsadlarga ta’siri.",
+                "Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa.",
+                "Tashkilot yoki foydalanuvchi uchun qadrli bo‘lgan ixtiyoriy narsa.",
+                "U yoki bu faoliyat jarayonida nimaga erishishni xohlashimiz."
+            ],
+            "correct_index": 2,
+            "index": "8",
+            "level": "1",
+            "question": "Axborot xavfsizligida aktiv bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tahdidga sabab bo‘luvchi tashkilot aktivi yoki boshqaruv tizimidagi nuqson.",
+                "Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa.",
+                "Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa.",
+                "Noaniqlikning maqsadlarga ta’siri."
+            ],
+            "correct_index": 0,
+            "index": "9",
+            "level": "1",
+            "question": "Axborot xavfsizligida zaiflik bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Natijasi zaiflik yoki tahdidga ta’sir qiluvchi riskni o‘zgartiradigan harakatlar.",
+                "Bir yoki bir nechta tahdidga sabab bo‘luvchi tashkilot aktivi yoki boshqaruv tizimidagi kamchilik.",
+                "Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa.",
+                "Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa."
+            ],
+            "correct_index": 0,
+            "index": "10",
+            "level": "1",
+            "question": "Axborot xavfsizligida boshqarish vositasi bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "hujum paydo bo‘ladi.",
+                "risk paydo bo‘ladi.",
+                "tahdid paydo bo‘ladi.",
+                "aktiv paydo bo‘ladi."
+            ],
+            "correct_index": 1,
+            "index": "11",
+            "level": "1",
+            "question": "Har qanday vaziyatda biror bir hodisani yuzaga kelish ehtimoli qo‘shilsa ....",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "konfidensiallik",
+                "butunlik",
+                "foydalanuvchanlik",
+                "ishonchlilik"
+            ],
+            "correct_index": 2,
+            "index": "12",
+            "level": "1",
+            "question": "Jumlani to‘ldiring. Denial of service (DOS) hujumi axborotni .... xususiyatini buzushga qaratilgan.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Inson xavfsizligi",
+                "Ma’lumotlar xavfsizligi",
+                "Tizim xavfsizligi",
+                "Tashkilot xavfsizligi"
+            ],
+            "correct_index": 2,
+            "index": "13",
+            "level": "1",
+            "question": "Jumlani to‘ldiring. ... sohasi tashkil etuvchilar xavfsizligi, aloqa xavfsizligi va dasturiy ta’minotlar xavfsizligidan iborat.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Axborotni himoyalash fani va sanati.",
+                "Maxfiy shifrlarni yaratish fani va sanati.",
+                "Maxfiy shifrlarni buzish fani va sanati.",
+                "Maxfiy shifrlarni yaratish va buzish fani va sanati."
+            ],
+            "correct_index": 3,
+            "index": "14",
+            "level": "1",
+            "question": "Kriptologiya so‘ziga berilgan to‘g‘ri tavsifni toping?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Kriptografik kalit",
+                "Ochiq matn",
+                "Alifbo",
+                "Algoritm"
+            ],
+            "correct_index": 0,
+            "index": "15",
+            "level": "1",
+            "question": ".... kriptotizimni shifrlash va deshifrlash uchun sozlashda foydalaniladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Maxfiy shifrlarni buzish fani va sanati.",
+                "Maxfiy shifrlarni yaratish va buzish fani va sanati.",
+                "Maxfiy shifrlarni yaratish fani va sanati.",
+                "Axborotni himoyalash fani va sanati."
+            ],
+            "correct_index": 2,
+            "index": "16",
+            "level": "1",
+            "question": "Kriptografiya so‘ziga berilgan to‘g‘ri tavsifni toping?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Maxfiy shifrlarni yaratish va buzish fani va sanati.",
+                "Maxfiy shifrlarni yaratish fani va sanati.",
+                "Maxfiy shifrlarni buzish fani va sanati.",
+                "Axborotni himoyalash fani va sanati."
+            ],
+            "correct_index": 2,
+            "index": "17",
+            "level": "1",
+            "question": "Kriptotahlil so‘ziga berilgan to‘g‘ri tavsifni toping?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Alifbo",
+                "Ochiq matn",
+                "Shifrmatn",
+                "Kodlash"
+            ],
+            "correct_index": 0,
+            "index": "18",
+            "level": "1",
+            "question": "..... axborotni ifodalash uchun foydalaniladigan chekli sondagi belgilar to‘plami.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "nomalum",
+                "ochiq matn",
+                "shifrmatn",
+                "kod"
+            ],
+            "correct_index": 2,
+            "index": "19",
+            "level": "1",
+            "question": "Ma’lumot shifrlansa, natijasi .... bo‘ladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "kodlash",
+                "ochiq matn",
+                "shifrmatn",
+                "alifbo"
+            ],
+            "correct_index": 2,
+            "index": "20",
+            "level": "1",
+            "question": "Deshifrlash uchun kalit va ..... kerak bo‘ladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ochiq kalitli kriptotizim.",
+                "simmetrik kriptotizim.",
+                "asimetrik kriptotizim.",
+                "xesh funksiyalar."
+            ],
+            "correct_index": 1,
+            "index": "21",
+            "level": "1",
+            "question": "Ma’lumotni shifrlash va deshifrlashda yagona kalitdan foydalanuvchi tizim bu -",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ochiq kalitli kriptotizim.",
+                "simmetrik kriptotizim.",
+                "xesh funksiyalar.",
+                "MAC tizimlari."
+            ],
+            "correct_index": 0,
+            "index": "22",
+            "level": "1",
+            "question": "Ikki kalitli kriptotizim bu -",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "kriptografiya.",
+                "steganografiya.",
+                "kodlash.",
+                "kriptotahlil."
+            ],
+            "correct_index": 1,
+            "index": "23",
+            "level": "1",
+            "question": "Axborotni mavjudligini yashirish bilan shug‘ullanuvchi fan sohasi bu -",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "deshifrlash",
+                "shifrlash",
+                "yashirish",
+                "kodlash"
+            ],
+            "correct_index": 3,
+            "index": "24",
+            "level": "1",
+            "question": "Axborotni foydalanuvchiga qulay tarzda taqdim etish uchun ..... amalga oshiriladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "kodlash",
+                "shifrlash",
+                "dekodlash",
+                "deshifrlash"
+            ],
+            "correct_index": 1,
+            "index": "25",
+            "level": "1",
+            "question": "Jumlani to‘ldiring. Ma’lumotni konfidensialligini ta’minlash uchun ..... zarur.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "kriptografik algoritmdan foydalaniladi.",
+                "steganografik algoritmdan foydalaniladi.",
+                "kodlash algoritmidan foydalaniladi.",
+                "kriptotahlil algoritmidan foydalaniladi."
+            ],
+            "correct_index": 1,
+            "index": "26",
+            "level": "1",
+            "question": "Ma’lumotni mavjudligini yashirishda .....",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "kalitsiz kriptografik",
+                "bir kalitli kriptografik",
+                "ikki kalitli kriptografik",
+                "ko‘p kalitli kriptografik"
+            ],
+            "correct_index": 0,
+            "index": "27",
+            "level": "1",
+            "question": "Xesh funksiyalar - .... funksiya.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "konfidensiallik va foydalanuvchanlikni ta’minlaydi.",
+                "konfidensiallik va butunlikni ta’minlaydi.",
+                "foydalanuvchanlik va butunlikni ta’minlaydi.",
+                "konfidensiallik ta’minlaydi."
+            ],
+            "correct_index": 1,
+            "index": "28",
+            "level": "1",
+            "question": "Jumlani to‘ldiring. Ma’lumotni uzatishda kriptografik himoya .....",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Sezar shifri",
+                "DES, AES shifri",
+                "Kodlar kitobi",
+                "Enigma shifri"
+            ],
+            "correct_index": 1,
+            "index": "29",
+            "level": "1",
+            "question": "Jumlani to‘ldiring. ... kompyuter davriga tegishli shifrlarga misol bo‘la oladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Simmetrik",
+                "Ochiq kalitli",
+                "Asimmetrik",
+                "Klassik davr"
+            ],
+            "correct_index": 0,
+            "index": "30",
+            "level": "1",
+            "question": ".... kriptografik shifrlash algoritmlari blokli va oqimli turlarga ajratiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Blokli",
+                "Oqimli",
+                "Ochiq kalitli",
+                "Asimetrik"
+            ],
+            "correct_index": 1,
+            "index": "31",
+            "level": "2",
+            "question": "Jumlani to‘ldiring. .... shifrlar tasodifiy ketma-ketliklarni generatsiyalashga asoslanadi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "asimmetrik shifrlar",
+                "oqimli shifrlash",
+                "ochiq kalitli shifrlar",
+                "blokli shifrlar"
+            ],
+            "correct_index": 3,
+            "index": "32",
+            "level": "2",
+            "question": "Ochiq matn qismlarini takroriy shifrlovchi algoritmlar bu -",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "oqimli shifr.",
+                "blokli shifr.",
+                "ochiq kalitli shifr.",
+                "asimmetrik shifr"
+            ],
+            "correct_index": 0,
+            "index": "33",
+            "level": "2",
+            "question": "A5/1 shifri bu -",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Kalitlarni esda saqlash murakkabligi.",
+                "Shifrlash jarayonining ko‘p vaqt olishi.",
+                "Kalitni taqsimlash zaruriyati.",
+                "Foydalanuvchilar tomonidan maqbul ko‘rilmasligi."
+            ],
+            "correct_index": 2,
+            "index": "34",
+            "level": "2",
+            "question": "Quyidagi muammolardan qaysi biri simmetrik kriptotizimlarga xos.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Kodlash jadvali.",
+                "Kalit uzunligi.",
+                "Ochiq kalit.",
+                "Blok uzunligi."
+            ],
+            "correct_index": 3,
+            "index": "35",
+            "level": "2",
+            "question": "Quyidagi atamalardan qaysi biri faqat simmetrik blokli shifrlarga xos?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "kombinatsion",
+                "o‘rin almashtirish",
+                "ochiq kalitli",
+                "o‘rniga qo‘yish"
+            ],
+            "correct_index": 3,
+            "index": "36",
+            "level": "2",
+            "question": "Jumlani to‘ldiring. Sezar shifri .... akslantirishga asoslangan.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Algoritm.",
+                "Kalit.",
+                "Shifrmatn.",
+                "Protokol."
+            ],
+            "correct_index": 1,
+            "index": "37",
+            "level": "2",
+            "question": "Kriptotizimning to‘liq xavfsiz bo‘lishi Kerxgofs prinsipiga ko‘ra qaysi kattalikning nomalum bo‘lishiga asoslanadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ochiq kalitli shifrlar.",
+                "simmetrik shifrlar.",
+                "bir kalitli shifrlar",
+                "xesh funksiyalar."
+            ],
+            "correct_index": 0,
+            "index": "38",
+            "level": "2",
+            "question": "Shifrlash va deshifrlashda turli kalitlardan foydalanuvchi shifrlar bu -",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "264",
+                "64!",
+                "642",
+                "263"
+            ],
+            "correct_index": 0,
+            "index": "39",
+            "level": "2",
+            "question": "Agar simmetrik kalitning uzunligi 64 bit bo‘lsa, jami bo‘lishi mumkin bo‘lgan kalitlar soni nechta?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Konfidensiallik.",
+                "Konfidensiallik va butunlik.",
+                "Butunlik va foydalanuvchanlik.",
+                "Foydalanuvchanlik va konfidensiallik."
+            ],
+            "correct_index": 1,
+            "index": "40",
+            "level": "2",
+            "question": "Axborotni qaysi xususiyatlari simmetrik shifrlar yordamida ta’minlanadi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Konfidensiallik, butunlik va foydalanuvchanlik.",
+                "Konfidensiallik.",
+                "Butunlik va foydalanuvchanlik.",
+                "Foydalanuvchanlik va konfidensiallik."
+            ],
+            "correct_index": 1,
+            "index": "41",
+            "level": "2",
+            "question": "Axborotni qaysi xususiyatlari ochiq kalitli shifrlar yordamida ta’minlanadi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Xesh funksiyalar.",
+                "MAC tizimlari.",
+                "Simmetrik shifrlash tizimlari.",
+                "Elektron raqamli imzo tizimi."
+            ],
+            "correct_index": 3,
+            "index": "42",
+            "level": "2",
+            "question": "Quyidagilardan qaysi biri rad etishdan himoyani ta’minlaydi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "DES.",
+                "El-Gamal algoritmi.",
+                "RSA algoritmi.",
+                "TEA."
+            ],
+            "correct_index": 2,
+            "index": "43",
+            "level": "2",
+            "question": "Qaysi ochiq kalitli algoritm katta sonni faktorlash muammosiga asoslanadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ikkita kalitdan foydalanilgani.",
+                "Matematik muammoga asoslanilgani.",
+                "Ochiq kalitni saqlash zaruriyati mavjud emasligi.",
+                "Shaxsiy kalitni saqlash zarurligi."
+            ],
+            "correct_index": 0,
+            "index": "44",
+            "level": "2",
+            "question": "Rad etishdan himoyalashda ochiq kalitli kriptotizimlarning qaysi xususiyati muhim hisoblanadi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Amalga oshirishdagi yuqori tezkorlik.",
+                "Bir tomonlama funksiya bo‘lmasligi kerak.",
+                "Turli kirishlar turli chiqishlarni akslantirishi.",
+                "Kolliziyaga bardoshli bo‘lishi."
+            ],
+            "correct_index": 1,
+            "index": "45",
+            "level": "2",
+            "question": "Quyidagi talablardan qaysi biri xesh funksiyaga tegishli emas.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Axborot konfidensialligini va rad etishdan himoyalash.",
+                "Axborot butunligini va rad etishdan himoyalash.",
+                "Axborot konfidensialligi.",
+                "Axborot butunligi."
+            ],
+            "correct_index": 1,
+            "index": "46",
+            "level": "2",
+            "question": "Quyidagi xususiyatlardan qaysi biri elektron raqamli imzo tomonidan ta’minlanadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Barcha javoblar to‘g‘ri.",
+                "Elektron raqamli imzo tizimlari.",
+                "Ochiq kalitli kriptografik tizimlar.",
+                "MAC (Xabarlarni autentifikatsiya kodlari) tizimlari."
+            ],
+            "correct_index": 3,
+            "index": "47",
+            "level": "2",
+            "question": "Faqat ma’lumotni butunligini ta’minlovchi kriptotizimlarni ko‘rsating.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Autentifikatsiya.",
+                "Identifikatsiya.",
+                "Avtorizatsiya.",
+                "Ro‘yxatga olish."
+            ],
+            "correct_index": 1,
+            "index": "48",
+            "level": "2",
+            "question": "Foydalanuvchini tizimga tanitish jarayoni bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Identifikatsiya.",
+                "Autentifikatsiya.",
+                "Avtorizatsiya.",
+                "Ro‘yxatga olish."
+            ],
+            "correct_index": 1,
+            "index": "49",
+            "level": "2",
+            "question": "Foydalanuvchini haqiqiyligini tekshirish jarayoni bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ro‘yxatga olish.",
+                "Autentifikatsiya.",
+                "Identifikatsiya.",
+                "Avtorizatsiya."
+            ],
+            "correct_index": 3,
+            "index": "50",
+            "level": "2",
+            "question": "Tizim tomonidan foydalanuvchilarga imtiyozlar berish jarayoni bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Qalbakilashtirish mumkinligi.",
+                "Birga olib yurish zaririyati.",
+                "Almashtirib bo‘lmaslik.",
+                "Esda saqlash zaruriyati."
+            ],
+            "correct_index": 3,
+            "index": "51",
+            "level": "2",
+            "question": "Parolga asoslangan autentifikatsiya usulining asosiy kamchiligini ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Token, mashinaning kaliti.",
+                "PIN, Parol.",
+                "Yuz tasviri, barmoq izi.",
+                "Biometrik parametrlar."
+            ],
+            "correct_index": 1,
+            "index": "52",
+            "level": "2",
+            "question": "Biror narsani bilishga asoslangan autentifikatsiya deyilganda quyidagilardan qaysilar tushuniladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Almashtirib bo‘lmaslik.",
+                "Doimo esada saqlash zaruriyati.",
+                "Qalbakilashtirish muammosi mavjudligi.",
+                "Doimo xavfsiz saqlab olib yurish zaruriyati."
+            ],
+            "correct_index": 3,
+            "index": "53",
+            "level": "2",
+            "question": "Tokenga asoslangan autentifikatsiya usulining asosiy kamchiligini ayting?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "biometrik autentifikatsiya.",
+                "parolga asoslangan autentifikatsiya.",
+                "tokenga asoslangan autentifikatsiya.",
+                "ko‘p faktorli autentifikatsiya."
+            ],
+            "correct_index": 0,
+            "index": "54",
+            "level": "2",
+            "question": "Esda saqlashni va olib yurishni talab etmaydigan autentifikatsiya usuli bu -",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ko‘z qorachig‘i.",
+                "Yuz tasviri.",
+                "Barmoq izi.",
+                "Qo‘l shakli."
+            ],
+            "correct_index": 1,
+            "index": "55",
+            "level": "2",
+            "question": "Qaysi biometrik parametr eng yuqori universallik xususiyatiga ega?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yuz tasviri.",
+                "Ko‘z qorachig‘i.",
+                "Barmoq izi.",
+                "Qo‘l shakli."
+            ],
+            "correct_index": 1,
+            "index": "56",
+            "level": "2",
+            "question": "Qaysi biometrik parametr eng yuqori takrorlanmaslik xususiyatiga ega?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ikki tomonlama autentifikatsiya.",
+                "Ikki faktorli autentifikatsiya.",
+                "Ko‘p faktorli autentifikatsiya.",
+                "Biometrik autentifikatsiya."
+            ],
+            "correct_index": 0,
+            "index": "57",
+            "level": "2",
+            "question": "Quyidagilardan qaysi biri har ikkala tomonning haqiqiyligini tekshirish jarayonini ifodalaydi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Parollar lug‘atidan foydalanish asosida hujum, bazadagi parametrni almashtirish hujumi, zararli dasturlardan foydanish asosida hujum.",
+                "Fizik o‘g‘irlash hujumi, yelka orqali qarash hujumi, zararli dasturlardan foydanish asosida hujum.",
+                "Parollar lug‘atidan foydalanish asosida hujum, yelka orqali qarash hujumi, qalbakilashtirish hujumi.",
+                "Parollar lug‘atidan foydalanish asosida hujum, yelka orqali qarash hujumi, zararli dasturlardan foydanish asosida hujum."
+            ],
+            "correct_index": 3,
+            "index": "58",
+            "level": "2",
+            "question": "Parolga asoslangan autentifikatsiya usuliga qaratilgan hujumlarni ko‘rsating?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Parollar lug‘atidan foydalanish asosida hujum, yelka orqali qarash hujumi, zararli dasturlardan foydanish asosida hujum",
+                "Fizik o‘g‘irlash, mobil qurilmalarda zararli dasturlardan foydalanishga asoslangan hujumlar",
+                "Fizik o‘g‘irlash, yelka orqali qarash hujumi, zararli dasturlardan foydalanishga asoslangan hujumlar",
+                "Parollar lug‘atidan foydalanish asosida hujum, bazadagi parametrni almashtirish hujumi, zararli dasturlardan foydalanish asosida hujum"
+            ],
+            "correct_index": 1,
+            "index": "59",
+            "level": "2",
+            "question": "Tokenga asoslangan autentifikatsiya usuliga qaratilgan hujumlarni ko‘rsating?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Bazada saqlanmaydi.",
+                "Shifrlangan ko‘rinishda.",
+                "Ochiq holatda.",
+                "Xeshlangan ko‘rinishda."
+            ],
+            "correct_index": 3,
+            "index": "60",
+            "level": "2",
+            "question": "Foydalanuvchi parollari bazada qanday ko‘rinishda saqlanadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1288",
+                "8128",
+                "128!",
+                "2128"
+            ],
+            "correct_index": 0,
+            "index": "61",
+            "level": "2",
+            "question": "Agar parolning uzunligi 8 ta belgi va har bir o‘rinda 128 ta turlicha belgidan foydalanish mumkin bo‘lsa, bo‘lishi mumkin bo‘lgan jami parollar sonini toping.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Xesh qiymatni tasodifiylik darajasini oshirish.",
+                "Buzg‘unchi topa olmasligi uchun yangi nomalum kiritish.",
+                "Buzg‘unchiga ortiqcha hisoblashni talab etuvchi murakkablikni yaratish.",
+                "Xesh qiymatni qaytmaslik talabini oshirish."
+            ],
+            "correct_index": 2,
+            "index": "62",
+            "level": "2",
+            "question": "Parolni “salt” (tuz) kattaligidan foydalanib xeshlashdan (h(password, salt)) asosiy maqsad nima?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Suv toshishi, namlikni ortib ketishi, bosqinchilik.",
+                "Yong‘in, o‘g‘irlik, qisqa tutashuvlar.",
+                "Yong‘in, suv toshishi, harorat ortishi.",
+                "Bosqinchilik, terrorizm, o‘g‘irlik."
+            ],
+            "correct_index": 2,
+            "index": "63",
+            "level": "2",
+            "question": "Quyidagilardan qaysi biri tabiy tahdidga misol bo‘ladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Texnik nazoratlash.",
+                "Fizik nazoratlash.",
+                "Ma’muriy nazoratlash.",
+                "Apparat nazoratlash."
+            ],
+            "correct_index": 2,
+            "index": "64",
+            "level": "2",
+            "question": "Qaysi nazorat usuli axborotni fizik himoyalashda inson faktorini mujassamlashtirgan?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Mandatli foydalanishni boshqarish.",
+                "Diskretsion foydalanishni boshqarish.",
+                "Rolga asoslangan foydalanishni boshqarish.",
+                "Attributga asoslangan foydalanishni boshqarish."
+            ],
+            "correct_index": 1,
+            "index": "65",
+            "level": "2",
+            "question": "Faqat ob’ektning egasi tomonidan foydalanishga mos bo‘lgan mantiqiy foydalanish usulini ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Mandatli foydalanishni boshqarish.",
+                "Diskretsion foydalanishni boshqarish.",
+                "Rolga asoslangan foydalanishni boshqarish.",
+                "Attributga asoslangan foydalanishni boshqarish."
+            ],
+            "correct_index": 0,
+            "index": "66",
+            "level": "2",
+            "question": "Qaysi usul ob’ektlar va sub’ektlarni klassifikatsiyalashga asoslangan?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Rol.",
+                "Imtiyoz.",
+                "Daraja.",
+                "Imkoniyat."
+            ],
+            "correct_index": 0,
+            "index": "67",
+            "level": "2",
+            "question": "Biror faoliyat turi bilan bog‘liq harakatlar va majburiyatlar to‘plami bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Diskretsion foydalanishni boshqarish.",
+                "Rolga asoslangan foydalanishni boshqarish.",
+                "Mandatli foydalanishni boshqarish.",
+                "Attributga asoslangan foydalanishni boshqarish."
+            ],
+            "correct_index": 3,
+            "index": "68",
+            "level": "2",
+            "question": "Qoida, siyosat, qoida va siyosatni mujassamlashtirgan algoritmlar, majburiyatlar  va maslahatlar kabi tushunchalar qaysi foydalanishni boshqarish usuliga aloqador.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ishonchlilik.",
+                "Butunlik.",
+                "Foydalanuvchanlik.",
+                "Konfidensiallik."
+            ],
+            "correct_index": 3,
+            "index": "69",
+            "level": "2",
+            "question": "Bell-Lapadula modeli axborotni qaysi xususiyatini ta’minlashni maqsad qiladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Foydalanuvchanlik.",
+                "Konfidensiallik.",
+                "Butunlik.",
+                "Maxfiylik."
+            ],
+            "correct_index": 2,
+            "index": "70",
+            "level": "2",
+            "question": "Biba modeli axborotni qaysi xususiyatini ta’minlashni maqsad qiladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Apparat.",
+                "Dasturiy.",
+                "Simmetrik.",
+                "Ochiq kalitli."
+            ],
+            "correct_index": 0,
+            "index": "71",
+            "level": "3",
+            "question": "Qaysi turdagi shifrlash vositasida barcha kriptografik parametrlar kompyuterning ishtirokisiz generatsiya qilinadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Dasturiy.",
+                "Apparat.",
+                "Simmetrik.",
+                "Ochiq kalitli."
+            ],
+            "correct_index": 0,
+            "index": "72",
+            "level": "3",
+            "question": "Qaysi turdagi shifrlash vositasida shifrlash jarayonida boshqa dasturlar kabi kompyuter resursidan foydalanadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ochiq kalitli shifrlar.",
+                "Simmetrik shifrlar.",
+                "Blokli  shifrlar.",
+                "Oqimli shifrlar."
+            ],
+            "correct_index": 0,
+            "index": "73",
+            "level": "3",
+            "question": "Yaratishda biror matematik muammoga asoslanuvchi shifrlash algoritmini ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tezkorlikda xeshlash imkoniyati.",
+                "Cheksiz uzunlikdagi axborotni xeshlay olishi.",
+                "Ikki turli matnlarning xesh qiymatlarini bir xil bo‘lishi.",
+                "Turli matnlar uchun turli xesh qiymatlarni hosil bo‘lishi."
+            ],
+            "correct_index": 2,
+            "index": "74",
+            "level": "3",
+            "question": "Xesh funksiyalarda kolliziya hodisasi bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "63",
+                "63!",
+                "32",
+                "322"
+            ],
+            "correct_index": 0,
+            "index": "75",
+            "level": "3",
+            "question": "64 ta belgidan iborat Sezar shifrlash usilida kalitni bilmasdan turib nechta urinishda ochiq matnni aniqlash mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Imzoni xeshlash va xesh matnni deshifrlash.",
+                "Shifrlash va deshifrlash.",
+                "Imzoni shakllantirish va imkoni tekshirish.",
+                "Imzoni shakllartirish va xeshlash."
+            ],
+            "correct_index": 2,
+            "index": "76",
+            "level": "3",
+            "question": "Elektron raqamli imzo muolajalarini ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Biometrik autentifikatsiya.",
+                "Tokenga asoslangan autentifikatsiya.",
+                "Parolga asoslangan autentifikatsiya.",
+                "Ko‘z qorachig‘iga asoslangan autentifikatsiya."
+            ],
+            "correct_index": 2,
+            "index": "77",
+            "level": "3",
+            "question": "“Yelka orqali qarash” hujumi qaysi turdagi autentifikatsiya usuliga qaratilgan.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ko‘z qorachig‘iga asoslangan autentifikatsiya.",
+                "Tokenga asoslangan autentifikatsiya.",
+                "Biometrik autentifikatsiya.",
+                "Parolga asoslangan autentifikatsiya."
+            ],
+            "correct_index": 3,
+            "index": "78",
+            "level": "3",
+            "question": "Sotsial injineriyaga asoslangan hujumlar qaysi turdagi autentifikatsiya usuliga qaratilgan.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Parolga asoslangan autentifikatsiya.",
+                "Tokenga asoslangan autentifikatsiya.",
+                "Biometrik autentifikatsiya.",
+                "Ko‘z qorachig‘iga asoslangan autentifikatsiya."
+            ],
+            "correct_index": 0,
+            "index": "79",
+            "level": "3",
+            "question": "Yo‘qolgan holatda almashtirish qaysi turdagi autentifikatsiya usuli uchun eng arzon.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Biometrik autentifikatsiya.",
+                "Biror narsani bilishga asoslangan autentifikatsiya.",
+                "Biror narsaga egalik qilishga asoslangan autentifikatsiya.",
+                "Tokenga asoslangan autentifikatsiya"
+            ],
+            "correct_index": 0,
+            "index": "80",
+            "level": "3",
+            "question": "Qalbakilashtirish hujumi qaysi turdagi autentifikatsiya usuliga qaratilgan.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Assimetrik shifrlash usullari, CRC tizimlari.",
+                "Shifrlash usullari.",
+                "Xesh funksiyalar, MAC.",
+                "Shifrlash usullari, CRC tizimlari."
+            ],
+            "correct_index": 2,
+            "index": "81",
+            "level": "3",
+            "question": "Axborotni butunligini ta’minlash usullarini ko‘rsating.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Daraxt, IP, OSI.",
+                "Yulduz, WAN, TCP/IP.",
+                "LAN, GAN, OSI.",
+                "Shina, UDP, FTP."
+            ],
+            "correct_index": 2,
+            "index": "82",
+            "level": "3",
+            "question": "Quyidagilardan qaysi biri to‘liq kompyuter topologiyalarini ifodalamaydi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "6",
+                "4",
+                "7",
+                "5"
+            ],
+            "correct_index": 2,
+            "index": "83",
+            "level": "3",
+            "question": "OSI tarmoq modeli nechta sathdan iborat?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "6",
+                "7",
+                "4",
+                "5"
+            ],
+            "correct_index": 2,
+            "index": "84",
+            "level": "3",
+            "question": "TCP/IP tarmoq modeli nechta sathdan iborat?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "PAN",
+                "LAN",
+                "CAN",
+                "MAN"
+            ],
+            "correct_index": 0,
+            "index": "85",
+            "level": "3",
+            "question": "Hajmi bo‘yicha eng kichik hisoblangan tarmoq turi bu -",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "128",
+                "32",
+                "64",
+                "4"
+            ],
+            "correct_index": 0,
+            "index": "86",
+            "level": "3",
+            "question": "IPv6 protokolida IP manzilni ifodalashda necha bit ajratiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "UDP",
+                "TCP/IP",
+                "OSI",
+                "DNS"
+            ],
+            "correct_index": 3,
+            "index": "87",
+            "level": "3",
+            "question": "IP manzilni domen nomlariga yoki aksincha almashtirishni amalga oshiruvchi xizmat bu-",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Aktiv.",
+                "Zaiflik.",
+                "Hujum.",
+                "Tahdid."
+            ],
+            "correct_index": 3,
+            "index": "88",
+            "level": "3",
+            "question": "Natijasi tashkilotning amallariga va funksional harakatlariga zarar keltiruvchi hodisalarning potensial paydo bo‘lishi bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tahdid.",
+                "Zaiflik.",
+                "Hujum.",
+                "Zararli harakat."
+            ],
+            "correct_index": 2,
+            "index": "89",
+            "level": "3",
+            "question": "Zaiflik orqali AT tizimi xavfsizligini buzish tomon amalga oshirilgan harakat bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Qurilma yoki dasturiy vositani noto‘g‘ri sozlanish.",
+                "Routerlardan foydalanmaslik.",
+                "Tarmoqni xavfsiz bo‘lmagan tarzda va zaif loyihalash.",
+                "Tug‘ma texnologiya zaifligi."
+            ],
+            "correct_index": 1,
+            "index": "90",
+            "level": "3",
+            "question": "Quyidagilardan qaysi biri tarmoq xavfsizligi muammolariga sabab bo‘lmaydi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Huquqiy javobgarlik, tarmoq qurilmalarini fizik buzilishiga olib keladi.",
+                "Axborotni o‘g‘irlanishi, tarmoq qurilmalarini fizik buzilishiga olib keladi.",
+                "Maxfiylikni yo‘qolishi, tarmoq qurilmalarini fizik buzilishiga olib keladi.",
+                "Biznes faoliyatning buzilishi, huquqiy javobgarlikka sababchi bo‘ladi."
+            ],
+            "correct_index": 3,
+            "index": "91",
+            "level": "3",
+            "question": "Tarmoq xavfsizligini buzulishi biznes faoliyatga qanday ta’sir qiladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Foydalanuvchilarga va tashkilotlarda mavjud bo‘lgan biror xizmatni cheklashga urinadi.",
+                "Turli texnologiyalardan foydalangan holda tarmoqqa kirishga harakat qiladi.",
+                "Asosiy hujumlarni oson amalga oshirish uchun tashkilot va tarmoq haqidagi axborotni to‘plashni maqsad qiladi.",
+                "Tizimni fizik buzishni maqsad qiladi."
+            ],
+            "correct_index": 2,
+            "index": "92",
+            "level": "3",
+            "question": "Razvedka hujumlari bu?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Foydalanuvchilarga va tashkilotlarda mavjud bo‘lgan biror xizmatni cheklashga urinadi.",
+                "Asosiy hujumlarni oson amalga oshirish uchun tashkilot va tarmoq haqidagi axborotni to‘plashni maqsad qiladi.",
+                "Turli texnologiyalardan foydalangan holda tarmoqqa kirishga harakat qiladi.",
+                "Tarmoq haqida axborotni to‘plash hujumchilarga mavjud bo‘lgan potensial zaiflikni aniqlashga harakat qiladi."
+            ],
+            "correct_index": 2,
+            "index": "93",
+            "level": "3",
+            "question": "Kirish hujumlari bu?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Tarmoq haqida axborotni to‘plash hujumchilarga mavjud bo‘lgan potensial zaiflikni aniqlashga harakat qiladi.",
+                "Turli texnologiyalardan foydalangan holda tarmoqqa kirishga harakat qiladi.",
+                "Asosiy hujumlarni oson amalga oshirish uchun tashkilot va tarmoq haqidagi axborotni to‘plashni maqsad qiladi.",
+                "Foydalanuvchilarga va tashkilotlarda mavjud bo‘lgan biror xizmatni cheklashga urinadi."
+            ],
+            "correct_index": 3,
+            "index": "94",
+            "level": "3",
+            "question": "Xizmatdan vos kechishga qaratilgan hujumlar bu?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Zararli dasturlar yordamida amalga oshiriladigan hujumlar.",
+                "Kirish hujumlari.",
+                "DOS hujumlari.",
+                "Razvedka hujumlari."
+            ],
+            "correct_index": 3,
+            "index": "95",
+            "level": "3",
+            "question": "Paketlarni snifferlash, portlarni skanerlash va Ping buyrug‘ini yuborish hujumlari qaysi hujumlar toifasiga kiradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Troyan otlari.",
+                "Adware.",
+                "Spyware.",
+                "Backdoors."
+            ],
+            "correct_index": 0,
+            "index": "96",
+            "level": "3",
+            "question": "O‘zini yaxshi va foydali dasturiy vosita sifatida ko‘rsatuvchi zararli dastur turi bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Troyan otlari.",
+                "Adware.",
+                "Spyware.",
+                "Backdoors."
+            ],
+            "correct_index": 1,
+            "index": "97",
+            "level": "3",
+            "question": "Marketing maqsadida yoki reklamani namoyish qilish uchun foydalanuvchini ko‘rish rejimini kuzutib boruvchi zararli dastur turi bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Backdoors.",
+                "Adware.",
+                "Troyan otlari.",
+                "Spyware."
+            ],
+            "correct_index": 0,
+            "index": "98",
+            "level": "3",
+            "question": "Himoya mexanizmini aylanib o‘tib tizimga ruxsatsiz kirish imkonini beruvchi zararli dastur turi bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Transport sathida.",
+                "Tarmoq sathida.",
+                "Ilova sathida.",
+                "Kanal sathida."
+            ],
+            "correct_index": 1,
+            "index": "99",
+            "level": "3",
+            "question": "Paket filterlari turidagi tarmoqlararo ekran vositasi OSI modelining qaysi sathida ishlaydi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Virtual himoyalangan tarmoq.",
+                "Antivirus.",
+                "Tarmoqlararo ekran.",
+                "Router."
+            ],
+            "correct_index": 2,
+            "index": "100",
+            "level": "3",
+            "question": "Tashqi tarmoqdagi foydalanuvchilardan ichki tarmoq resurslarini himoyalash qaysi himoya vositasining vazifasi hisoblanadi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Router.",
+                "Antivirus.",
+                "Virtual himoyalangan tarmoq.",
+                "Tarmoqlararo ekran."
+            ],
+            "correct_index": 3,
+            "index": "101",
+            "level": "1",
+            "question": "Ichki tarmoq foydalanuvchilarini tashqi tarmoqqa bo‘lgan murojaatlarini chegaralash qaysi himoya vositasining vazifasi hisoblanadi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "10000",
+                "00001",
+                "01100",
+                "11111"
+            ],
+            "correct_index": 1,
+            "index": "102",
+            "level": "1",
+            "question": "2 lik sanoq tizimida 11011 soniga 11010 sonini 2 modul bo‘yicha qo‘shing?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "01001",
+                "10101",
+                "11100",
+                "11111"
+            ],
+            "correct_index": 3,
+            "index": "103",
+            "level": "1",
+            "question": "2 lik sanoq tizimida 11011 soniga 00100 sonini 2 modul bo’yicha qo’shing?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "00001",
+                "10000",
+                "01100",
+                "11111"
+            ],
+            "correct_index": 0,
+            "index": "104",
+            "level": "1",
+            "question": "2 lik sanoq tizimida 11011 soniga 11010 sonini 2 modul bo’yicha qo’shing?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Magnitsizlantirish",
+                "Bir necha marta takroran yozish va maxsus dasturlar yordamida saqlagichni tozalash",
+                "Formatlash",
+                "Axborotni saqlagichdan o’chirish"
+            ],
+            "correct_index": 1,
+            "index": "105",
+            "level": "1",
+            "question": "Axborot saqlagich vositalaridan qayta foydalanish xususiyatini saqlab qolgan holda axborotni yo’q qilish usuli qaysi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "shredirlash.",
+                "magnitsizlantirish.",
+                "yanchish.",
+                "formatlash."
+            ],
+            "correct_index": 1,
+            "index": "106",
+            "level": "1",
+            "question": "Elektron ma’lumotlarni yo’q qilishda maxsus qurilma ichida joylashtirilgan saqlagichning xususiyatlari o’zgartiriladigan usul bu ...",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Kimyoviy ishlov berish",
+                "Maydalash",
+                "Ko’mish",
+                "Yoqish"
+            ],
+            "correct_index": 3,
+            "index": "107",
+            "level": "1",
+            "question": "Yo’q qilish usullari orasidan ekologik jihatdan ma’qullanmaydigan va maxsus joy talab qiladigan usul qaysi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Kompyuterlar bilan bog‘liq falsafiy soha bo‘lib, foydalanuvchilarning xatti-harakatlari, kompyuterlar nimaga dasturlashtirilganligi va umuman insonlarga va jamiyatga qanday ta’sir ko‘rsatishini o‘rganadi.",
+                "Kompyuter yoki boshqa qurilmalarga qarshi qilingan yoki kompyuter va boshqa qurilmalar orqali qilingan jinoiy faoliyat.",
+                "Hisoblashga asoslangan bilim sohasi bo‘lib, buzg‘unchilar mavjud bo‘lgan sharoitda amallarni kafolatlash uchun o‘zida texnologiya, inson, axborot va jarayonni mujassamlashtirgan.",
+                "Tizimlarni, tarmoqlarni va dasturlarni raqamli hujumlardan himoyalash amaliyoti."
+            ],
+            "correct_index": 1,
+            "index": "108",
+            "level": "1",
+            "question": "Kiberjinoyatchilik bu - ?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Tizimlarni, tarmoqlarni va dasturlarni raqamli hujumlardan himoyalash amaliyoti.",
+                "Kompyuter yoki boshqa qurilmalarga qarshi qilingan yoki kompyuter va boshqa qurilmalar orqali qilingan jinoiy faoliyat.",
+                "Hisoblashga asoslangan bilim sohasi bo‘lib, buzg‘unchilar mavjud bo‘lgan sharoitda amallarni kafolatlash uchun o‘zida texnologiya, inson, axborot va jarayonni mujassamlashtirgan.",
+                "Kompyuterlar bilan bog‘liq falsafiy soha bo‘lib, foydalanuvchilarning xatti-harakatlari, kompyuterlar nimaga dasturlashtirilganligi va umuman insonlarga va jamiyatga qanday ta’sir ko‘rsatishini o‘rganadi."
+            ],
+            "correct_index": 3,
+            "index": "109",
+            "level": "1",
+            "question": "Kiberetika bu - ?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Simli tarmoqlarni mobil kengaytirish",
+                "Binolar va korxonalar va internet orasida belgilangan simsiz bog‘lanish",
+                "Butun dunyo bo‘yicha internetdan foydalanishda",
+                "Tashqi qurilmalar kabellarining o‘rnida"
+            ],
+            "correct_index": 3,
+            "index": "10",
+            "level": "1",
+            "question": "Shaxsiy simsiz tarmoqlar qo‘llanish sohasini belgilang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Kanal sathidagi VPN; tarmoq sathidagi VPN; seans sathidagi VPN",
+                "Korporativ tarmoq ichidagi VPN; masofadan foydalaniluvchi VPN; korporativ tarmoqlararo VPN",
+                "Marshuritizator ko’rinishidagi VPN; tramoqlararo ekran ko’rinishidagi VPN",
+                "Dasturiy ko’rinishdagi VPN; maxsus shifrlash protsessoriga ega apparat vosita ko’rinishidagi VPN"
+            ],
+            "correct_index": 1,
+            "index": "111",
+            "level": "1",
+            "question": "VPNning texnik yechim arxitekturasiga ko’ra turlari keltirilgan qatorni aniqlang?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Virtual Private Network",
+                "Firewall",
+                "Antivirus",
+                "IDS"
+            ],
+            "correct_index": 0,
+            "index": "112",
+            "level": "1",
+            "question": "Axborotning konfidensialligi va butunligini ta’minlash uchun ikki uzel orasida himoyalangan tunelni quruvchi himoya vositasi bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Amalga oshishida axborot strukturasi va mazmunida hech narsani o‘zgartirmaydigan  tahdidlar",
+                "Hech qachon amalga oshirilmaydigan tahdidlar",
+                "Axborot xavfsizligini buzmaydigan tahdidlar",
+                "Texnik vositalar bilan bog‘liq bo‘lgan tahdidlar"
+            ],
+            "correct_index": 0,
+            "index": "113",
+            "level": "1",
+            "question": "Qanday tahdidlar passiv hisoblanadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ping buyrug‘ini yuborish",
+                "Paketlarni snifferlash",
+                "Portlarni skanerlash",
+                "Ddos"
+            ],
+            "correct_index": 3,
+            "index": "114",
+            "level": "1",
+            "question": "Quyidagi qaysi hujum turi razvedka hujumlari turiga kirmaydi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "DNS izi",
+                "Passiv",
+                "Lug’atga asoslangan",
+                "Aktiv"
+            ],
+            "correct_index": 1,
+            "index": "115",
+            "level": "1",
+            "question": "Trafik orqali axborotni to’plashga harakat qilish razvedka hujumlarining qaysi turida amalga oshiriladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Aktiv",
+                "Passiv",
+                "DNS izi",
+                "Lug’atga asoslangan"
+            ],
+            "correct_index": 0,
+            "index": "116",
+            "level": "1",
+            "question": "Portlarni va operatsion tizimni skanerlash razvedka hujumlarining qaysi turida amalga oshiriladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Xizmatdan voz kechishga undash hujumlari",
+                "Razvedka hujumlari",
+                "Zararli hujumlar",
+                "Kirish hujumlari"
+            ],
+            "correct_index": 1,
+            "index": "117",
+            "level": "1",
+            "question": "Paketlarni snifferlash, portlarni skanerlash, ping buyrug’ini yuborish qanday hujum turiga misol bo’ladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ichki tarmoqqa ulanishga harakat qiluvchi boshqa tarmoq uchun kiruvchi nuqta vazifasini bajaradi",
+                "Xost nomlari va internet nomlarini IP manzillarga o’zgartirish va teskarisini amalga oshiradi",
+                "Tashqi tarmoqqa ulanishga harakat qiluvchi ichki tarmoq uchun chiqish nuqtasi vazifasini bajaradi",
+                "Internet orqali ma’lumotlarni almashinuvchi turli ilovalar uchun tarmoq ulanishlarini sozlash funksiyasini amalga oshiradi"
+            ],
+            "correct_index": 1,
+            "index": "118",
+            "level": "1",
+            "question": "DNS serverlari tarmoqda qanday vazifani amalga oshiradi?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Mesh",
+                "Shina",
+                "Xalqa",
+                "Yulduz"
+            ],
+            "correct_index": 3,
+            "index": "119",
+            "level": "1",
+            "question": "Markaziy xab yoki tugun orqali tarmoqni markazlashgan holda boshqarish qaysi tarmoq topologiyasida amalga oshiriladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "OSI, TCP/IP",
+                "WAN, MAN, LAN",
+                "UDP, TCP/IP, FTP",
+                "Halqa, yulduz, shina, daraxt"
+            ],
+            "correct_index": 1,
+            "index": "120",
+            "level": "1",
+            "question": "Quyidagilardan qaysilari ananaviy tarmoq turi hisoblanadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "OSI, TCP/IP",
+                "UDP, TCP/IP, FTP",
+                "Halqa, yulduz, shina, daraxt",
+                "SMTP, HTTP, UDP"
+            ],
+            "correct_index": 2,
+            "index": "121",
+            "level": "1",
+            "question": "Quyidagilardan qaysilari tarmoq topologiyalari hisoblanadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yetarlicha miqdorda qo’shimcha chiqish yo’llarini mavjudligi",
+                "Minimal darajada yonuvchan materiallardan foydalanish",
+                "Yong’inni aniqlash va bartaraf etish tizimi",
+                "Yong’inga aloqador tizimlarni to’g’ri madadlanganligi"
+            ],
+            "correct_index": 2,
+            "index": "122",
+            "level": "1",
+            "question": "Yong’inga qarshi tizimlarni aktiv chora turiga quyidagilardan qaysilari kiradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yetarli sondagi qo‘shimcha chiqish yo‘llarining mavjudligi",
+                "Binoga istiqomat qiluvchilarni yong‘in sodir bo‘lganda qilinishi zarur bo‘lgan ishlar bilan tanishtirish",
+                "Minimal darajada yonuvchan materiallardan foydalanish, qo‘shimcha etaj va xonalar qurish",
+                "Tutunni aniqlovchilar, alangani aniqlovchilar va issiqlikni aniqlovchilar"
+            ],
+            "correct_index": 3,
+            "index": "123",
+            "level": "1",
+            "question": "Yong‘inga qarshi kurashishning aktiv usuli to‘g‘ri ko‘rsatilgan javobni toping?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Tutun va alangani aniqlovchilar",
+                "Minimal darajada yonuvchan materiallardan foydalanish, qo‘shimcha etaj va xonalar qurish",
+                "O‘t o’chirgich, suv purkash tizimlari",
+                "Tutun va alangani aniqlovchilar va suv purkash tizimlari"
+            ],
+            "correct_index": 1,
+            "index": "124",
+            "level": "1",
+            "question": "Yong‘inga qarshi kurashishning passiv usuliga kiruvchi choralarni to‘g‘ri ko‘rsatilgan javobni toping?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ichki va tashqi",
+                "Tabiy va sun’iy",
+                "Aktiv va passiv",
+                "Bir faktorlik  va ko‘p faktorli"
+            ],
+            "correct_index": 1,
+            "index": "125",
+            "level": "1",
+            "question": "Fizik himoyani buzilishiga olib keluvchi tahdidlar yuzaga kelish shakliga ko‘ra qanday guruhlarga bo‘linadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Toshqinlar, yong’in, zilzila",
+                "Bosqinchilik, terrorizm, o‘g‘irlik",
+                "O’g’irlik, toshqinlar, zilzila",
+                "Terorizim, toshqinlar, zilzila"
+            ],
+            "correct_index": 0,
+            "index": "126",
+            "level": "1",
+            "question": "Quyidagilarnnig qaysi biri tabiiy tahdidlarga misol bo’la oladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Toshqinlar, zilzila, toshqinlar",
+                "Bosqinchilik, terrorizm, o‘g‘irlik",
+                "O’g’irlik, toshqinlar, zilzila",
+                "Terorizim, toshqinlar, zilzila"
+            ],
+            "correct_index": 1,
+            "index": "127",
+            "level": "1",
+            "question": "Quyidagilarnnig qaysi biri sun’iy tahdidlarga misol bo’la oladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ikki xil matn uchun bir xil xesh qiymat chiqishi",
+                "ikki xil matn uchun ikki xil xesh qiymat chiqishi",
+                "bir xil matn uchun bir xil xesh qiymat chiqishi",
+                "bir xil matn uchun ikki xil xesh qiymat chiqishi"
+            ],
+            "correct_index": 0,
+            "index": "128",
+            "level": "1",
+            "question": "Kolliziya hodisasi deb nimaga aytiladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "RC4",
+                "DES",
+                "AES",
+                "A5/1"
+            ],
+            "correct_index": 3,
+            "index": "129",
+            "level": "1",
+            "question": "GSM tarmog‘ida foydanalaniluvchi shifrlash algoritmi nomini ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Kadastr agentligi",
+                "“O‘zstandart” agentligi",
+                "Davlat Soliq Qo‘mitasi",
+                "“UNICON.UZ” DUK"
+            ],
+            "correct_index": 3,
+            "index": "130",
+            "level": "1",
+            "question": "O‘zbekistonda kriptografiya sohasida faoliyat yurituvchi tashkilot nomini ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "2",
+                "1",
+                "3",
+                "4"
+            ],
+            "correct_index": 1,
+            "index": "131",
+            "level": "2",
+            "question": "RC4  shifrlash algoritmi simmetrik turga mansub bo‘lsa, unda nechta kalitdan foydalaniladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "2",
+                "1",
+                "3",
+                "4"
+            ],
+            "correct_index": 1,
+            "index": "132",
+            "level": "2",
+            "question": "A5/1  shifrlash algoritmi simmetrik turga mansub bo‘lsa, unda nechta kalitdan foydalaniladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "4",
+                "2",
+                "3",
+                "1"
+            ],
+            "correct_index": 3,
+            "index": "133",
+            "level": "2",
+            "question": "AES  shifrlash algoritmi simmetrik turga mansub bo‘lsa, unda nechta kalitdan foydalaniladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "3",
+                "2",
+                "1",
+                "4"
+            ],
+            "correct_index": 2,
+            "index": "134",
+            "level": "2",
+            "question": "DES shifrlash algoritmi simmetrik turga mansub bo‘lsa, unda nechta kalitdan foydalaniladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "5",
+                "4",
+                "3",
+                "6"
+            ],
+            "correct_index": 2,
+            "index": "135",
+            "level": "2",
+            "question": "A5/1 oqimli shifrlash algoritmida maxfiy kalit necha registrga bo’linadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "kodlash jadvali",
+                "kalit uzunligi",
+                "ochiq kalit",
+                "blok uzunligi"
+            ],
+            "correct_index": 3,
+            "index": "136",
+            "level": "2",
+            "question": "Faqat simmetrik blokli shifrlarga xos bo‘lgan atamani aniqlang?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ochiq kalitli shifrlar",
+                "blokli shifrlar",
+                "oqimli shifrlar",
+                "assimetrik shifrlar"
+            ],
+            "correct_index": 2,
+            "index": "137",
+            "level": "2",
+            "question": "A5/1 shifri qaysi turga mansub?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ochiq kalitli",
+                "simmetrik",
+                "assimetrik",
+                "klassik"
+            ],
+            "correct_index": 1,
+            "index": "138",
+            "level": "2",
+            "question": ".... shifrlar blokli va oqimli turlarga ajratiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ixtiyoriy olingan har xil xesh qiymat uchun dastlabki ma’lumotlar bir xil bo‘ladi",
+                "ixtiyoriy olingan bir xil matn uchun qiymatlar bir xil bo‘lmaydi",
+                "ixtiyoriy olingan har xil matn uchun xesh qiymatlar bir xil bo‘ladi",
+                "ixtiyoriy olingan har xil matn uchun xesh qiymatlar bir xil bo‘lmaydi"
+            ],
+            "correct_index": 3,
+            "index": "139",
+            "level": "2",
+            "question": "Quyida keltirilgan xususiyatlarning qaysilari xesh funksiyaga mos?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "chiqishda bir xil qiymatni beradi",
+                "chiqishda fiksirlangan uzunlikdagi qiymatni beradi",
+                "chiqishdagi qiymat bilan kiruvchi qiymatlar bir xil bo‘ladi",
+                "kolliziyaga ega"
+            ],
+            "correct_index": 1,
+            "index": "140",
+            "level": "2",
+            "question": "Quyida keltirilgan xususiyatlarning qaysilari xesh funksiyaga mos?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "raqamli imzo",
+                "funksiya",
+                "imzo",
+                "dayjest"
+            ],
+            "correct_index": 3,
+            "index": "141",
+            "level": "2",
+            "question": "Xesh qiymatlarni yana qanday atash mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "256",
+                "512",
+                "192",
+                "64"
+            ],
+            "correct_index": 3,
+            "index": "142",
+            "level": "2",
+            "question": "A5/1 oqimli shifrlash algoritmida dastlabki kalit uzunligi nechi bitga teng?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "radioaloqa tarmoqlarida",
+                "simsiz aloqa vositalaridagi mavjud WEP protokolida",
+                "internet trafiklarini shifrlashda",
+                "mobil aloqa standarti GSM protokolida"
+            ],
+            "correct_index": 3,
+            "index": "143",
+            "level": "2",
+            "question": "A5/1 oqimli shifrlash algoritmi asosan qayerda qo‘llaniladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "4 ta",
+                "3 ta",
+                "2 ta",
+                "kalit ishlatilmaydi"
+            ],
+            "correct_index": 2,
+            "index": "144",
+            "level": "2",
+            "question": "Assimetrik kriptotizimlarda necha kalitdan foydalaniladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "4 ta",
+                "3 ta",
+                "1 ta",
+                "kalit ishlatilmaydi"
+            ],
+            "correct_index": 2,
+            "index": "145",
+            "level": "2",
+            "question": "Simmetrik kriptotizimlarda necha kalitdan foydalaniladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "simmetrik va bir kalitli turlarga",
+                "simmetrik va assimetrik turlarga",
+                "3 kalitli turlarga",
+                "assimetrik va 2  kalitli turlarga"
+            ],
+            "correct_index": 1,
+            "index": "146",
+            "level": "2",
+            "question": "Kriptotizimlar kalitlar soni bo‘yicha qanday turga bo‘linadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "kriptoanaliz va kriptotizim",
+                "kriptografiya va kriptotizim",
+                "kripto va kriptotahlil",
+                "kriptografiya va kriptotahlil"
+            ],
+            "correct_index": 3,
+            "index": "147",
+            "level": "2",
+            "question": "Kriptologiya qanday yo‘nalishlarga bo‘linadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Boshqa komyuterda yozib olingan ma’lumotlarni o‘qishdan oldin har bir saqlagichni antivirus tekshiruvidan o‘tkazish.",
+                "Faqat litsenziyali dasturiy ta’minotdan foydalanish.",
+                "Kompyuterni zamonaviy antivirus dasturiy vositasi bilan ta’minlash va uni doimiy yangilab borish.",
+                "Barcha javoblar to‘g‘ri"
+            ],
+            "correct_index": 3,
+            "index": "148",
+            "level": "2",
+            "question": "Qaysi chora tadbirlar virusdan zararlanish holatini kamaytiradi?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Antivirus vositalarining samarali emasligi.",
+                "Viruslar asosan antivirus ishlab chiqaruvchilar tomonidan yaratilishi.",
+                "Paydo bo‘layotgan zararli dasturiy vositalar sonining ko‘pligi.",
+                "Aksariyat antivirus vositalarining pullik ekanligi."
+            ],
+            "correct_index": 2,
+            "index": "149",
+            "level": "2",
+            "question": "Antivirus dasturiy vositalari zararli dasturlarga qarshi to‘liq himoyani ta’minlay olmasligining asosiy sababini ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Global tarmoq",
+                "Virtual himoyalangan tarmoq",
+                "Tarmoqlararo ekran",
+                "Korxona tarmog‘i"
+            ],
+            "correct_index": 2,
+            "index": "150",
+            "level": "2",
+            "question": "… umumiy tarmoqni ichki va tashqi qismlarga ajratib himoyalash imkonini beradi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "13",
+                "7",
+                "65",
+                "35"
+            ],
+            "correct_index": 1,
+            "index": "151",
+            "level": "2",
+            "question": "RSA algoritmida p=5, q=13,  e=7 ga teng bo‘lsa, shaxsiy kalitni hisoblang?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "O‘rtada turgan odam.",
+                "Qo‘pol kuch.",
+                "Parolga qaratilgan.",
+                "DNS izi."
+            ],
+            "correct_index": 0,
+            "index": "152",
+            "level": "2",
+            "question": "..... hujumida hujumchi o‘rnatilgan aloqaga suqilib kiradi va aloqani bo‘ladi. Nuqtalar o‘rniga mos javobni qo‘ying.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ABAC",
+                "DAC",
+                "RMAC",
+                "MAC"
+            ],
+            "correct_index": 3,
+            "index": "153",
+            "level": "2",
+            "question": "Agar ob’ektning xavfsizlik darajasi sub’ektning xavfsizlik darajasidan kichik yoki teng bo‘lsa, u holda O‘qish uchun ruxsat beriladi. Ushbu qoida qaysi foydalanishni boshqarish usuliga tegishli.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "DES",
+                "A5/1",
+                "ГОСТ",
+                "RSA"
+            ],
+            "correct_index": 1,
+            "index": "154",
+            "level": "2",
+            "question": "GSM tarmog‘ida ovozli so‘zlashuvlarni shifrlash algoritmi bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "5",
+                "35",
+                "23",
+                "7"
+            ],
+            "correct_index": 2,
+            "index": "155",
+            "level": "2",
+            "question": "RSA algoritmida ochiq kalit e=7, N=35 ga teng bo‘lsa, M=2 ga teng ochiq matnni shifrlash natijasini ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "49",
+                "128",
+                "11",
+                "7"
+            ],
+            "correct_index": 1,
+            "index": "156",
+            "level": "2",
+            "question": "RSA algoritmida ochiq kalit e=7, N=143 ga teng bo‘lsa, M=2 ga teng ochiq matnni shifrlash natijasini ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "guruhlar kurashi hisoblanadi.",
+                "rag‘bat hisoblanadi.",
+                "buzg‘unchilik hisoblanadi.",
+                "jinoyat sifatida baholanadi."
+            ],
+            "correct_index": 3,
+            "index": "157",
+            "level": "2",
+            "question": "Jumlani to‘ldiring. Agar axborotning o‘g‘irlanishi moddiy va ma’naviy boyliklarning yo‘qotilishiga olib kelsa.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "himoyani amalga oshirish imkoniyati yo‘qligi.",
+                "tarmoq chetki nuqtalari orasidagi xududning kengligi.",
+                "himoya vositalarining chegaralanganligi.",
+                "tarmoq chetki nuqtalari orasidagi mutlaqo nazoratlamaydigan xudud mavjudigi."
+            ],
+            "correct_index": 3,
+            "index": "158",
+            "level": "2",
+            "question": "Jumlani to‘ldiring. Simli va simsiz tarmoqlar orasidagi asosiy farq ...",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "murakkablikka va tizimni nazariy yondoshuvga asoslangan turlarga bo‘linadi.",
+                "bir kalitli va ikki kalitli turlarga bo‘linadi.",
+                "Feystel tarmog‘iga asoslangan va SP tarmog‘iga asoslangan turlarga bo‘linadi.",
+                "blokli va oqimli turlarga bo‘linadi."
+            ],
+            "correct_index": 3,
+            "index": "159",
+            "level": "2",
+            "question": "Jumlani to‘ldiring. Simmetrik shifrlash algoritmlari ochiq ma’lumotdan foydalanish tartibiga ko‘ra ...",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ishonchli va ishonchsiz tarmoqlar orasida ma’lumotlarga kirishni boshqarish.",
+                "tarmoq hujumlarini aniqlash.",
+                "trafikni taqiqlash.",
+                "tarmoqdagi xabarlar oqimini uzish va ulash."
+            ],
+            "correct_index": 0,
+            "index": "160",
+            "level": "2",
+            "question": "Jumlani to‘ldiring. Tarmoqlararo ekranning vazifasi ...",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Diffi-Xelman",
+                "El-Gamal",
+                "Elliptik egri chiziqga asoslangan shifrlash",
+                "RSA"
+            ],
+            "correct_index": 3,
+            "index": "161",
+            "level": "2",
+            "question": "Faktorlash muammosi asosida yaratilgan assimetrik shifrlash usuli?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "WPA3",
+                "WPA",
+                "WPA2",
+                "WEP"
+            ],
+            "correct_index": 3,
+            "index": "162",
+            "level": "2",
+            "question": "Eng zaif simsiz tarmoq protokolini ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ma’lumotlarni zichlashtirish, siqish.",
+                "Maxfiy xabar mazmunini yashirish.",
+                "Malumotlarni yig‘ish va sotish.",
+                "Ma’lumotlarni uzatish."
+            ],
+            "correct_index": 1,
+            "index": "163",
+            "level": "2",
+            "question": "Axborotni shifrlashdan maqsadi nima?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "6, 10",
+                "10, 8",
+                "18, 6",
+                "9 dan tashqari barcha sonlar"
+            ],
+            "correct_index": 1,
+            "index": "164",
+            "level": "2",
+            "question": "9 soni bilan o‘zaro tub bo‘lgan sonlarni ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "12 dan tashqari barcha sonlar",
+                "14, 26",
+                "144, 4",
+                "11, 13"
+            ],
+            "correct_index": 3,
+            "index": "165",
+            "level": "2",
+            "question": "12 soni bilan o‘zaro tub bo‘lgan sonlarni ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "13 dan tashqari barcha sonlar",
+                "12, 26",
+                "14, 39",
+                "5, 7"
+            ],
+            "correct_index": 3,
+            "index": "166",
+            "level": "2",
+            "question": "13 soni bilan o‘zaro tub bo‘lgan sonlarni ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct_index": 1,
+            "index": "167",
+            "level": "2",
+            "question": "Jumlani to‘ldiring. Autentifikatsiya tizimlari asoslanishiga ko‘ra ... turga bo‘linadi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tarmoqlararo ekran",
+                "Virtual himoyalangan tarmoq",
+                "Global tarmoq",
+                "Korxona tarmog‘i"
+            ],
+            "correct_index": 0,
+            "index": "168",
+            "level": "2",
+            "question": "… umumiy tarmoqni ichki va tashqi qismlarga ajratib himoyalash imkonini beradi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Antivirus vositalarining samarali emasligi.",
+                "Viruslar asosan antivirus ishlab chiqaruvchilar tomonidan yaratilishi.",
+                "Paydo bo‘layotgan zararli dasturiy vositalar sonining ko‘pligi.",
+                "Aksariyat antivirus vositalarining pullik ekanligi."
+            ],
+            "correct_index": 2,
+            "index": "169",
+            "level": "2",
+            "question": "Antivirus dasturiy vositalari zararli dasturlarga qarshi to‘liq himoyani ta’minlay olmasligining asosiy sababini ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Kompyuterni zamonaviy antivirus dasturiy vositasi bilan ta’minlash va uni doimiy yangilab borish.",
+                "Faqat litsenziyali dasturiy ta’minotdan foydalanish.",
+                "Barcha javoblar to‘g‘ri",
+                "Boshqa komyuterda yozib olingan ma’lumotlarni o‘qishdan oldin har bir saqlagichni antivirus tekshiruvidan o‘tkazish."
+            ],
+            "correct_index": 2,
+            "index": "170",
+            "level": "2",
+            "question": "Qaysi chora tadbirlar virusdan zararlanish holatini kamaytiradi?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "O‘zgarishga asoslangan usul",
+                "Signaturaga asoslangan usul",
+                "Anomaliyaga asoslangan usul",
+                "Barcha javoblar to‘g‘ri"
+            ],
+            "correct_index": 1,
+            "index": "171",
+            "level": "3",
+            "question": "Virus aniq bo‘lganda va xususiyatlari aniq ajratilgan holatda eng katta samaradorlikka ega zararli dasturni aniqlash usulini ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Fayldan topilgan bitlar qatori.",
+                "Fayldagi yoki katalogdagi o‘zgarish.",
+                "Normal holatdan tashqari holat.",
+                "Zararli dastur turi."
+            ],
+            "correct_index": 0,
+            "index": "172",
+            "level": "3",
+            "question": "Signatura (antiviruslarga aloqador bo‘lgan)  bu-?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Brandmauer",
+                "VPN",
+                "Tarmoqlararo ekran",
+                "Antivirus"
+            ],
+            "correct_index": 3,
+            "index": "173",
+            "level": "3",
+            "question": "Zararli dasturiy vositalarga qarshi foydalaniluvchi dasturiy vosita bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ma’lumot saqlovchilari, Internetdan yuklab olish va skaner qurilmalari orqali.",
+                "Ma’lumot saqlovchilari, Internetdan yuklab olish va elektron pochta orqali.",
+                "Printer qurilmasi, Internetdan yuklab olish va elektron pochta orqali.",
+                "Barcha javoblar to‘g‘ri."
+            ],
+            "correct_index": 1,
+            "index": "174",
+            "level": "3",
+            "question": "Kompyuter viruslarini tarqalish usullarini ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Rootkits.",
+                "Mantiqiy bombalar.",
+                "Ransomware.",
+                "Spyware."
+            ],
+            "correct_index": 2,
+            "index": "175",
+            "level": "3",
+            "question": "Qurbon kompyuteridagi ma’lumotni shifrlab, uni deshifrlash uchun to‘lovni amalga oshirishni talab qiluvchi zararli dastur bu-?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Virus.",
+                "Backdoors.",
+                "Adware.",
+                "Botnet."
+            ],
+            "correct_index": 3,
+            "index": "176",
+            "level": "3",
+            "question": "Internet tarmog‘idagi obro‘sizlantirilgan kompyuterlar bu-?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Mantiqiy bombalar.",
+                "Backdoors.",
+                "Adware.",
+                "Virus."
+            ],
+            "correct_index": 0,
+            "index": "177",
+            "level": "3",
+            "question": "Biror mantiqiy shartni tekshiruvchi trigger va foydali yuklamadan iborat zararli dastur turi bu-?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Adware.",
+                "Backdoors.",
+                "Virus.",
+                "Troyan otlari."
+            ],
+            "correct_index": 1,
+            "index": "178",
+            "level": "3",
+            "question": "Buzg‘unchiga xavfsizlik tizimini aylanib o‘tib tizimga kirish imkonini beruvchi zararli dastur turi bu-?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ma’lumotni o‘chirish Delete buyrug‘i bilan amalga oshirilgan bo‘lsa.",
+                "Saqlagichda ma’lumot qayta yozilmagan bo‘lsa.",
+                "Ma’lumotni o‘chirish Shifr+Delete buyrug‘i bilan amalga oshirilgan bo‘lsa.",
+                "Formatlash asosida ma’lumot o‘chirilgan bo‘lsa."
+            ],
+            "correct_index": 1,
+            "index": "179",
+            "level": "3",
+            "question": "Ma’lumotni to‘liq qayta tiklash qachon samarali amalga oshiriladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tahdidchi uchun nishon ko‘payadi.",
+                "Saqlanuvchi ma’lumot hajmi ortadi.",
+                "Ma’lumotni butunligi ta’minlanadi.",
+                "Ma’lumot yo‘qolgan taqdirda ham tiklash imkoniyati mavjud bo‘ladi."
+            ],
+            "correct_index": 0,
+            "index": "180",
+            "level": "3",
+            "question": "Ma’lumotni zaxira nusxalash nima uchun potensial tahdidlarni paydo bo‘lish ehtimolini oshiradi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Serverlarda foydalanish mumkin.",
+                "Shaxsiy kompyuterda foydalanish mumkin.",
+                "Xatoliklarni nazoratlash mumkin.",
+                "Disklarni “qaynoq almashtirish” mumkin."
+            ],
+            "correct_index": 1,
+            "index": "181",
+            "level": "3",
+            "question": "Qaysi xususiyatlar RAID texnologiyasiga xos emas?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Lentali disklar.",
+                "Ko‘chma qattiq disklar.",
+                "USB disklar.",
+                "CD/DVD disklar."
+            ],
+            "correct_index": 0,
+            "index": "182",
+            "level": "3",
+            "question": "Qaysi zaxira nusxalash vositasi oddiy kompyuterlarda foydalanish uchun qo‘shimcha apparat va dasturiy vositani talab qiladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Mos zaxira nusxalash vositasini tanlashdan.",
+                "Zarur axborotni tanlashdan.",
+                "Mos zaxira nusxalash usulini tanlashdan.",
+                "Mos RAID sathini tanlashdan."
+            ],
+            "correct_index": 1,
+            "index": "183",
+            "level": "3",
+            "question": "Ma’lumotlarni zaxira nusxalash strategiyasi nimadan boshlanadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Kriptografik himoya",
+                "Ma’lumotlarni zaxira nusxalash",
+                "VPN",
+                "Tarmoqlararo ekran"
+            ],
+            "correct_index": 1,
+            "index": "184",
+            "level": "3",
+            "question": "Jumlani to‘ldiring. .... -  muhim bo‘lgan axborot nusxalash yoki saqlash jarayoni bo‘lib, bu ma’lumot yo‘qolgan vaqtda qayta tiklash imkoniyatini beradi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ilova sathi parametrlari asosida.",
+                "Kanal sathi parametrlari asosida.",
+                "Tarmoq sathi parametrlari asosida.",
+                "Taqdimot sathi parametrlari asosida."
+            ],
+            "correct_index": 2,
+            "index": "185",
+            "level": "3",
+            "question": "Paket filteri turidagi tarmoqlararo ekran vositasi nima asosida tekshirishni amalga oshiradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "WI-FI",
+                "WI-MAX",
+                "GSM",
+                "Bluetooth"
+            ],
+            "correct_index": 0,
+            "index": "186",
+            "level": "3",
+            "question": "Jumlani to‘ldiring. ... texnologiyasi lokal simsiz tarmoqlarga tegishli.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Maxfiylik",
+                "Butunlik",
+                "Foydalanuvchanlik",
+                "Autentifikatsiya"
+            ],
+            "correct_index": 2,
+            "index": "187",
+            "level": "3",
+            "question": "Jumlani to‘ldiring. Kriptografik himoya axborotning ... xususiyatini ta’minlamaydi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "belgilari bilan",
+                "uzunligi bilan",
+                "tasodifiylik darajasi bilan",
+                "samaradorligi bilan"
+            ],
+            "correct_index": 2,
+            "index": "188",
+            "level": "3",
+            "question": "Jumlani to‘ldiring. Parol kalitdan .... farq qiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Murakkab parol hosil qilish.",
+                "Tahdidchi ishini oshirish.",
+                "Murakkab xesh qiymat hosil qilish.",
+                "Ya’na bir maxfiy parametr kiritish."
+            ],
+            "correct_index": 1,
+            "index": "189",
+            "level": "3",
+            "question": "Parolga “tuz”ni qo‘shib xeshlashdan maqsad?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Modifikatsiyalash tahdidlari.",
+                "Nusxalash tahdidlari.",
+                "DDOS tahdidlar.",
+                "O‘rtaga turgan odam tahdidi."
+            ],
+            "correct_index": 2,
+            "index": "190",
+            "level": "3",
+            "question": "Axborotni foydalanuvchanligini buzishga qaratilgan tahdidlar bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Zararkunanda dasturlar.",
+                "Axborotdan ruxsatsiz foydalanish.",
+                "Texnik vositalarning buzilishi va ishlamasligi.",
+                "An’anaviy josuslik va diversiya."
+            ],
+            "correct_index": 2,
+            "index": "191",
+            "level": "3",
+            "question": "Tasodifiy tahdidlarni ko‘rsating?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Router.",
+                "Virtual  Private Network.",
+                "Antivirus.",
+                "Tarmoqlararo ekran."
+            ],
+            "correct_index": 3,
+            "index": "192",
+            "level": "3",
+            "question": "Xodimlarga faqat ruxsat etilgan saytlardan foydalanishga imkon beruvchi himoya vositasi bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Router.",
+                "Tarmoqlararo ekran.",
+                "Antivirus.",
+                "Virtual  Private Network."
+            ],
+            "correct_index": 3,
+            "index": "193",
+            "level": "3",
+            "question": "Qaysi himoya vositasi yetkazilgan axborotning butunligini tekshiradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Router.",
+                "Tarmoqlararo ekran.",
+                "Antivirus.",
+                "Virtual  Private Network."
+            ],
+            "correct_index": 3,
+            "index": "194",
+            "level": "3",
+            "question": "Qaysi himoya vositasi tomonlarni autentifikatsiyalash imkoniyatini beradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Antivirus.",
+                "Virtual  Private Network.",
+                "Tarmoqlararo ekran.",
+                "Router."
+            ],
+            "correct_index": 2,
+            "index": "195",
+            "level": "3",
+            "question": "Foydalanuvchi tomonidan kiritilgan taqiqlangan so‘rovni qaysi himoya vositasi yordamida nazoratlash mumkin.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Virtual  Private Network.",
+                "Tarmoqlararo ekran.",
+                "Antivirus.",
+                "Router."
+            ],
+            "correct_index": 0,
+            "index": "196",
+            "level": "3",
+            "question": "Qaysi himoya vositasi mavjud IP - paketni to‘liq shifrlab, unga yangi IP sarlavha beradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Virtual  Private Network.",
+                "Tapmoklapapo ekran.",
+                "Antivirus.",
+                "Router."
+            ],
+            "correct_index": 0,
+            "index": "197",
+            "level": "3",
+            "question": "Ochiq tarmoq yordamida himoyalangan tarmoqni qurish imkoniyatiga ega himoya vositasi bu?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Antivirus.",
+                "Tarmoqlararo ekran.",
+                "Virtual  Private Network.",
+                "Router."
+            ],
+            "correct_index": 2,
+            "index": "198",
+            "level": "3",
+            "question": "Qaysi himoya vositasida mavjud paket shifrlangan holda yangi hosil qilingan mantiqiy paket ichiga kiritiladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tarmoqlararo ekran.",
+                "Virtual  Private Network.",
+                "Antivirus.",
+                "Router."
+            ],
+            "correct_index": 1,
+            "index": "199",
+            "level": "3",
+            "question": "Qaysi himoya vositasi tarmoqda uzatilayotgan axborotni butunligi, maxfiyligi va tomonlar autentifikatsiyasini ta’minlaydi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Router.",
+                "Antivirus.",
+                "Virtual himoyalangan tarmoq.",
+                "Tarmoqlararo ekran."
+            ],
+            "correct_index": 3,
+            "index": "200",
+            "level": "3",
+            "question": "Qaysi tarmoq himoya vositasi tarmoq manzili, identifikatorlar, interfeys manzili, port nomeri va boshqa parametrlar yordamida filtrlashni amalga oshiradi.",
+            "type": "short"
+        }
+    ]
+}
